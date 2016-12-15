@@ -1,0 +1,261 @@
+1	[Player] is asking about the team's goal of this season. What should you tell [him/her]?
+2	[Player] is asking about my ideal type of person. Should be careful about answering this...
+3	[Player] seems to be thinking that the team has already become the best in the universe. [He/She] seems a bit too carried away. What should you do?
+4	[Player] is arrogantly looking down at the other team. Let's stop [him/her] from causing any problems.
+5	Does one have to make intentional fouls in order to win? Let's give [him/her] some advice.
+6	[Player] is having trouble deciding a name for [his/her] special move. [His/Her] options are ''Infinity Illusion Shot'', ''11th Dimension Ultra Gravity Shot'', ''Astral Space Shot'', and a few more.
+7	[Player] is all alone in the locker room worrying about the fate of the universe. Let's go talk to [him/her].
+8	[Player] is making a scene. [He/She]'d rather jump into space than to be eaten alive by vicious aliens.
+9	[Player] is blaming the team for their pass mistakes and is questioning their soccer skills.
+10	[Player] is complaining that it's boring to play only soccer every day. What should we say to [him/her]?
+11	It's before the 2nd half, and [Player] is complaining that we're up against an opponent that's too strong.
+12	You forgot to lock [Player] and almost used [him/her] as training material! [He/She] looks very upset!
+13	[Player] is confused that [he/she] won the MVP. What should you tell him?
+14	[Player] is talking with the team about what they would be doing if they didn't start soccer. Let's join them.
+15	The team is saying bad things about [Player] for skipping practice. Time to intervene.
+16	[Player] is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+17	[Player] seems to be worried about one of the team members that left after a quarrel. Let's talk to [him/her].
+18	On a day off, [Player] is looking at a passing couple with jealous eyes.
+19	[Player] is asking you about the one thing you want the most in the universe. What do you tell him?
+20	There's been a mistake. The team's uniform is mixed up with the festival costumes. What should you tell the team?
+21	Still looking pretty heated up by the match, [Player] is asking how [he/she] did in the match.
+22	[Player] looks excited as [he/she]'s talking with the team about pets. [He/She] turns around and asks you what kind of pet you like.
+23	You come across [Player] thinking about the value of soccer. What should we tell [him/her]?
+24	[Player] is having trouble focusing on the match because of the affectionate emotion [he/she] feels. [He/She] says [he/she] must leave now to propose to [his/her] lover. What should we say?
+25	[Player] blushes up and tells you that [he/she]'s happy [he/she] can play soccer with you. What should we tell [him/her]?
+26	[Player] is asking for special training sessions because [he/she]'s not satisfied with today's performance. What should we tell [him/her]?
+27	[Player] did [his/her] best, but [he/she] failed to achieve the results [he/she] wanted and looks sad. We should say something to [him/her].
+28	[Player] is asking you about what you like besides soccer.
+29	[Player] feels [his/her] heart races when [he/she] sees Littre.
+30	Kuma is caught sneaking in the woman's locker room once again. We should talk with [Player] about what to do with him.
+31	[Player] continues to charge into the opponent's defense line and keeps failing. What should we do?
+32	[Player] is being annoying with [his/her] offensive words. What should we do?
+33	It's dinner time and [Player] is staring at [his/her] carrot soup with a troubled look. What should we do?
+34	It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell [Player] to do?
+35	[Player] says that the soup tastes funny. What should we do?
+36	[Player] is furious about the referee that's clearly favoring the other team. Should we stop [him/her]?
+37	It suddenly began to rain heavily. You see [Player] running up ahead.
+38	You witnessed a player on the other side putting a tack in [Player]'s shoe.
+39	During the team meeting, you find a player sleeping. What should you do?
+40	[Player] hurt [his/her] leg during the 1st half of the match, but [he/she] insists on playing. What should we tell [him/her]?
+41	[Player] is wondering why the team is doing so well recently. Pick an answer.
+42	After a meeting, [Player]'s eyes met yours a several times and [Player] asks if [he/she] has something on [his/her] face.
+43	With a serious look on [his/her] face, [Player] warns you to go to the bathroom before the match.
+44	Preparing for the press conference, you're talking with [Player] on which player you think has the brightest future. What will you say?
+45	[Player] is worried that [he/she] has to face demons, black holes and other dangerous things. What should we tell [him/her]?
+46	[Player] is making a scene about the women's uniform and underwear disappearing. Let's talk to [him/her].
+47	[Player] is asking if you have a special person who you would like to share happy moments with. Let's give [him/her] an answer.
+48	You find [Player] being very excited after performing an awesome play. How will you react?
+49	[Player] is having trouble focusing on the match. Let's help [him/her] out.
+50	[Player] is questioning Kuma's status as a Gate Keeper.
+51	[Player] doesn't like the new team advertisement video.
+52	It's [Player]'s birthday. Let's give [him/her] a present.
+53	You see [Player]'s opponent trash talking and smirking towards [Player]. What should we do?
+54	The team is going to go shop. Which group will you join?
+55	You hear that the opponent team's ace, who is also [Player]'s rival, has been severely injured and is in the hospital. What should you say to [him/her]?
+56	[Player] comes to you and says that [he/she] has to leave the team because of personal reasons. What should we say?
+57	[Player] is getting slow on the field and this is causing trouble. Let's talk with [Player].
+58	[Player] is telling a story about how an old kingdom in Valhalla was doomed because of the king.
+59	You got a couple of tickets to Veronica's live concert. [Player] seems to be interested.
+60	[Player] says [he/she] wants to cry because the goal keeper on the other team just won't go down no matter how many shots [he/she] makes.
+61	The team made it up to the semi-finals after counting the goal differences. [Player] asks how you feel. How should we answer?
+62	[Player] suggests that we have a team dinner to lighten things up. What will be your reaction?
+63	[Player] is saying that [his/her] teammates are what keeps [him/her] going.
+64	[Player] has shown outstanding performance on both the offensive and defensive side. [He/She] is asking for your evaluation on [his/her] plays. Let's give [him/her] an answer.
+65	As [Player] said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to [him/her].
+66	The crowd is cheering for [Player]. [Player] seems to find this situation new and a bit uncomfortable. Let's help [him/her] out.
+67	[Player] is impressed by the help [he/she] received from the elementals. Let's talk to [him/her].
+68	[Player] was watching penguins play soccer and suddenly decided to raise a pet penguin [himself/herself]. Let's talk to [him/her].
+69	The team will not have a match for some time. [Player] asks you about your plan.
+70	It's a very intense match and [Player] falls on the ground, but a player on the other team helps [Player] up and the two exchange smiles.
+71	The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+72	You're walking in a narrow ally and come across [Player] having an intense staring contest with the captain of the opposing team. What should we say?
+73	[Player] is surrounded by fans and seems to be overwhelmed. Let's talk to [him/her].
+74	[Player] scored a hat trick and led the team to a complete victory! Congratulate [him/her]!
+75	A player on the other side is on the field with his arms tied up. Let's talk about this with [Player].
+76	[Player] falls to the ground after clashing with the opponent. What should we say to [him/her]?
+77	[Player] lost to the opponent and fell to the ground. What should we do?
+78	You come across Sammy while walking the street with [Player]. Let's talk to her.
+79	Lynia is cleaning the streets with the members of Jeneva Crew. [Player] is curious and wants to take a look.
+80	[Player] brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+81	[Player] is worried about the team's poor performance. Let's go talk to [him/her].
+82	[Player] is curious about the Galaxy League. What answer will help [him/her]?
+83	[Player] wants to hear about your plans on training the new players. What should we answer?
+84	[Player] is being sentimental about how soccer, which was supposed to be a one time thing, became [his/her] life. Let's talk with [him/her].
+85	[Player] is asking what to buy in the souvenir shop. Let's give [him/her] an opinion.
+86	[Player] is asking who you think of first when you win a match. Let's answer.
+87	This match will be held on Earth. We still have some time. What do you want to do?
+88	[Player] says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+89	The rain has messed up the field and the enemy team seems to be determined to crush your team.
+90	[Player] seems to be curious about Bora's covered eye. What should we answer?
+91	Ogre's pony tail slapped [Player] in the face!
+92	It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+93	[Player] is suddenly showing massive improvement in [his/her] performance. [He/She] must've learned something during a match.
+94	[Player] says that the Swirlies are missing.
+95	[Player] says she forgot to use her skill points before entering the match. What should we say to [him/her]?
+96	You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+97	[Player] picked up a diary. It says Bell on the cover.
+98	Sorrow suddenly flies off after seeing a shiny object in the sky.
+99	[Player] is irritated because her opponent has the attribute advantage over her.
+100	[Player] thinks Nana on the other team actually isn't a raccoon.
+101	[Player] is looking excited and asks how the match went.
+102	This was the worst game in your entire life...[Player] comes to you to cheer you up.
+103	You're talking to [Player] about what you would do if the world ends tomorrow. Let's tell [him/her] your answer.
+104	[Player] is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to [him/her].
+105	[Player] is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give [him/her] some advice.
+106	[Player] isn't pleased with the team's recent plays. [He/She] feels that the plays have become somewhat repetitive and dull.
+107	With back to back matches, the team is exhausted. Let's talk to [Player] for solutions.
+108	The team manger ran away with all of the team's money. What should we do?
+109	You were taking a walk in the Nadir forest with [Player] and came across Enthia standing in the middle of a burnt part of the forest.
+110	Nari is dancing and singing a song about the galaxy.
+111	According to [Player]'s words, Tyler went to school 1 year earlier than William.
+112	[Player] thinks [he/she] knows who Lynbell's brother is. What should we do?
+113	[Player] won a trip around the world from a radio event!
+114	[Player] suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+115	The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+116	You're sick and in bed when [Player] and the teammates come to cheer you up. What will your response be?
+117	The match and the concert that [Player] was looking for start at the same time...
+118	[Player] wonders why Castor twitches whenever he sees Beatrice.
+119	MX54 Butcher is closing in on a cat with a suspicious smile.
+120	The match started and [Player] is standing still doing nothing.
+121	You find [Player] depressed for not playing well during the match. Let's cheer [him/her] up.
+122	[Player] is questioning your promise to make the best team ever. It's time to redeem yourself.
+123	You come across [Player] being lost and wandering around while going back to the lodging. Let's talk to [him/her].
+124	[Player] is asking about your thoughts on meeting an extraterrestrial being. Let's give [him/her] an answer.
+125	[Player] is having trouble with continuing nightmares. Let's talk to [him/her].
+126	[Player] is stressed out saying [his/her] opponent has the upper ground on every aspect. What should we do?
+127	[Player] seems to be satisfied with the perfect team work. Let's talk to [him/her].
+128	You come across [Player] who is limping. [He/She] says it's nothing. What should we do?
+129	You visit [Merlin/Marilyn]'s house and see Hildegard eating ramen.
+130	You're watching the storm with [Player] and you spot Princess Meiran taking a walk while humming.
+131	[Player] looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+132	[Player]'s opponent is smiling whenever they confront each other on the field. [Player] seems to be nervous. Let's talk to [him/her].
+133	Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw [Player].
+134	The members of Siena Celtron are furiously searching the stadium for Kuma.
+135	The game ended as a tie, but it seems that the competition between [Player] and [his/her] opponent isn't over yet.
+136	The team will be cleaning up the lodging. What will you have [Player] do?
+137	The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+138	A player on the other team says soccer became enjoyable after confronting [Player]. What should you say?
+139	[Player] is angry about the opponent's resilient attack on you. What should we say?
+140	Latios is chatting with [Player] after the match. Let's barge in.
+141	[Player] says [he/she]'s the center of the team and asks if you agree with [him/her]. How should we answer?
+142	[Player] asks you about your plans after winning the Galaxy League. Let's give [him/her] a sincere answer.
+143	[Player] is getting suspicious about how all the Gate Keepers are in the form of different animals.
+144	[Player] looks excited to see a comet shower, which is a rare sight. What should we say to [him/her]?
+145	[Player] says [he/she]'s having trouble dealing with the young players. Let's give [him/her] an answer.
+146	[Player] wants to know what the Swirlies really are. Give [him/her] an answer.
+147	[Player] is saying that the universe needs more than stars to brighten it up. Let's talk to [him/her].
+148	[Player] says [he/she] was cornered by the team which was devastated by the loss streak.
+149	[Player] says that Bell seemed depressed when [he/she] told Bell that Minerva's throne is empty.
+150	[Player] seems to get along with the opponent player. What should we tell [him/her]?
+151	[Player] is deeply focused on Jill's diet story. What should we do?
+152	[Player] says [he/she]'s going to meet up with Kiki and asks if you have any questions.
+153	Kei and Virgil are fighting again and [Player] seems to be troubled. What should we do?
+154	[Player] is having a delightful chat with a girl that's holding a turtle.
+155	[Player] went to take a look at the opponent team and got caught. What should we do?
+156	[Player] claims [he/she] saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+157	[Player] seems very nervous to confront Kei of the Rescuer.
+158	[Player] says that the captain of team Scout Entry seems to take good care of the team members.
+159	You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and [Player] hands you a present.
+160	[Player] says that [he/she] thinks Alkyde looks at Fontus in a funny way. Let's give [him/her] an answer.
+161	[Player] is asking about what's the most important condition in winning today's match. Let's give [him/her] an answer.
+162	[Player], who is determined to make everything in [his/her] life, even [his/her] dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
+163	[Player] announces that [he/she] will become an influential player that changes the league completely. Let's give [him/her] an answer.
+164	[Player] is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to [him/her]?
+165	[Player] wants to cherish every precious meeting with other people and beings. [He/She] wants to be good friends with everybody. Let's talk to [him/her].
+166	It seems that [Player] is lost in the Nadir forest. What should we do?
+167	You find [Player] lurking around the food corner at the shopping center. What should we say?
+168	[Player] says [he/she] doesn't understand why other angels are afraid of Uriel. [He/She] thinks Uriel is a very kind angel.
+169	A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?
+170	[Player] wants the team to enter the Underground League on Earth. What should we do?
+171	[Player] caught a player on the other team spying on your team's practice. What should we do?
+172	The middle fielder on the other team is too powerful. Let's give [Player] some orders.
+173	Something must have startled Beelzebub. He has entered the field and is making a scene.
+174	You come across an opponent player limping, because of getting injured during a match against your team. [Player] seems to be worried.
+175	[Player] came back without a penny after marching into the Casino.
+176	James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.
+177	[Player] is sad that the World Tree in Umbra has withered. What could we say to cheer [him/her] up?
+178	Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. [Player] seems to be sick of this.
+179	[Player] looks startled after learning the underworld actually exists.
+180	The team is in a slump and you take the team out for refreshment. Talk with [Player] to set some simple rules.
+181	[Player] is asking you what you think is it that makes this team great. You weren't expecting this, but you should give [him/her] an answer.
+182	[Player] is angry because [he/she] was criticized by [his/her] performance and is asking your opinion. Let's give [him/her] an answer.
+183	[Player], who has shown absolutely superb chemistry with you, is embarrassed and says [he/she] didn't do all of that because of you. What should we say?
+184	[Player] wants to have an academic conversation about the 5th dimension, string theory, and other infamously hard space theories. Why...?
+185	[Player] looks disappointed about the size of the Galaxy League. What would be an appropriate response?
+186	[Player] seems to be uncomfortable to hear about the love life of other teammates. Let's talk to [him/her].
+187	[Player] is talking about how famous [his/her] rivals are in the Galaxy League. [He/She] seems jealous. Let's talk to [him/her].
+188	[Player] is furious about how Lucian is always surrounded by girls. What should we say?
+189	Kirin suddenly appears, pats [Player] on the head while teasing [him/her], and then goes away. [Player] seems angry...
+190	The team is at Metro City. [Player] seems to be surprised how the people of Metro City have mechanical bodies.
+191	Kuma is furiously chasing Ogre. [Player] seems confused.
+192	[Player] is spreading the happy news about [his/her] cousin having a baby. Let's congratulate [him/her].
+193	The team seems very nervous facing Skalardra. What should we do?
+194	[Player] refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to [him/her].
+195	[Player] is interested in Selena and is asking for your opinion. What should we say?
+196	[Player] seems to be interested in the Micrinum from Kiri, which is said to be good for beauty and anti-aging. Let's talk to [him/her].
+197	[Player] seems to be determined to crush the opposing team. Let's give [him/her] some advice.
+198	[Player] looks sad because [he/she] feels [his/her] friendship with a friend in a rival team is falling apart. What should we say to [him/her]?
+199	It's a tough match, but [Player] is standing tall and encouraging the team. What should we say to [him/her]?
+200	A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with [Player] about what to do.
+201	[Player] asks what you think is the most important ability in soccer. Give [him/her] an answer.
+202	[Player] is criticizing the male teammates that were mesmerized by Lilith during the match. It's your job to defend your teammates.
+203	Being too excited, [Player] is overreacting while talking about the game. It seems [he/she] wants people to agree with [him/her].
+204	[Player] is asking what it would be like to date an alien. Give [him/her] your opinion.
+205	[Player] heard stories about the world of the demons and asks what you think it'll be like.
+206	[Player] asks what your plans are for the holidays when there's no training or match. Give [him/her] an answer.
+207	[Player] seems to be planning to enter for the Galaxy League Mascot Contest. Let's talk to [him/her].
+208	[Player], who seems to be interested in Eve, is asking your opinion about her. What should we tell [him/her]?
+209	Recently, [Player] seems to enjoy chatting with Jin. [He/She] thinks Jin is funny. Let's talk with [him/her].
+210	[Player] is thinking about how to resist the psychological and mental attacks that the demons enjoy using. Let's give [him/her] advice.
+211	[Player] is worried about Vermilion Bird. [He/She] thinks something is troubling Vermilion Bird.
+212	[Player]'s uniform is all messed up because of the filthy plays of [his/her] opponent. What should we do?
+213	A defender on the other team seems to have fallen in love with [Player] and is chasing [him/her] around the field. It looks like the player forgot about the match. What should we do?
+214	Kaidormu of the United Explorers is praising [Player]'s plays. Let's add in.
+215	The team became furious after seeing [Player] fall by the focused attack of the opposing team and used that fury to win the game. Let's say something.
+216	[Player] is having trouble finding a Spirit Stone that fits [his/her] needs and taste. Let's give [him/her] advice.
+217	[Player] is asking about the whereabouts of a teammate that hasn't seen for quite a while. Let's give [him/her] an answer.
+218	[Player] is planning to go on a blind date with a close teammate. Should we say something to [him/her]?
+219	It seems that [Player] is wondering what to do after a teammate proposed to [him/her]. It doesn't seem that [he/she]'s not entirely uninterested. What should we do?
+220	[Player] is teasing [his/her] opponent that is having a hard time chasing [him/her]. What should we do?
+221	You come across [Player], who was overwhelmed by [his/her] opponent throughout the game. Let's cheer [him/her] up.
+222	[Player] is complaining about a teammate and is asking for your opinion.
+223	[Player], who is always suspicious of you, has you in the corner and is demanding that you reveal [what your agenda really is. What should we say?/who you really are. What should we answer?]
+224	[Player] says to you that it was an honor to be able to play with you. Let's give [him/her] an answer.
+225	You're having a conversation with [Player] about the power of Spirit Stones which is covered in secrets. Let's tell [him/her] what you think.
+226	[Player] is yelling, ''Our will for soccer is guiding us to victory!''
+227	Let's talk to [Player] who recently started to take interest in the world of angels.
+228	[Player] is asking you if you ever saw the World Tree. Let's tell [him/her] your thoughts.
+229	The teammates are speaking highly of [Player], saying [he's/she's] a good role model. Let's add in.
+230	You visit the practice field of your next opponent and feel very sorry about their not-so-good financial situation. What should we do?
+231	Your team seems to be too worried about the next match against the all stars of Minerva. [Player] wants to say a word.
+232	You're at the Underground to enter a wager match, but you find people who are playing a friendly match.
+233	Half of your team is injured because of an evil plot of your next opponent. What should we do?
+234	The representative of the refugees of Karladure is pleading you to throw the next match because Guinevere, who is providing them economic support, is playing for your next opponent. What should we say?
+235	[Player] points out that the time the men of Minerva died and the time the epidemic broke out in Metro City matches.
+236	Mortor and Wizol of the Peacemakers are helping an old man. [Player] seems to be surprised.
+237	A big fight broke out between an angel and a demon within the team. [Player] is asking for help.
+238	Cracsus threatens to hack [Player]'s personal information and reveal it to the world. What should we do?
+239	[Player] is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
+240	[Player] is thinking about what the Universe of Oblivion is.
+241	[Player] seems to be lost after having a good match while [his/her] fortune-telling said things would go wrong. Let's talk to [him/her].
+242	With a serious face, [Player] is asking what the true meaning of competition is. Let's give [him/her] an answer.
+243	[Player] came to you after the match, and says [he's/she's] disappointed at the team's boring strategy. What should we say?
+244	[Player] is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give [him/her] an answer.
+245	The team is having a good run and [Player] is sure that winning the League is a matter of time.
+246	[Player] seems to be very confused of how a small soccer ball can change the fate of the universe.
+247	[Player] seems to be upset about losing a body check against [his/her] opponent.
+248	[Player] is asking what the conditions of a team ace are with a serious face. Let's talk with [him/her].
+249	[Player] is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.
+250	[Player] plans to continue playing soccer even after the Galaxy League ends. Let's talk with [him/her].
+251	It's a hard match and your team is losing. Talk with [Player] and talk about what to do.
+252	[Player] seems to be lost. [He/She] says [he/she] no longer hates the rival team.
+253	You were enjoying the peaceful day on Earth until the Peacemakers suddenly showed up. At that moment, the Magical Girl Elements came to save the day!
+254	Vitos suddenly laughs in joy during the match against the Empire. Why?
+255	[Player]'s form has been improving rapidly. [He/She] says [he/she] can't wait for the next match. What should we say to [him/her]?
+256	During a match, [Player] bumped into a teammate and knocked the player out. [He/She] seems depressed. What should we say to cheer [him/her] up?
+257	[Player] is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to [him/her].
+258	You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.
+259	[Player] is suddenly taking interest in who Shootmeister actually is. What should we say?
+260	Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. [Player] is starting to get intimidated.
+This is good. We can use this as a chance to break their back line	Result3
