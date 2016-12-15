@@ -1,9 +1,9 @@
 
 Angela	
 You come across Angela who is limping. She says it's nothing. What should we do?	
-I think i'll get injured too if you're on the field.Please sit on the bench	
-Trust me and your teammates.Sit this one out.	-1
-Don't push yourself too hard.Get off the field if you don't think you can continue.	3
+I think I'll get injured too if you're on the field. Please sit on the bench.	
+Trust me and your teammates. Sit this one out.	-1
+Don't push yourself too hard. Get off the field if you don't think you can continue.	3
 Angela	
 The game ended as a tie, but it seems that the competition between Angela and her opponent isn't over yet.	
 You better win that fight!	3
@@ -211,6 +211,11 @@ Perfect planning and perfect execution
 All goes as planned....Hmm? Just ignore that.	
 Why don't you join them and find out?	3
 Death Queen	
+The team will not have a match for some time. Death Queen asks you about your plan.	
+We could ask one of the top teams for a friendly match.	
+Hmm, wanna go shopping?	-1
+I have a very hard training session all planned up for everybody.	1
+Death Queen	
 Ogre's pony tail slapped Death Queen in the face!	
 Even his hair is a weapon! Is that even allowed?	
 That must hurt.	
@@ -229,7 +234,7 @@ Death Queen
 Lynia is cleaning the streets with the members of Jeneva Crew. Death Queen is curious and wants to take a look.	
 We should probably ignore them and just walk by.	
 Let's go help them!	3
-They must love volunteer work!	
+	
 Death Queen	
 Death Queen is surrounded by fans and seems to be overwhelmed. Let's talk to her.	
 I hope this won't affect your performance on the field.	
@@ -292,8 +297,8 @@ Come back Huginn! Wait, is it Muninn?
 A crow?!	3
 Death Queen	
 You're walking in a narrow ally and come across Death Queen having an intense staring contest with the captain of the opposing team. What should we say?	
-Save the energy for the match.	
-How about solving this with a game of rock, scissors, paper?	
+Save the energy for the match.	3
+How about solving this with a game of rock, scissors, paper?	-1
 ...I see two idiots standing in front of me...	-1
 Death Queen	
 Death Queen suggests that we have a team dinner to lighten things up. What will be your reaction?	
@@ -323,7 +328,7 @@ Well, let's start by dropping that player's HP to 1.	1
 Death Queen	
 Death Queen is curious about the Galaxy League. What answer will help her?	
 It's the place where the chosen ones learn about their destiny.	-1
-It's the place of dreams colliding.	
+It's the place of dreams colliding.	3
 It's stressful because we can't prepare for extraterrestrial sanitation. We're completely exposed to all those unknown...things	
 Death Queen	
 You come across Sammy while walking the street with Death Queen. Let's talk to her.	
@@ -355,6 +360,11 @@ The rain has messed up the field and the enemy team seems to be determined to cr
 I can't stand this...I need to end this quickly and go take a shower.	
 What a depressing weather...	
 Well, if it's a muddy dog fight they want, let's give it to them!	3
+Death Queen	
+This match will be held on Earth. We still have some time. What do you want to do?	
+Well, I could show you around and introduce you to the things on Earth.	3
+I heard that the bath products on Earth are the best in the universe.	
+I'm going to check out the new comic issues. Wanna come along?	
 	
 Elise	
 Elise seems to be upset about losing a body check against her opponent.	
@@ -399,14 +409,14 @@ I want you to form a team and catch every single bear near this locker room.	3
 Let's go tell the manager. 	
 Jiho	
 James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.	
-...We should get out of here.	
+...We should get out of here.	3
 ...It's about to go down...! Where's the popcorn?	-1
 James and Bora...Who's the villain?	
 Jiho	
 Jiho says she wants to cry because the goal keeper on the other team just won't go down no matter how many shots she makes.	
 Let's start by picking their defenses apart.	1
 Let's come up with a new strategy to giove you more synergy.	1
-I'll come up with a formation that can bring the best out of everybody.	
+I'll come up with a formation that can bring the best out of everybody.	3
 Jiho	
 Jiho is getting slow on the field and this is causing trouble. Let's talk with Jiho.	
 I think we should come up with an action speed deck or go for counterattacks...	1
@@ -517,12 +527,22 @@ Jiho is wondering why the team is doing so well recently. Pick an answer.
 It's all thanks to you.	
 It's a result of team effort.	3
 The opponents are mesmarized by the beauty of our players.	
+Jiho	
+After a meeting, Jiho's eyes met yours a several times and Jiho asks if she has something on her face.	
+Yeah, Kuma's hat...	
+I was just thinking the team became stronger, thanks to you.	1
+I was just thinking about how much you do for the team.	
 	
 Kevin	
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Kevin seems to be sick of this.	
 Okay! Now I'll tell you all the good stuff about Kevin!	1
 Iron Claw!	
 Oh, there's Princess Meiran! (Runs away)	3
+Kevin	
+Kevin is talking about how famous his rivals are in the Galaxy League. He seems jealous. Let's talk to him.	
+You're as good as they are, I'd say you deserve more credit.	3
+Good rivalry brings both sides to higher levels.	
+I'll be your rival from now.	
 Kevin	
 Kevin is furious about how Lucian is always surrounded by girls. What should we say?	
 Are you jealous?	-1
@@ -545,7 +565,7 @@ I like how even the minority can be saved in this society.	-1
 You have a heart of gold.	
 Kevin	
 Kevin refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to him.	
-Are you angry because I wasn't there to oversee your training? I said I'm sorry!	
+	
 Well that's absolutely fine if you can actually prove that you're the best.	3
 That's not like you...	
 Kevin	
@@ -854,13 +874,18 @@ It's experiences like this that bonds us together.
 Renee	
 You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Renee hands you a present.	
 (A cute and pretty pendant)	
-(A surprise box! Inside it there's a cool wallet.)	
+(A surprise box! Inside it there's a cool wallet.)	3
 (A chocker with a pretty radical design.)	1
 Renee	
 Renee says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.	
-That's a mixture of mockery, sympathy and love.	
+That's a mixture of mockery, sympathy and love.	-1
 I think she likes him.	-1
 Maybe she's up to something.	
+Renee	
+Renee says she's having trouble dealing with the young players. Let's give her an answer.	
+They're young but they have passion.	1
+Yeah, I mean they could get hurt.	
+Teach them how adults play soccer.	
 Renee	
 During the team meeting, you find a player sleeping. What should you do?	
 (Leave it to Renee.)	3
@@ -998,14 +1023,14 @@ I want to see everybody smile. I think that'll make me happy.
 I'm going to make a joke before I start crying!	3
 Renee	
 Renee seems very nervous to confront Kei of the Rescuer.	
-Be careful not to be stomped on...	
+Be careful not to be stomped on...	-1
 We can do this! Let's go!	1
-Don't be nervous! Don't you trust your teammates?	
+Don't be nervous! Don't you trust your teammates?	3
 Renee	
 Kei and Virgil are fighting again and Renee seems to be troubled. What should we do?	
 If you guys keep giving Renee trouble, I swear to god I'll use you both as special training material.	1
 If you had to choose one of the two, which would it be?	
-You both need to be disciplined by Renee.	
+You both need to be disciplined by Renee.	-1
 Renee	
 Renee says that the captain of team Scout Entry seems to take good care of the team members.	
 Well, I'm better than him because I'm in love with this team.	3
@@ -1037,6 +1062,11 @@ The team is going to go shop. Which group will you join?
 Manga, anime, and figures...! Here I come!	1
 It's time for some good food.	
 I guess I can go to the soccer gear shop.	
+Roina	
+Roina seems to be interested in the Micrinum from Kiri, which is said to be good for beauty and anti-aging. Let's talk to her.	
+I think that's a good choice.	
+Looks aren't important when it comes to soccer.	
+You're young and good looking even without that.	3
 Roina	
 Roina is questioning Kuma's status as a Gate Keeper.	
 He's just material for leveling up.	
@@ -1077,6 +1107,7 @@ After a meeting, Roina's eyes met yours a several times and Roina asks if she ha
 Yeah, Kuma's hat...	
 I was just thinking the team became stronger, thanks to you.	1
 I was just thinking about how much you do for the team.	3
+	
 Victoria	
 Victoria announces that she will become an influential player that changes the league completely. Let's give her an answer.	
 You'll have to compete with me!	3
@@ -1277,6 +1308,7 @@ You're walking in a narrow ally and come across Victoria having an intense stari
 Save the energy for the match	3
 How about solving this with a game of rock,scissors,paper?	
 ...I see two idiots standing in front of me...	
+	
 Sharr	
 Sharr went to take a look at the opponent team and got caught. What should we do?	
 We should think how to make fun of her when she comes back.	-1
@@ -1470,8 +1502,8 @@ I don't care what the case is.
 Sharr	
 Sharr says she's going to meet up with Kiki and asks if you have any questions.	
 Is her name really Kiki?	1
-Ask her if she likes you and if she wants to join our team.	
-Tell her to be our lap cat.	
+Ask her if she likes you and if she wants to join our team.	3
+Tell her to be our lap cat.	-1
 	
 Elaine	
 The game ended as a tie, but it seems that the competition between Elaine and her opponent isn't over yet.	
@@ -1680,6 +1712,11 @@ They're all in love with your enthusiastic plays.	3
 They know you gave everything you got. It was spectacular.	1
 How about just acceping the compliments for today?	
 Choi	
+You see Choi's opponent trash talking and smirking towards Choi. What should we do?	
+He is probably not even listening.	
+Let's see how long they last. Come on guys!	1
+Tell me if you like him. Just say the words and i'll scout him.	
+Choi	
 It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?	
 I could throw the ball and continue the match, but my honor wouldn't allow that.	-1
 I guess I finally get to meet my archnemesis.	
@@ -1874,6 +1911,7 @@ Choi is worried that he has to face demons, black holes and other dangerous thin
 Look at the beautiful players! This is paradise!	
 You're the most dangerous of them all.	
 Makes it worth the challenge, don't you think so?	-1
+	
 Yuri	
 Yuri claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?	
 She must've made a mistake.	3
@@ -1957,7 +1995,7 @@ The space has prepared this beautiful stage for you.	1
 Yuri	
 Yuri says she's having trouble dealing with the young players. Let's give her an answer.	
 They're young but they have passion.	1
-Yeah, I mean they could get hurt.	
+Yeah, I mean they could get hurt.	3
 Teach them how adults play soccer.	-1
 Yuri	
 Yuri is stressed out saying her opponent has the upper ground on every aspect. What should we do?	
@@ -2013,11 +2051,16 @@ Yuri
 Yuri says that Bell seemed depressed when she told Bell that Minerva's throne is empty.	
 It'll be better if you don't show her that you're sorry.	1
 Did she think that you'll take over the throne?	
-I sense that there's something she hasn't told us yet.	
+I sense that there's something she hasn't told us yet.	3
+Yuri	
+Yuri is questioning your promise to make the best team ever. It's time to redeem yourself.	
+Don't be all negative because there were some mistakes. You're a precious part of this team.	-1
+Don't be anxious. Have faith and keep following me.	
+That's why I need you help.	
 	
 William	
 The team made it up to the semi-finals after counting the goal differences. William asks how you feel. How should we answer?	
-What, are you expecting something like "I Feel like I can fly" or something?	
+What, are you expecting something like "I Feel like I can fly" or something?	3
 This is where things get serious. We're going for the win!	1
 Wow. I'm sooooo happy.	
 William	
@@ -2025,6 +2068,11 @@ During a match, William bumped into a teammate and knocked the player out. He se
 Wasn't that a glitch?	-1
 We have to keep on going.	1
 It's something that happened during the match. Don't be so hard on yourself.	3
+William	
+A player on the other side is on the field with his arms tied up. Let's talk about this with William.	
+I feel like he's mocking us!	
+It hurts when the whip first crackles. And the pain just keeps ramping up.	
+He still has his two legs functioning. I see no problem with that.	3
 William	
 William seems to be very confused of how a small soccer ball can change the fate of the universe.	
 The fate of the universe is not that simple to be changed by a soccer ball.	
@@ -2040,11 +2088,6 @@ The crowd is cheering for William. William seems to find this situation new and 
 They're all in love with your enthusiastic plays.	1
 They know you gave everything you got. It was spectacular.	-1
 How about just acceping the compliments for today?	3
-William	
-A player on the other side is on the field with his arms tied up. Let's talk about this with William.	
-I feel like he's mocking us!	
-It hurts when the whip first crackles. And the pain just keeps ramping up.	
-He still has his two legs functioning. I see no problem with that.	3
 William	
 William is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give him an answer.	
 They're on cooldown.	-1
@@ -2197,6 +2240,11 @@ Don't you think about sneaking him out. He's our pretty boy.	-1
 Gaphyl was fantastic on the field, right?	1
 I'm looking forward to our next match!	3
 Gaphyl	
+Gaphyl is angry about the opponent's resilient attack on you. What should we say?	
+Don't worry about me! Do your job!	1
+Can you peel this guy off of me?	
+Don't come over here! It's dangerous!	
+Gaphyl	
 The game ended as a tie, but it seems that the competition between Gaphyl and his opponent isn't over yet.	
 You better win that fight!	3
 Hey! The match is over!	
@@ -2325,7 +2373,7 @@ Gaphyl
 Gaphyl is having trouble with continuing nightmares. Let's talk to him.	
 I'll sleep by your side tonight.	-1
 I see. We must be careful. I'll be watching over you.	-1
-It's just a dream. Forget about it.	
+It's just a dream. Forget about it.	3
 Gaphyl	
 Gaphyl is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to him.	
 It's the consequences of your actions. Accept it.	
@@ -2422,11 +2470,21 @@ During a match, Bora bumped into a teammate and knocked the player out. She seem
 Wasn't that a glitch?	
 We have to keep on going	
 It's something that happened during the match. Don't be so hard on yourself.	3
+Bora	
+Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Bora is starting to get intimidated.	
+Okay, it's time we take this match seriously.	3
+He's obviously obsessed with soccer.	
+This is good. We can use this as a chance to break their back line.	
 Lia	
 Lia says that the captain of team Scout Entry seems to take good care of the team members.	
 Well, I'm better than him because I'm in love with this team.	
 That's stange. I thought he was more of an authoritative character	
 Yeah, they get along pretty well.	3
+Lia	
+Lia says she's the center of the team and asks if you agree with her. How should we answer?	
+Of course! Everybody is counting on you!	
+Well, your sarcastic jokes are an essential part of the team's strength.	
+I'm sure that you're being a good influence to the team.	1
 Lia	
 You come across Lia being lost and wandering around while going back to the lodging. Let's talk to her.	
 Are you feeling alright?	1
@@ -2499,9 +2557,9 @@ Thankful beings that will be our +160.	-1
 I'm planning to make a whole line of merchandise with them as the character.	3
 Lia	
 You're watching the storm with Lia and you spot Princess Meiran taking a walk while humming.	
-Is something troubling her? I'm having a bad feeling.	
+Is something troubling her? I'm having a bad feeling.	1
 What's wrong with her?	-1
-She shines even in the darkest storms! How gorgeous!	
+She shines even in the darkest storms! How gorgeous!	3
 Lia	
 Lia is angry about the opponent's resilient attack on you. What should we say?	
 Don't worry about me! Do your job!	1
@@ -2565,13 +2623,18 @@ Good for you! I know it's hard for you to find someone at your level!	-1
 Lia	
 Lia looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.	
 Did you prepare your meds in case you get space-sick? Never mind, I'll prepare the meds.	
-Don't worry. Leave it up to me.	
+Don't worry. Leave it up to me.	1
 Littre will be fine.	-1
 Lia	
 Lia is stressed out saying her opponent has the upper ground on every aspect. What should we do?	
 You can overcome this like always. Right?	-1
 It's not your fault. It's your mistakes that took the opponents off guard.	
 Let's solve the problems one by one.	
+Lia	
+Lia went to take a look at the opponent team and got caught. What should we do?	
+We should think about how to make fun of her when she comes back.	
+I feel sorry for the other team.	
+Lia is in danger! We have to save her!	3
 	
 Lucian	
 You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Lucian hands you a present.	
@@ -2707,7 +2770,7 @@ Lucian
 Lucian asks you about your plans after winning the Galaxy League. Let's give him a sincere answer.	
 I guess I'll be chasing you on the road of glory.	1
 I want to see everybody smile. I think that'll make me happy.	-1
-I'm going to make a joke before I start crying!	
+I'm going to make a joke before I start crying!	3
 Lucian	
 Lucian is asking you if you ever saw the World Tree. Let's tell him your thoughts.	
 Let's not talking about anything irrelevant to the match.	-1
@@ -2731,7 +2794,7 @@ That has nothing to do with us.
 Lucian	
 You're having a conversation with Lucian about the power of Spirit Stones which is covered in secrets. Let's tell him what you think.	
 I need a Spirit Stone that's as fancy as I am.	1
-I won't rely on Spirit Stones.	
+I won't rely on Spirit Stones.	3
 I would buy them all if I could.	1
 Lucian	
 Lucian is thinking about what Selena said about saving the galaxy if we win the Galaxy League.	
@@ -2780,6 +2843,11 @@ Susie is questioning Kuma's status as a Gate Keeper.
 He's just material for leveling up.	-1
 I like how all the Gate Keepers have different characteristics.	3
 That bear...Is a hero...!	
+Susie	
+Lynia is cleaning the streets with the members of Jeneva Crew. Susie is curious and wants to take a look.	
+We should probably ignore them and just walk by.	
+Let's go help them!	
+They must love volunteer work!	3
 	
 Jayce	
 Jayce is getting slow on the field and this is causing trouble. Let's talk with Jayce.	
@@ -2879,7 +2947,7 @@ The door's over there.
 Are you giving up before putting up a fight?	1
 Shu	
 Shu is complaining that it's boring to play only soccer every day. What should we say to him?	
-How about we play baseball today?	
+How about we play baseball today?	3
 No,It's not boring.	-1
 If you're up for suggestion,I'm all ears.	
 Shu	
@@ -2892,6 +2960,11 @@ Shu is complaining about restricted from playing the next match for receiving to
 It's the consequences of your actions. Accept it.	
 I feel sorry for you and envy you at the same time.	-1
 Use this as a chance to enhance your condition.	
+Shu	
+Shu is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give him an answer.	
+They're on cooldown.	
+They support us from the shadows.	
+Even if they're not on the field with us, we're fighting as one.  Right?	3
 Lemy	
 Lemy is angry about the opponent's resilient attack on you. What should we say?	
 Don't worry about me! Do your job!	
@@ -2916,7 +2989,7 @@ I sense that there's something she hasn't told us yet...	3
 Erica	
 Lynia is cleaning the streets with the members of Jeneva Crew. Erica is curious and wants to take a look.	
 We should probably ignore them and just walk by.	-1
-Let's go help them!	
+Let's go help them!	1
 They must love volunteer work!	
 Erica	
 The team will not have a match for some time. Erica asks you about your plan.	
@@ -2993,7 +3066,16 @@ A player on the other side is on the field with his arms tied up. Let's talk abo
 I feel like he's mocking us!	-1
 It hurts when the whip first crackles. And the pain just keeps ramping up.	
 He still has his two legs functioning. I see no problem with that.	
-	
+Erica	
+Erica asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.	
+I guess I'll be chasing you on the road of glory.	
+I want to see everybody smile. I think that'll make me happy.	3
+I'm going to make a joke before I start crying!	
+Erica	
+Erica says she's the center of the team and asks if you agree with her. How should we answer?	
+Of course! Everybody is counting on you!	
+Well, your sarcastic jokes are essential part of the team's strength.	
+I'm sure that you're being a good influence to the team.	1
 Lucius	
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?	
 Well, you did get ''dirty'' by falling in the dirt.	
@@ -3099,6 +3181,11 @@ It's silly of you to worry about such things. Are you feeling okay?	-1
 We must have faith in the Gate Keepers and win the Galaxy League.	3
 A mysterious villian... Bad taste, if you ask me.	
 Jacob	
+Jacob is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give him an answer.	
+They're on cooldown.	
+They support us from the shadows.	
+Even if they're not on the field with us, we're fighting as one.  Right?	1
+Jacob	
 Jacob is talking with the team about what they would be doing if they didn't start soccer. Let's join them.	
 I would've tried to find something that fits me.	
 Something full of excitement!	-1
@@ -3143,7 +3230,26 @@ Jacob seems to be lost. He says he no longer hates the rival team.
 I don't see a problem with it as long as it doesn't affect your performance on the field.	3
 I guess that's natural. The matches against them were great.	
 Is there someone on that team that you like? Go propose!	
-	
+Jacob	
+Does one have to make intentional fouls in order to win? Let's give him some advice.	
+Is winning really worth going that far?	1
+I don't see anything wrong as long as you can get away with it.	
+Be true to yourself.	
+Jacob	
+Vitos suddenly laughs in joy during the match against the Empire. Why?	
+The emperor of demons is also enjoying this match!	
+Has he gone mad?	
+I guess he's happy this is a good match.	3
+Jacob	
+Jacob is complaining that it's boring to play only soccer every day. What should we say to him?	
+How about we play baseball today?	-1
+No,It's not boring.	
+If you're up for suggestion,I'm all ears.	
+Jacob	
+Jacob is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to him.	
+It's the consequences of your actions. Accept it.	
+I feel sorry for you and envy you at the same time.	-1
+Use this as a chance to enhance your condition.	
 Hyun	
 A player on the other team says soccer became enjoyable after confronting Hyun. What should you say?	
 Well, Hyun does have that kind of charm.	3
@@ -3252,6 +3358,11 @@ The team is having a good run and Akane is sure that winning the League is a mat
 Let's keep this momentum going!	1
 As long as we're not used as training material...	
 There's still a lot of obstacles ahead.	-1
+Akane	
+Akane is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.	
+It's surprising to see such advanced technology.	
+Well, I have no problem with it as long as it functions as a soccer ball.	-1
+Do you think we can sell it? I think we could get a good price.	
 Akane	
 Akane plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.	
 I'm thinking of opening a shop.	
@@ -3532,485 +3643,6 @@ How about just acceping the compliments for today?
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 MX83 Askeladd	
 Askeladd came to you after the match, and says she's disappointed at the team's boring strategy. What should we say?	
 Let's work up a solution.	3
@@ -4019,7 +3651,7 @@ Just please go with that boring strategy.
 MX83 Askeladd	
 Askeladd announces that she will become an influential player that changes the league completely. Let's give her an answer.	
 You'll have to compete with me!	-1
-I feel bad for the players that have to face you.	
+I feel bad for the players that have to face you.	-1
 I have faith in you.	
 MX83 Askeladd	
 Askeladd looks startled after learning the underworld actually exists.	
@@ -4030,7 +3662,7 @@ MX83 Askeladd
 The middle fielder on the other team is too powerful. Let's give Askeladd some orders.	
 Pass? Shoot? Forfeit? Argh! Just make a run for it!	-1
 Make him know who he's up against.	-1
-Let's try out some forward passes.	
+Let's try out some forward passes.	3
 MX83 Askeladd	
 Askeladd says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.	
 I think you two have something in common...	-1
@@ -4154,7 +3786,7 @@ I've been chased by a soccerball monster in my dreams. It was terrifying.
 MX83 Askeladd	
 Askeladd is sad that the World Tree in Umbra has withered. What could we say to cheer her up?	
 We'll find the ones that did this and use them as fertilizers	-1
-It's a big tree. It'll stand strong	
+It's a big tree. It'll stand strong	3
 Who could've done such a hideous thing?	
 MX83 Askeladd	
 Askeladd comes to you and says that she has to leave the team because of personal reasons. What should we say?	
@@ -4422,6 +4054,12 @@ Please explain why you kicked the ball into our goal post, will you?
 Thanks...I know you're the one that's the most devastated...Let's do better next time.	
 Thanks. You always know how to get me back on my feet.	3
 	
+Z088 Beta	
+Beta is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.	
+It's only a sport! The strongest team wins, and we are strong!	3
+I'm sure everybody's feeling the same way you feel.	
+Aren't you the one everybody should be afraid of?	
+	
 Cashlove	
 You come across Cashlove being lost and wandering around while going back to the lodging. Let's talk to her.	
 Are you feeling alright?	
@@ -4453,6 +4091,11 @@ It's a throwing chance, but the opponent team player suddenly jumps in joy sayin
 I could throw the ball and continue the match, but my honor wouldn't allow that.	
 I guess I finally get to meet my archnemesis.	
 Wow, congratulations! (claps)	3
+Chiffon	
+Chiffon is asking what to buy in the souvenir shop. Let's give her an opinion.	
+This is your chance to buy the hottest fashion items in space!	
+Gate Keeper dolls!Why not!	3
+How about some presents for your parents?	
 Cynthia	
 Kirin suddenly appears, pats Cynthia on the head while teasing her, and then goes away. Cynthia seems angry...	
 He's like the wind. There wasn't even time to chat.	
@@ -4589,10 +4232,20 @@ It's not your fault. Let's try to find out why this is happening.
 Try starting off with some small talk.	3
 If your friend is truly your friend, she will understand.	
 Cynthia	
+Cynthia is saying that her teammates are what keeps her going.	
+(Put your thumbs up, wink, and send a juicy smile.)	-1
+(Pat her on the head.)	
+(Just nod your head.)	
+Cynthia	
 Cynthia is spreading the happy news about her cousin having a baby. Let's congratulate her.	
 Congratulation!	
 So, the numerous baby clothes you've been making were all for this day ?	3
 I hope that baby comes to be a great soccer player, just like you.	-1
+Cynthia	
+Cynthia is surrounded by fans and seems to be overwhelmed. Let's talk to her.	
+I hope this won't affect your performance on the field.	
+The fans love your performance!	-1
+Should've practiced that autograph like I told you.	
 Cynthia	
 The team will not have a match for some time. Cynthia asks you about your plan.	
 We could ask one of the top teams for a friendly match.	
@@ -4600,9 +4253,9 @@ Hmm, wanna go shopping?
 I have a very hard training session all planned up for everybody.	3
 Cynthia	
 Kuma is furiously chasing Ogre. Cynthia seems confused.	
-Two bears...Which one is Kuma?	
+Two bears...Which one is Kuma?	3
 Well, one thing is for sure. One of them did something stupid.	1
-Looks like Orge is goofing around. I mean the guy has like over 200 pounds over Kuma.	
+Looks like Orge is goofing around. I mean the guy has like over 200 pounds over Kuma.	-1
 	
 Freyja	
 The middle fielder on the other team is too powerful. Let's give Freyja some orders.	
@@ -4666,8 +4319,8 @@ It's a big tree. It'll stand strong.
 Who could have done such a hideous thing?	
 Freyja	
 Freyja says she wants to cry because the goal keeper on the other team just won't go down no matter how many shots she makes.	
-Let's start by picking ther defense apart.	
-Let's come up with a new strategy to give you more synergy.	
+Let's start by picking ther defense apart.	3
+Let's come up with a new strategy to give you more synergy.	1
 I'll come up with a formation that can bring the best out of everybody.	-1
 Freyja	
 Freyja brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.	
@@ -4729,6 +4382,11 @@ You find Freyja being very excited after performing an awesome play. How will yo
 Can't you do that more often?! (Cries)	3
 Nice play! Fantastic!	
 Now we're starting to look like a team!	
+Freyja	
+With a serious look on her face, Freyja warns you to go to the bathroom before the match.	
+Bathroom... It is indeed a very important matter...	1
+Why does an ordinary advice sound so strange..	
+I'm surprised you said that. I won't ask what happened to you.	
 	
 Guinevere	
 Guinevere is stressed out saying her opponent has the upper ground on every aspect. What should we do?	
@@ -4792,6 +4450,11 @@ Lynia came back without a penny after marching into the Casino.
 What happened to you? Do you want me to lend you some money?	-1
 I'm sure you got scammed.	-1
 I hope that wasn't all you got.	3
+Lynia	
+Lynia is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to her?	
+That doesn't change what we must do.	3
+Come on, cheer up. You're not being yourself.	
+Stop whining. I like it better when you're arrogant and sarcastic.	
 Lynia	
 It seems that Lynia is lost in the Nadir forest. What should we do?	
 Listen carefully and you'll find her.	
@@ -4942,6 +4605,21 @@ You come across an opponent player limping, because of getting injured during a 
 Weakling. Should've been rougher on that player.	
 It's unfortunate, but that happened during a match and it's not our fault.	3
 Let's just go. That player will also feel uncomfortable if we keep standing here.	
+Lynia	
+You find Lynia depressed for not playing well during the match. Let's cheer her up.	
+Don't mind it's our fault. We weren't able to make use of your strength.	-1
+You did well and thank you for that.	3
+It's not your fault that you fell during the match. Don't worry about it!	
+Lynia	
+A player on the other team says soccer became enjoyable after confronting Lynia. What should you say?	
+Well, Lynia does have that kind of charm.	
+Well, you're as cute as Lynia.	
+I hope you two become good rivals.	-1
+Lynia	
+Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Lynia.	
+I think he felt better because of the positive energy you always have around you.	
+Maybe he got embarrassed for being obsessed with his past?	
+You saved us all from that awkward moment by tripping on your own foot.	-1
 	
 Luka	
 Luka's opponent is smiling whenever they confront each other on the field. Luka seems to be nervous. Let's talk to her.	
@@ -5077,7 +4755,7 @@ Luka
 Luka is angry about the opponent's resilient attack on you. What should we say?	
 Don't worry about me! Do your job!	1
 Can you peel this guy off of me?	
-Don't come over here! It's dangerous!	
+Don't come over here! It's dangerous!	3
 Luka	
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?	
 Well, you did get ''dirty'' by falling in the dirt.	3
@@ -5092,7 +4770,7 @@ Luka
 James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.	
 ...We should get out of here.	-1
 ...It's about to go down...! Where's the popcorn?	
-James and Bora...Who's the villain?	
+James and Bora...Who's the villain?	-1
 Luka	
 A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?	
 I'll tackle him down! Knock his lights out!	
@@ -5385,7 +5063,7 @@ Hmm, come back to me with a vacation plan.	3
 Nerua	
 The team will not have a match for some time. Nerua asks you about your plan.	
 We could ask one of the top teams for a friendly match.	-1
-Hmm, wanna go shopping?	
+Hmm, wanna go shopping?	3
 I have a very hard training session all planned up for everybody.	
 Nerua	
 The team made it up to the semi-finals after counting the goal differences. Nerua asks how you feel. How should we answer?	
@@ -5481,10 +5159,10 @@ Nerua
 Nerua is surrounded by fans and seems to be overwhelmed. Let's talk to her.	
 I hope this won't affect your performance on the field.	
 The fans love your performance!	1
-Should've practiced that autograph like I told you.	
+Should've practiced that autograph like I told you.	3
 Nerua	
 Nerua brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.	
-The drink looks really scary...But we can't just throw it away...	
+The drink looks really scary...But we can't just throw it away...	3
 Throw it away. NOW.	-1
 Drink it up!	
 	
@@ -5555,7 +5233,7 @@ I like how all of the Gate Keepers have different characteristics.
 That bear...Is a hero...!	
 Veronica	
 Veronica is telling a story about how an old kingdom in Valhalla was doomed because of the king.	
-I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.	
+I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.	1
 So, is that king entering the Galaxy League?	-1
 Pathetic... That is no king.	
 Veronica	
@@ -5728,11 +5406,11 @@ Let's just go. That player will also feel uncomfortable if we keep standing here
 Leventor	
 A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?	
 I'll tackle him down! Knock his lights out!	-1
-Don't kill him, okay?	
+Don't kill him, okay?	-1
 We're taking him to the doctor even if that means by force. Help me.	
 Leventor	
 Leventor is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to him?	
-That doesn't change what we must do.	
+That doesn't change what we must do.	3
 Come on, cheer up. You're not being yourself.	
 Stop whining. I like it better when you're arrogant and sarcastic.	-1
 Leventor	
@@ -5742,7 +5420,7 @@ Well, I have no problem with it as long as it functions as a soccer ball.	1
 Do you think we can sell it? I think we could get a good price.	-1
 Leventor	
 Leventor came to you after the match, and says he's disappointed at the team's boring strategy. What should we say?	
-Let's work up a solution.	
+Let's work up a solution.	3
 I'm disappointed, too. Let's start over.	-1
 Just please go with that boring strategy.	
 Leventor	
@@ -5880,6 +5558,16 @@ Leventor plans to continue playing soccer even after the Galaxy League ends. Let
 I'm thinking of opening a shop.	
 We'll see about it after the League.	
 I don't care what I do after the League as long as I get to continue playing soccer.	-1
+Leventor	
+Something must have startled Beelzebub. He has entered the field and is making a scene.	
+It's time we use him as training material.	
+Stop right there, pig!	
+Team! We're having sauteed shredded pork for tonight!	-1
+Leventor	
+Leventor announces that he will become an influential player that changes the league completely. Let's give him an answer.	
+You'll have to compete with me!	-1
+I feel bad for the players that have to face you.	
+I have faith in you.	
 	
 Griffith	
 You come across Griffith who is limping. She says it's nothing. What should we do?	
@@ -6046,7 +5734,7 @@ Do I have to stop the match?
 It's time, Karpila! Awaken the 6th attribute and show your true powers!	
 AU96 Karpila	
 Karpila is suddenly showing massive improvement in her performance. She must've learned something during a match.	
-Impressive! You're the ace of this team now!.	
+Impressive! You're the ace of this team now!.	3
 You've become better. Now you need to focus on staying that way.	1
 I knew this day would come.	-1
 AU96 Karpila	
@@ -6158,7 +5846,7 @@ I thought they were just friends.
 Hildegard	
 The match and the concert that Hildegard was looking for start at the same time...	
 Let's hack the big screen so we can see the concert!	-1
-Channel that sorrow and rage towards your opponents and make them pay.	
+Channel that sorrow and rage towards your opponents and make them pay.	3
 I'm sorry that you couldn't go.	
 Hildegard	
 Hildegard thinks she knows who Lynbell's brother is. What should we do?	
@@ -6210,6 +5898,11 @@ Hildegard claims she saw Sophie of team Atlanta coming out of the men's room. Wh
 She must've made a mistake.	
 Maybe Sophie is actually male...?	
 I don't care what the case is.	3
+Hildegard	
+With back to back matches, the team is exhausted. Let's talk to Hildegard for solutions.	
+We won't be able to win the league if we fail to overcome this.	3
+I guess it's time the benchwarmers get a chance.	1
+How about we put that advanced technology of Metro City to use?	
 	
 Felix	
 Kei and Virgil are fighting again and Felix seems to be troubled. What should we do?	
@@ -6286,7 +5979,7 @@ Raklet
 Raklet, who seems to be interested in Eve, is asking your opinion about her. What should we tell her?	
 I'm worried that you two may go around causing trouble if you two are together.	-1
 Maybe she would be too much for you.	
-Maybe you could become a couple if you really really like her.	
+Maybe you could become a couple if you really really like her.	3
 Raklet	
 The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.	
 Let's see what you have to say after the match.	3
@@ -6354,7 +6047,7 @@ Mascot? More like a super model. You are too good looking to be a mere mascot.
 I think it'll suit you well.	3
 Raklet	
 The team became furious after seeing Raklet fall by the focused attack of the opposing team and used that fury to win the game. Let's say something.	
-You did well. Don't worry!	
+You did well. Don't worry!	3
 You can rely on your teammates in situations like this.	1
 Your beauty is a curse.	
 Raklet	
@@ -6381,7 +6074,7 @@ Maybe he just wants to duke it out.
 Ravi	
 Ravi is talking with the team about what they would be doing if they didn't start soccer. Let's join them.	
 I would've tried to find something that fits me.	
-Something full of excitement!	
+Something full of excitement!	-1
 I would've been doing something to save the universe.	-1
 	
 Guinevere	
@@ -6434,6 +6127,11 @@ The team will be cleaning up the lodging. What will you have Guinevere do?
 (Give her instructions so that she can do her share of the cleaning quickly.)	
 (Let her take some of the team memebers and allow them to clean freely.)	3
 (Let her clean, but warn her not to cause any trouble.)	
+Guinevere	
+Guinevere's opponent is smiling whenever they confront each other on the field. Guinevere seems to be nervous. Let's talk to her.	
+That player is just messing with you.	
+I think that player likes you.	1
+You're doing fine. Don't play you opponents's game.	
 	
 Blade	
 During a match, Blade bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?	
@@ -6630,459 +6328,21 @@ You're having a conversation with Marianne about the power of Spirit Stones whic
 I need a Spirit Stone that's as fancy as I am.	
 I won't rely on Spirit Stones.	1
 I would buy them all if I could.	
+Marianne	
+Marianne points out that the time the men of Minerva died and the time the epidemic broke out in Metro City matches.	
+I think that had something to do with dirty money.	
+It would disgust me if that was the result of an evil plot.	
+That's too convenient to be a coincidence.	1
 Mute	
 Sorrow suddenly flies off after seeing a shiny object in the sky.	
 Well, now what?	
 Come back Huginn! Wait, is it Muninn?	-1
 A crow?!	1
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+Mute	
+Mute is asking what to buy in the souvenir shop. Let's give her an opinion.	
+This is your chance to buy the hottest fashion items in space!	
+Gate Keeper dolls! Why not!	
+How about some presents for your parents?	3
 	
 	
 	
@@ -7538,6 +6798,16 @@ Aiolos says to you that it was an honor to be able to play with you. Let's give 
 Let's do our best until the very end.	1
 I never imagined that i'd be used like this.	
 I'm starting to enjoy playing wtth you.	
+Aiolos	
+Ogre's pony tail slapped Aiolos in the face!	
+Even his hair is a weapon! Is that even allowed? 	-1
+That must hurt.	
+Ugh...Gross...	
+Aiolos	
+Mortor and Wizol of the Peacemakers are helping an old man. Aiolos seems to be surprised.	
+Well, what do you know! They have some decency in them after all.	
+Hmmm.	
+It's good to know that they're not shallow people.	3
 	
 Neraizel	
 Neraizel says that the Swirlies are missing.	
@@ -7549,6 +6819,11 @@ Neraizel says that Hiro, a member of the Einherjar, doesn't remember why he was 
 Hmm, a revived person that forgot his purpose... Reminds me of somebody.	-1
 He'll remember someday.	
 That's bad.I'm sure it's something important!	
+Neraizel	
+The rain has messed up the field and the enemy team seems to be determined to crush your team.	
+I can't stand this...I need to end this quickly and go take a shower.	1
+What a depressing weather...	-1
+Well, if it's a muddy dog fight they want, let's give it to them!	
 Neraizel	
 Neraizel, who is always suspicious of you, has you in the corner and is demanding that you reveal who you really are. What should we answer?	
 To become the strongest being in space! I shall tramp on everything that stands in my path!	1
@@ -7782,7 +7057,7 @@ Well, you're cute as Kiki.
 I hope you two become good rivals.	
 Kiki	
 Kiki is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.	
-I'm afraid to be honest.	
+I'm afraid to be honest.	-1
 I was always looking forward for that moment.	3
 Stay by my side and make sure i don't make any mistakes, will you?	
 Kiki	
@@ -7894,7 +7169,7 @@ Kiki
 Kiki has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.	
 You always seem to find the weak point of the opponent's defense and I love that.	-1
 Your attacks are so strong the opponents can't handle it. You should keep that going.	-1
-I hope you'd stop sharing small talks with your opponents on the field.	
+I hope you'd stop sharing small talks with your opponents on the field.	3
 Black Tortoise	
 Black Tortoise seems to be lost. She says she no longer hates the rival team.	
 I don't see a problem with it as long as it doesn't affect your performance on the field.	1
@@ -7904,7 +7179,7 @@ Black Tortoise
 Black Tortoise plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.	
 I'm thinking of opening a shop.	-1
 We'll see about it after the League.	
-I don't care what I do after the League as long as I get to continue playing soccer.	
+I don't care what I do after the League as long as I get to continue playing soccer.	3
 Black Tortoise	
 Black Tortoise is irritated because her opponent has the attribute advantage over her.	
 It's not even a rainbow swirly match. Let's just play for now.	3
@@ -8085,6 +7360,11 @@ The rain has messed up the field and the enemy team seems to be determined to cr
 I can't stand this...I need to end this quickly and go take a shower.	
 What a depressing weather...	
 Well, if it's a muddy dog fight they want, let's give it to them!	3
+Black Tortoise	
+It's a hard match and your team is losing. Talk with Black Tortoise and talk about what to do.	
+We can't give up here. There's still a chance to win this.	3
+I hope they have a "Continue" button around here.	
+Let's come up with a plan after this match is over.	
 Magnus	
 A big fight broke out between an angel and a demon within the team. Magnus is asking for help.	
 I'm going to pick sides of the one I like.	3
@@ -8094,7 +7374,7 @@ Magnus
 Magnus is thinking about what Selena said about saving the galaxy if we win the Galaxy League.	
 Then we should do our very best to win.	-1
 I can play along if there's something in it for me.	
-It's not good to just believe what others say.	
+It's not good to believe what others say.	3
 Magnus	
 Magnus is spreading the happy news about his cousin having a baby. Let's congratulate him.	
 Congratulations!	
@@ -8245,6 +7525,12 @@ Kirin suddenly appears, pats Magnus on the head while teasing him, and then goes
 He's like the wind. There wasn't even time to chat.	
 ...I think you liked it more than you thought...	3
 Patting you on the head? He must not fear for his life!	1
+Magnus	
+Magnus is interested in Selena and is asking for your opinion. What should we say?	
+She's kind and sweet. Maybe you'll have a shot?	1
+Be honest and show a sincere attitude.	
+Considering your personality, I think she'll accept you.	
+	
 Miho	
 Miho is furious about how Lucian is always surrounded by girls. What should we say?	
 Are you jealous?	3
@@ -8330,6 +7616,27 @@ Miho is angry because she was criticized by her performance and is asking your o
 I want to practice with you, if that's okay with you. No? 	3
 I admit it. you're the best in the team. 	
 I'm sure the lessin here is that all of us need to learn. 	
+Miho	
+Miho wants the team to enter the Underground League on Earth. What should we do?	
+That seems like a dangerous idea...Let's not make any quick decisions.	3
+What about just watching?	
+Sure. Let's beat them all and take the prize money!	-1
+Miho	
+The team is in a slump and you take the team out for refreshment. Talk with Miho to set some simple rules.	
+This team is a mess. Gather everybody of the field. I'll knock that spirit back into you guys if I have to.	
+Let's split up and meet back here for dinner. Tell everybody to enjoy their free time.	3
+Come on, I'll show you the best spots around.	
+Miho	
+Miho is sad that the World Tree in Umbra has withered. What could we say to cheer her up?	
+We'll find the ones that did this and use them as fertilizers	
+It's a big tree. It'll stand strong	3
+Who could've done such a hideous thing?	
+Miho	
+Miho is spreading the happy news about her cousin having a baby. Let's congratulate her.	
+Congradulations!	1
+So, the numerous baby clothes you've been making were all for this day?	
+I hope that baby comes to be a great soccer player, just like you.	
+	
 Evylin	
 After a meeting, Evylin's eyes met yours a several times and Evylin asks if she has something on her face.	
 Yeah, Kuma's hat...	
@@ -8340,6 +7647,11 @@ Evylin is telling a story about how an old kingdom in Valhalla was doomed becaus
 I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.	
 So, is that king entering the Galaxy League?	
 Pathetic...That is no king.	1
+Evylin	
+Evylin scored a hat trick and led the team to a complete victory! Congratulate her!	
+Hmm? Didn't we win the game when we score the first goal?	
+That was awesome! I'm looking forward to seeing more of that!	
+You're starting to show the world your true potential! I'm impressed!	1
 Evylin	
 You come across Sammy while walking the street with Evylin. Let's talk to her.	
 We'll win next time!	
@@ -8384,7 +7696,12 @@ Evylin
 The team will not have a match for some time. Evylin asks you about your plan.	
 We could ask one of the top teams for a friendly match.	-1
 Hmmm, wanna go shopping?	
-I have a very hard training session all planed up for everybody.	
+I have a very hard training session all planed up for everybody.	-1
+Evylin	
+Evylin falls to the ground after clashing with the opponent. What should we say to her?	
+If that's all you got, just stay down. It's okay.	
+Get up! The game's not over! You better not give up!	-1
+Well, let's start by dropping that player's HP to 1.	
 	
 Silk	
 The team is at Metro City. Silk seems to be surprised how the people of Metro City have mechanical bodies.	
@@ -8449,7 +7766,7 @@ I'm sure the lesson here is that all of us need to learn.	3
 Silk	
 Silk is spreading the happy news about her cousin having a baby. Let's congratulate her.	
 Congratulations!	3
-So, the numerous baby clothes you've been making were all for this day?	
+So, the numerous baby clothes you've been making were all for this day?	1
 I hope that baby comes to be a great soccer player, just like you.	1
 Silk	
 Silk is deeply focused on Jill's diet story. What should we do?	
@@ -8509,7 +7826,7 @@ It's nice to see two people of different class have a delightful chat.	1
 Silk	
 Silk says she was cornered by the team which was devastated by the loss streak.	
 Tell them they should remember that they play for you.	
-Just hear them out and smile.They'll feel better.	
+Just hear them out and smile.They'll feel better.	3
 You can point out their mistakes and flaws but still keep things humorous.Just don't go too sarcastic on them	1
 Silk	
 Silk says she's having trouble dealing with the young players. Let's give her an answer.	
@@ -8664,7 +7981,7 @@ I guess its time the benchwarmers get a chance. 	3
 How about we put that advanced technology of Metro City to use?	
 Princess Meiran	
 On a day off, Princess Meiran is looking at a passing couple with jealous eyes.	
-I´d love to have a stable job first.	
+I´d love to have a stable job first.	3
 It´s really hard to find the right person.	1
 If you find a handsome man, try talking to him!	1
 Princess Meiran	
@@ -8731,7 +8048,7 @@ Princess Meiran
 Princess Meiran is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.	
 It's only a sport! The strongest team wins, and we are strong!	1
 I'm sure everyboby is feeling the same way you feel.	
-Aren't you the one everyboby should be afraid of?	
+Aren't you the one everyboby should be afraid of?	-1
 Princess Meiran	
 The team is saying bad things about Princess Meiran for skipping practice. Time to intervene.	
 Do you really think that she would skip practice?	3
@@ -8742,12 +8059,22 @@ Princess Meiran wonders why Castor twitches whenever he sees Beatrice.
 Long ago, he was disgraceful towards a dragon emissary.	3
 The character story left him a trauma.	
 Maybe he just wants to duke it out.	
+Princess Meiran	
+Princess Meiran is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.	
+I want one of those. It'll be fun to have a pet dragon.	-1
+I can feel the strength of that majestic creature.	
+Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.	
 	
 Vivid Fear	
 Mortor and Wizol of the Peacemakers are helping an old man. Vivid Fear seems to be surprised.	
 Well, what do you know! They have some decency in them after all.	
 Hmmm.	1
 It's good to know that they're not shallow people.	3
+Vivid Fear	
+Vivid Fear is thinking about what the Universe of Oblivion is.	
+Don't be scared of such petty things.	
+I don't like the word oblivion.	
+I don't care as long as it doesn't harm me.	-1
 Vivid Fear	
 It's a very intense match and Vivid Fear falls on the ground, but a player on the other team helps Vivid Fear up and the two exchange smiles.	
 Guess the match isn't tough for you, huh?	
@@ -8758,6 +8085,11 @@ Cracsus threatens to hack Vivid Fear's personal information and reveal it to the
 Let's blackmail Robin that we;ll pluck out all of his plants.	-1
 I contacted Hildegard.	-1
 Don't fall for this cheap shot.	
+Vivid Fear	
+Vivid Fear is saying that her teammates are what keeps her going.	
+(Put your thumbs up,wink,and send a juicy smile.)	
+(Pat her on the head.)	
+(Just nod your head.)	3
 Vivid Fear	
 The team will not have a match for some time. Vivid Fear asks you about your plan.	
 We could ask one of the top teams for a friendly match.	1
@@ -8866,7 +8198,7 @@ Pathetic. We'll show them that we're better in many ways.	3
 Vivid Fear	
 The crowd is cheering for Vivid Fear. Vivid Fear seems to find this situation new and a bit uncomfortable. Let's help her out.	
 They're all in love with your enthusiatic play.	1
-They know you gave everything you got. It was spectacular.	
+They know you gave everything you got. It was spectacular.	-1
 How about just accepting the compliments for today?	
 Vivid Fear	
 Vivid Fear scored a hat trick and led the team to a complete victory! Congratulate her!	
@@ -8916,7 +8248,7 @@ I don't care what the case is.
 Elizabeth	
 Elizabeth went to take a look at the opponent team and got caught. What should we do?	
 We should think about how to make fun of her when she comes back.	
-I feel sorry for the other team.	
+I feel sorry for the other team.	3
 Elizabeth is in danger! We have to save her!	-1
 Elizabeth	
 Elizabeth says she was cornered by the team which was devastated by the loss streak.	
@@ -9088,6 +8420,21 @@ Elizabeth says she forgot to use her skill points before entering the match. Wha
 That's unacceptable!	
 You can only find your true potential when you don't rely on your skills!	
 Well, we can't do anyting about that right now. Let's focus more on passing the ball.	3
+Elizabeth	
+You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Elizabeth hands you a present.	
+(A cute and pretty pendant)	
+(A surprise box! Inside it there's a cool wallet.)	
+(A chocker with a pretty radical design.)	3
+Elizabeth	
+Kei and Virgil are fighting again and Elizabeth seems to be troubled. What should we do?	
+If you guys keep giving Elizabeth trouble, I swear to god I'll use you both as special training material.	-1
+If you had to choose one of the two, which would it be?	
+You both need to be disciplined by Elizabeth.	
+Elizabeth	
+Elizabeth asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.	
+I guess I'll be chasing you on the road of glory.	
+I want to see everybody smile. I think that'll make me happy.	1
+I'm going to make a joke before I start crying!	
 	
 Shanti	
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Shanti seems to be sick of this.	
@@ -9100,15 +8447,25 @@ Don't mind it. It's our fault. We were'nt able to make use of your strength.
 You did well and I thank you for that.	3
 It's not your fault that you fell during the match. Don't worry about it!	-1
 Shanti	
+The middle fielder on the other team is too powerful. Let's give Shanti some orders.	
+Pass? Shoot? Forfeit? Argh! Just make a run for it!	
+Make him know who he's up against.	
+Let's try out some forward passes.	3
+Shanti	
 Shanti is stressed out saying her opponent has the upper ground on every aspect. What should we do?	
 You can overcome this like always. Right?	3
 It's not your fault. It's your mistakes that took the opponent off guard.	-1
 Let's solve the problems one by one.	
 Shanti	
+Shanti is angry about the opponent's resilient attack on you. What should we say?	
+Don't worry about me! Do your job!	1
+Can you peel this guy off of me?	
+Don't come over here! It's dangerous!	
+Shanti	
 A player on the other team says soccer became enjoyable after confronting Shanti. What should you say?	
 Well, Shanti does have that kind of charm.	3
 Well, you're as cute as Shanti.	
-I hope you two become good friends.	3
+I hope you two become good friends.	-1
 Shanti	
 Shanti says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.	
 I think you two have something in common...	-1
@@ -9254,6 +8611,11 @@ Shanti is having trouble with continuing nightmares. Let's talk to her.
 I'll sleep by your side tonight.	-1
 I see. We must be careful. I'll be watching over you.	-1
 It's just a dream. Forget about it.	
+Shanti	
+You come across Shanti being lost and wandering around while going back to the lodging. Let's talk to her.	
+Are you feeling alright? 	
+Don't use that ability on the field...	-1
+Don't worry, I'll go with you. 	
 	
 Linmay	
 Linmay looks sad because she feels her friendship with a friend in a rival team is falling apart. What should we say to her?	
@@ -9278,7 +8640,7 @@ I'll be your rival from now.	3
 Linmay	
 Linmay is spreading the happy news about her cousin having a baby. Let's congratulate her.	
 Congratulations!	1
-So, the numerous clothes you've been making were all for this day?	
+So, the numerous clothes you've been making were all for this day?	3
 I hope that baby comes to be a great soccer player, just like you.	-1
 Linmay	
 Preparing for the press conference, you're talking with Linmay on which player you think has the brightest future. What will you say?	 is
@@ -9354,7 +8716,7 @@ Linmay
 It's a tough match, but Linmay is standing tall and encouraging the team. What should we say to her?	
 You really help us a lot these situations.	-1
 You're a good person.	-1
-Your spirit is  inspiration to us all.	
+Your spirit is  inspiration to us all.	3
 Linmay	
 Linmay refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.	
 Are you angry because I wasn't there to oversee your training? I said I'm sorry!	3
@@ -9439,13 +8801,23 @@ Linmay
 It's Linmay's birthday. Let's give her a present.	
 Here! I made some cookies with the team.	
 I stole this treasure box from Kuma.	
-This is a championship trophy replica for you. The designs are inspired by you.	3
+This is a championship trophy replica for you. The designs are inspired by you.	-1
 	
 Duran	
 The team will not have a match for some time. Duran asks you about your plan.	
 We could ask one of the top teams for a friendly match.	
 Hmm, wanna go shopping?	
 I have a very hard training session all planned up for everybody.	3
+Duran	
+Duran falls to the ground after clashing with the opponent. What should we say to him?	
+If that's all you've got, just stay down. It's okay.	3
+Get up! The game's not over! You better not give up!	
+Well, let's start by dropping that player's HP to 1.	
+Duran	
+Duran is complaining about a teammate and is asking for your opinion.	
+If you're better than your teammates, you should be the one to be considerate.	3
+I'm not comfortable with this converstation.	
+He can be irritating.	
 Duran	
 Duran was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.	
 Oh, that'll be so cute!	
@@ -9588,7 +8960,7 @@ They know you gave everything you got. It was spectacular	-1
 How about just accepting the compliments for today?	3
 Duran	
 Cracsus threatens to hack Duran's personal information and reveal it to the world. What should we do?	
-Let's blackmail Robin that we;ll pluck out all of his plants.	
+Let's blackmail Robin that we;ll pluck out all of his plants.	1
 I contacted Hildegard.	
 Don't fall for this cheap shot.	1
 Duran	
@@ -9604,7 +8976,7 @@ That's too convenient to be a coincidence.
 Duran	
 It's a very intense match and Duran falls on the ground, but a player on the other team helps Duran up and the two exchange smiles.	
 Guess the match isn't that tough for you, huh?	3
-True sportsmanship! Wonderful!	
+True sportsmanship! Wonderful!	-1
 That player must have a heart of gold.	
 Duran	
 Duran is thinking about what the Universe of Oblivion is.	
@@ -9625,7 +8997,12 @@ Khirel
 Does one have to make intentional fouls in order to win? Let's give him some advice.	
 Is winning really worth going that far?	
 I don't see anything wrong as long as you can get away with it.	-1
-Be true to yourself.	
+Be true to yourself.	3
+Khirel	
+Khirel is making a scene. He'd rather jump into space than to be eaten alive by vicious aliens.	
+Vicious? More like ugly.	
+The door's over there.	
+Are you giving up before putting up a fight?	3
 Khirel	
 Khirel plans to continue playing soccer even after the Galaxy League ends. Let's talk with him.	
 I'm thinking of opening a shop.	
@@ -9820,7 +9197,7 @@ Wow. I'm sooooo happy.	3
 Saramir	
 Saramir is asking what to buy in the souvenir shop. Let's give her an opinion.	
 This is your chance to buy the hottest fashion items in space!	
-Gate Keeper dolls! Why not!	
+Gate Keeper dolls! Why not!	3
 How about some presents for you parents?	1
 Saramir	
 The team will not have a match for some time. Saramir asks you about your plan.	
@@ -9845,7 +9222,7 @@ We can play soccer with the penguins.
 Saramir	
 Saramir scored a hat trick and led the team to a complete victory! Congratulate her!	
 Hmm? Didn't we win the game when we score the first goal?	
-That was awesome! I'm looking forward to seeing more of that!	
+That was awesome! I'm looking forward to seeing more of that!	-1
 You're starting to show the world your true potential! I'm impressed!	1
 Saramir	
 Saramir lost to the opponent and fell to the ground. What should we do?	
@@ -9926,7 +9303,7 @@ Is there someone on that team that you like?
 Aslan	
 Aslan seems to be upset about losing a body check against her opponent.	
 Let's make an armor out of spirit stones.	
-Maybe if you increase your strength.	
+Maybe if you increase your strength.	3
 Don't be weak.	1
 Aslan	
 Aslan is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.	
@@ -9983,7 +9360,12 @@ Aslan's form has been improving rapidly. She says she can't wait for the next ma
 If you keep it up like that you's be able to play superbly in any position.	3
 Remember that feeling and use it when things get tough.	
 Consumed a lot of Swirlies, i see.	
- 	
+Aslan	
+Aslan is asking what the conditions of a team ace are with a serious face. Let's talk with her.	
+Just act like yourself. You're already the ace.	
+Well, having a good ace skill is a start.	1
+Flawless skills.	
+	
 Rudiel	
 Rudiel falls to the ground after clashing with the opponent. What should we say to her?	
 If that's all you got, just stay down. It's okay.	
@@ -9994,7 +9376,17 @@ King Jin
 After a meeting, King Jin's eyes met yours a several times and King Jin asks if he has something on his face.	
 Yeah, Kuma's hat...	
 I was just thinking the team became stronger, thanks to you.	1
-I was just thinking about how much you do for the team.	
+I was just thinking about how much you do for the team.	-1
+Jin	
+During a match, King Jin bumped into a teammate and knocked the player out. He seems depressed. What should we say to cheer him up?	
+Wasn't that glitch?	-1
+We have to keep on going.	1
+It's something that happened during the match.Don't be so hard on yourself.	
+Jin	
+Preparing for the press conference, you're talking with King Jin on which player you think has the brightest future. What will you say?	
+You and I are already perfect. So I guess that means we shouldn't be saying our names.	1
+I can't pick just one...	
+I think it should be you, but will you be able to return to your normal life after all of this is...Wait, I'm going off topic, right?	
 Jin	
 King Jin is asking what the conditions of a team ace are with a serious face. Let's talk with him.	
 Just act like yourself. You're already the ace.	3
@@ -10198,7 +9590,7 @@ I feel sorry for the other team.	1
 Kirin is in danger! We have to save him!	-1
 Kirin	
 This match will be held on Earth. We still have some time. What do you want to do?	
-Well, I could show you around and introduce you to the things on Earth.	
+Well, I could show you around and introduce you to the things on Earth.	3
 I heard that the bath products on Earth are the best in the universe.	1
 I'm going to check out the new comic issues. Wanna come along?	1
 Kirin	
@@ -10258,7 +9650,7 @@ It's all because nobody on this team cares about strategy! This is nonsense!
 We haven't awakened our TRUE power! We have to go further beyond!	-1
 Kirin	
 Kirin is suddenly showing massive improvement in his performance. He must've learned something during a match.	
-Impressive! You're the ace of this team now!	
+Impressive! You're the ace of this team now!	3
 You've become better. Now you need to focus on staying that way.	
 I knew this day would come.	-1
 Kirin	
@@ -10341,7 +9733,27 @@ Beatrice
 MX54 Butcher is closing in on a cat with a suspicious smile.	
 Stop right there!	-1
 Excuse me, but do you have an appointment with that cat?	
-...Maybe he just like cats!	
+...Maybe he just like cats!	1
+Beatrice	
+Beatrice wants to know what the Swirlies really are. Give her an answer.	
+Beginner level monsters in an RPG game.	
+Thankful beings that will be our +160.	-1
+I'm planning to make a whole line of merchandise with them as the character.	
+Beatrice	
+Beatrice is saying that the universe needs more than stars to brighten it up. Let's talk to her.	
+Life is a light of its own.	
+That's deep. I think it's cool.	
+How about we make it to the top of the Galaxy League and shine the universe with the light within us?	1
+Beatrice	
+Beatrice is worried about the team's poor performance. Let's go talk to her.	
+Everybody is not at 100%. But, I think we'll do better sooner or later.	1
+It's all because nobody on this team cares about strategy! This is nonsense!	
+We haven't awakened our TRUE powers! We have to go further beyond!	
+Beatrice	
+The match and the concert that Beatrice was looking for start at the same time...	
+Let's hack the big screen so we can see the concert!	
+Channel that sorrow and rage towards your opponents and make them pay.	
+I'm sorry that you couldn't go.	3
 	
 Zhen Long	
 Zhen Long thinks he knows who Lynbell's brother is. What should we do?	
@@ -10387,7 +9799,7 @@ Zhen Long
 The members of Siena Celtron are furiously searching the stadium for Kuma.	
 Kuma alert! Get back to the shelter!	
 Let's ignore them and get ready for the match.	1
-Let's give them a hand.	
+Let's give them a hand.	3
 Clarisa	
 Clarisa is worried about the team's poor performance. Let's go talk to her.	
 Everybody is not at 100%.But,i think we'll do better sooner or later.	
@@ -10496,6 +9908,11 @@ Ernesto is surprised of how sturdy the ball is, as it withstands the strength of
 It's surprising to see such advanced technology.	-1
 Well, I have no problem with it as long as it functions as a soccer ball.	
 Do you think we can sell it? I think we could get a good price.	
+Ernesto	
+Ernesto is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to him?	
+That doesn't change what we must do.	3
+Come on, cheer up. You're not being yourself.	
+Stop whining, I like it better when you're arrogant and sarcastic.	
 	
 Xing	
 The members of Siena Celtron are furiously searching the stadium for Kuma.	
@@ -10518,546 +9935,11 @@ Castor is impressed by the help he received from the elementals. Let's talk to h
 The only problem is that they take up a lot of space in the inventory.	
 I feel like the whole universe is cheering for us when we're with the elementals!	
 I am so thankful to them.	3
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+Castor	
+Castor is asking about the team's goal of this season. What should you tell him?	
+To win all the way, of course.	3
+Best of 4 should be oar goal.	
+Teamwork is what matters the most.	
 	
 	
 	
@@ -11565,6 +10447,11 @@ You come across Sky who is limping. She says it's nothing. What should we do?
 I think I'll get injured too if you're on the field. Please sit on the bench.	
 Trust me and your teammates. Sit this one out.	-1
 Don't push yourself too hard. Get off the field if you don't think you can continue.	
+Sky	
+Sky looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.	
+Did you prepare your meds in case you got space-sick? Never mind, I'll prepare the meds.	
+Don't worry. Leave it up to me.	-1
+Littre will be fine.	
 	
 Sammy	
 This match will be held on Earth. We still have some time. What do you want to do?	
@@ -11629,7 +10516,7 @@ A crow?!	3
 Sammy	
 Sammy wants to hear about your plans on training the new players. What should we answer?	
 Perfect planning and perfect execution.	1
-All goes as planned...Hmm? Just ignore that.	
+All goes as planned...Hmm? Just ignore that.	-1
 Why don't you join them and find out?	
 Sammy	
 The rain has messed up the field and the enemy team seems to be determined to crush your team.	
@@ -11733,8 +10620,8 @@ It`s all becouse nobody on this team cares about strategy! This is nonesense!
 We haven`t awakened our TRUE powers! We have to go further beyond!	-1
 Sammy	
 Your team seems to be too worried about the next match against the all stars of Minerva. Sammy wants to say a word.	
-Get yourselves together, guys. Are you going to give up already?	
-Come on guys, you know it's an exciting thing to be playing against a strong team! Keep your heads up high!	
+Get yourselves together, guys. Are you going to give up already?	3
+Come on guys, you know it's an exciting thing to be playing against a strong team! Keep your heads up high!	-1
 They will be sacrificed for our victory and honor.	1
 Sammy	
 You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.	
@@ -11746,6 +10633,16 @@ Let's talk to Sammy who recently started to take interest in the world of angels
 It's a place to rest for the good.	-1
 I'm sure it'd be full of hypocrites.	1
 I hope it's not a boring place.	3
+Sammy	
+Sammy is asking who you think of first when you win a match. Let's answer.	
+My teammates and their flawless play!	
+My friends from previous life... They would be pleased to see me win. 	-1
+My fans!	3
+Sammy	
+Sammy is curious about the Galaxy League. What answer will help her?	
+It's the place where the chosen ones learn about their destiny.	
+It's the place of dreams colliding.	3
+It's stressful because we can't prepare for extraterrestrial sanitation. We're completely exposed to all those unknown...things.	
 	
 Skorn	
 Skorn is being annoying with his offensive words. What should we do?	
@@ -11787,6 +10684,7 @@ Skorn says that he thinks Alkyde looks at Fontus in a funny way. Let's give him 
 That's a mixture of mockery, sympathy, and love.	-1
 I think she likes him.	
 Maybe she's up to something.	
+	
 Valkyrja Beth	
 The teammates are speaking highly of Valkyrja Beth, saying she's a good role model. Let's add in.	
 Thank you for doing whatever it takes to win.	
@@ -11941,7 +10839,7 @@ Valkyrja Beth
 Cracsus threatens to hack Valkyrja Beth's personal information and reveal it to the world. What should we do?	
 Let's blackmail Robin that we'll pluck out all his plants.	
 I contacted Hildeguard.	1
-Don't fall for this cheap shot.	
+Don't fall for this cheap shot.	3
 Valkyrja Beth	
 Valkyrja Beth is asking you if you ever saw the World Tree. Let's tell her your thoughts.	
 Let's not talk about anything irrelevant to the match.	
@@ -11954,14 +10852,19 @@ That wasn't enough! You have to try harder!
 It's experiences like this that bonds us together.	3
 Valkyrja Beth	
 Valkyrja Beth is furious about the referee that's clearly favoring the other team. Should we stop her?	
-	-1
+(Step on the referee's foot and pretend it was an accident.)	-1
 The tougher it gets, the better it feels to win. Right?	
 Ignore the referee. Focus on the match.	
+Valkyrja Beth	
+Valkyrja Beth feels her heart races when she sees Littre.	
+...Do you want to spend the rest of your life being with an abusive hervibore like alien creature?	
+...Do you want a Superb Power-up?	3
+...That's not a rabbit.	
 	
 Vonchi	
 Ogre's pony tail slapped Vonchi in the face!	
 Even his hair is a weapon! Is that even allowed?	-1
-That must hurt.	
+That must hurt.	3
 Ugh...Gross...	
 Vonchi	
 Vonchi is irritated because her opponent has the attribute advantage over her.	
@@ -12029,6 +10932,11 @@ I feel like he's mocking us!
 It hurts when the whip first crackles. And the pain just keeps ramping up.	-1
 He still has his two legs functioning. I see no problem with that.	1
 Vonchi	
+You come across Sammy while walking the street with Vonchi. Let's talk to her.	
+We'll win next time!	
+Do you also do fortune telling? I think I'm in love.	1
+(Ignore.)	
+Vonchi	
 The team made it up to the semi-finals after counting the goal differences. Vonchi asks how you feel. How should we answer?	
 What, are you expecting something like "I feel I'm in heaven" or something?	
 This is where things get serious. We're going for the win!	3
@@ -12087,7 +10995,7 @@ Vonchi
 The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.	
 That's a sad story. I'm tearing up.	
 I feel bad for them, but that's no excuse for throwing the game.	1
-It would be rude to them if we don't do our best.	
+It would be rude to them if we don't do our best.	3
 Vonchi	
 As Vonchi said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.	
 I'm sure it's going in a good direction.	
@@ -12106,7 +11014,7 @@ How about some presents for your parnets?
 Vonchi	
 Vonchi is impressed by the help he received from the elementals. Let's talk to him.	
 The only problem is that they take up a lot of space in the inventory.	-1
-I feel like the whole universe is cheering for us when we're with the elementals.	
+I feel like the whole universe is cheering for us when we're with the elementals.	3
 I am so thankful to them.	
 Vonchi	
 Lynia is cleaning the streets with the members of Jeneva Crew. Vonchi is curious and wants to take a look.	
@@ -12120,9 +11028,19 @@ Throw it away. NOW.
 Drink it up!	3
 Vonchi	
 Vonchi is suddenly showing massive improvement in his performance. He must've learned something during a match.	
-Impressive! You're the ace of this team now!	
+Impressive! You're the ace of this team now!	3
 You've become better. Now you need to focus on staying that way.	
 I knew this day would come.	-1
+Vonchi	
+You find Vonchi depressed for not playing well during the match. Let's cheer him up.	
+Don't mind it. It's our fault. We weren't able to make use of your strength.	
+You did well and i thank you for that.	3
+It's not your fault that you fell during the match. Don't worry about it.	
+Vonchi	
+Vonchi is questioning your promise to make the best team ever. It's time to redeem yourself.	
+Don't be all negative because there were some mistakes. You're a precious part of this team.	
+Don't be anxious. Have faith and keep following me.	-1
+That's why i need your help.	
 	
 Black Ivy	
 Black Ivy announces that she will become an influential player that changes the league completely. Let's give her an answer.	
@@ -12167,7 +11085,7 @@ We can overcome this with team effort.	-1
 Black Ivy	
 Black Ivy is telling a story about how an old kingdom in Valhalla was doomed because of the king.	
 I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.	-1
-So, is that king entering the Galaxy League?	
+So, is that king entering the Galaxy League?	3
 Pathetic... That is no king.	
 Black Ivy	
 The team is in a slump and you take the team out for refreshment. Talk with Black Ivy to set some simple rules.	
@@ -12444,7 +11362,7 @@ Fontus...You sure are my archnemesis!
 Virgil	
 Virgil was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.	
 Oh, that'll be so cute!	
-It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!	
+It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!	3
 We can play soccer with the penguins!	-1
 Virgil	
 Virgil is surrounded by fans and seems to be overwhelmed. Let's talk to him.	
@@ -12490,7 +11408,7 @@ Virgil
 Ogre's pony tail slapped Virgil in the face!	
 Even his hair is a weapon! Is that even allowed?	-1
 That must hurt.	1
-Ugh...Gross...	
+Ugh...Gross...	3
 Virgil	
 The rain has messed up the field and the enemy team seems to be determined to crush your team.	
 I can't stand this...I need to end this quickly and go take a shower.	3
@@ -12578,7 +11496,7 @@ Gate Keeper dolls! Why not!
 How about some presents for your parents?	3
 Virgil	
 Virgil wants to hear about your plans on training the new players. What should we answer?	
-Perfect planning and perfect execution.	
+Perfect planning and perfect execution.	3
 All goes as planned... Hmm? Just ignore that.	-1
 Why don't you join them and find out?	
 	
@@ -12652,6 +11570,7 @@ The team made it up to the semi-finals after counting the goal differences. Hiro
 What, are you expecting something like "I feel I'm in heaven" or something?	
 This is where things get serious. We're going for the win!	3
 Wow. I'm sooooo happy.	
+	
 Mikael	
 Mikael is deeply focused on Jill's diet story. What should we do?	
 I don't think you need to worry about a diet.	1
@@ -12711,7 +11630,7 @@ Mikael
 You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Mikael hands you a present.	
 (A cute and pretty pendant)	1
 (A surprise box! Inside it there's a cool wallet.)	
-(A chocker with a pretty radical design.)	
+(A chocker with a pretty radical design.)	1
 	
 Milky Way	
 The team made it up to the semi-finals after counting the goal differences. Milky Way asks how you feel. How should we answer?	
@@ -12750,7 +11669,7 @@ Trust me and your teammates. Sit this one out.	1
 Don't push yourself too hard. Get off the field if you don't think you can continue.	1
 Milky Way	
 You come across Sammy while walking the street with Milky Way. Let's talk to her.	
-We'll win next time!	
+We'll win next time!	1
 Do you also do fortune telling? I think I'm in love.	3
 (Ignore.)	
 Milky Way	
@@ -12796,7 +11715,7 @@ Drink it up!
 Milky Way	
 Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Milky Way.	
 I think he felt better because of the positive energy you always have around you.	1
-Maybe he got embarrased for being obsessed with his past?	
+Maybe he got embarrased for being obsessed with his past?	-1
 You saved us all from that awkward moment by tripping on your own foot.	
 Milky Way	
 Milky Way was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.	
@@ -12867,7 +11786,7 @@ Milky Way
 Milky Way has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.	
 You always seem to find the weak point of the opponent's defense and I love that.	-1
 Your attacks are so strong the opponents can't handle it. You should keep that going.	-1
-I hope you'd stop sharing small talks with your opponents on the field.	
+I hope you'd stop sharing small talks with your opponents on the field.	3
 Milky Way	
 Milky Way's opponent is smiling whenever they confront each other on the field. Milky Way seems to be nervous. Let's talk to her.	
 That player is just messing with you.	
@@ -12903,6 +11822,16 @@ The team will not have a match for some time. Milky Way asks you about your plan
 We could ask one of the top teams for a friendly match.	
 Hmm, wanna go shopping?	3
 I have a very hard training session all planned up for everybody.	
+Milky Way	
+Milky Way is saying that her teammates are what keeps her going.	
+(Put your thumbs up, wink, and send a juicy smile.)	
+(Pat her on the head.)	3
+(Just nod your head.)	
+Milky Way	
+You find Milky Way depressed for not playing well during the match. Let's cheer her up.	
+Don't mind it. It's our fault. We weren't able to make use of your strength.	
+You did well and I thank you for that.	
+It's not your fault that you fell during the match. Don't worry about it!	3
 	
 Kei	
 The middle fielder on the other team is too powerful. Let's give Kei some orders.	
@@ -12971,7 +11900,7 @@ Why does an ordinary advice sound so strange..
 I'm surprised you said that. I won't ask what happened to you.	3
 Kei	
 Preparing for the press conference, you're talking with Kei on which player you think has the brightest future. What will you say?	
-You and I are already perfect. So I guess that means we shouldn't be saying our names. 	
+You and I are already perfect. So I guess that means we shouldn't be saying our names. 	3
 I can't pick just one...	
 I think it should be you, but will you be able to return to your normal life after all of this is...Wait, I'm going off topic, right? 	-1
 Kei	
@@ -13027,7 +11956,7 @@ What's wrong with her?
 She shines even in the darkest storms! How gorgeous!	3
 Chitose	
 You come across Chitose who is limping. She says it's nothing. What should we do?	
-I think I'll get injured too if you're on the field. Please sit on the bench.	
+I think I'll get injured too if you're on the field. Please sit on the bench.	3
 Trust me and your teammates. Sit this one out.	1
 Don't push yourself too hard. Get off the field if you don't think you can continue.	-1
 Chitose	
@@ -13086,8 +12015,13 @@ She's kind and sweet. Maybe you'll have a shot?
 Be honest and show a sincere attitude.	3
 Considering your personality, I think she'll accept you.	-1
 Chitose	
+Chitose is having trouble with continuing nightmares. Let's talk to her.	
+I'll sleep by your side tonight.	3
+I see. We must be careful. I'll be watching over you.	
+It's just a dream. Forget about it.	
+Chitose	
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?	
-Well, you did get ''dirty'' by falling in the dirt.	
+Well, you did get ''dirty'' by falling in the dirt.	3
 We didn't play dirty, right?	1
 They will never learn with an attitude like that.	1
 Chitose	
@@ -13151,6 +12085,11 @@ It's a hard match and your team is losing. Talk with Amaranth and talk about wha
 We can't give up here. There's still a chance to win this.	-1
 I hope they have a "Continue" button around here.	
 Let's come up with a plan after this match is over.	
+Amaranth	
+Amaranth wants to know what the Swirlies really are. Give her an answer.	
+Beginner level monster in an RPG Game.	
+Thankful beings that will be our +160.	 
+I'm planning to make a whole line of merchandise with them as the character.	
 	
 Ruen	
 You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Ruen hands you a present.	
@@ -13427,7 +12366,7 @@ Silla
 Preparing for the press conference, you're talking with Silla on which player you think has the brightest future. What will you say?	
 You and I are already perfect. So I guess that means we shouldn't be saying our names. 	1
 I can't pick just one...	
-I think it should be you, but will you be able to return to your normal life after all of this is...Wait, I'm going off topic, right?	
+I think it should be you, but will you be able to return to your normal life after all of this is...Wait, I'm going off topic, right?	-1
 	
 Net	
 You come across Net being lost and wandering around while going back to the lodging. Let's talk to him.	
@@ -13554,12 +12493,17 @@ Uriel
 Uriel came back without a penny after marching into the Casino.	
 What happened to you? Do you want me to lend you some money?	-1
 I'm sure you got scammed.	
-I hope that wasn't all you got.	
+I hope that wasn't all you got.	3
 Uriel	
 It's a hard match and your team is losing. Talk with Uriel and talk about what to do.	
 We can't give up here. There's still a chance to win this.	3
 I hope they have a "Continue" button around here.	
 Let's come up with a plan after this match is over.	
+Uriel	
+Uriel looks startled after learning the underworld actually exists.	
+It's space. Anything can exist here.	
+How about we ask Jeunese?	1
+Sounds like a more boring place than Cruzentes.	
 	
 Latios	
 You were taking a walk in the Nadir forest with Latios and came across Enthia standing in the middle of a burnt part of the forest.	
@@ -13571,6 +12515,11 @@ You're talking to Latios about what you would do if the world ends tomorrow. Let
 I would say goodbye to all my friends.	3
 If it's the end of the world, I'd pull of a crazy performance in a densely populated area before I go!	
 Hmm, there's a guy I like to beat up before I die.	1
+Latios	
+Let's talk to Latios who recently started to take interest in the world of angels.	
+It's a place to rest for the good.	3
+I'm sure it'd be full of hypocrites.	
+I hope it's not a boring place.	
 Latios	
 Cracsus threatens to hack Latios's personal information and reveal it to the world. What should we do?	
 Let's blackmail Robin that we'll pluck out all of his plants.	
@@ -13602,6 +12551,11 @@ Anael says that Bell seemed depressed when she told Bell that Minerva's throne i
 It'll be better if you don't show her that you're sorry.	1
 Did she think that you'll take over the throne?	
 I sense that there's something she hasn't told us yet...	-1
+Anael	
+Lynia is cleaning the streets with the members of Jeneva Crew. Anael is curious and wants to take a look.	
+We should probably ignore them and just walk by.	
+Let's go help them!	
+The must love volunteer work!	-1
 Anael	
 Anael wants to know what the Swirlies really are. Give her an answer.	
 Beginner level monster in an RPG Game.	
@@ -13784,6 +12738,11 @@ Hyang Ran, the Shaman is worried about the team's poor performance. Let's go tal
 Everybody is not at 100%. But,i think we'll do better sooner or later.	3
 It's all because nobody on this team cares about strategy!This is nonsense!	
 We haven't awakened our TRUE powers! We have to go further beyond!	
+Hyang Ran, the Shaman	
+Hyang Ran, the Shaman is deeply focused on Jill's diet story. What should we do?	
+I don't think you need to worry about diets.	1
+You're playing soccer! You're fine!	
+Please don't forget about the match.	
 	
 Dynames	
 Dynames wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.	
@@ -13795,6 +12754,11 @@ It's a tough match, but Dynames is standing tall and encouraging the team. What 
 You really help us a lot in these situations.	-1
 You're a good person.	
 Your spirit is an inspiration to us all.	
+Dynames	
+Dynames seems to be uncomfortable to hear about the love life of other teammates. Let's talk to him.	
+It's all good as long as it doesn't affect the match.	
+Should we join the club?	-1
+Just say it. You're jealous.	
 	
 Crocell	
 Crocell is complaining about a teammate and is asking for your opinion.	
@@ -13806,6 +12770,16 @@ Cracsus threatens to hack Crocell's personal information and reveal it to the wo
 Let's blackmail Robin that we'll pluck out all of his plants.	
 I contacted Hildegard.	
 Don't fall for this cheap shot.	1
+Crocell	
+Let's talk to Crocell who recently started to take interest in the world of angels.	
+It's a place to rest for the good.	
+I'm sure it'd be full of hypocrites.	
+I hope it's not a boring place.	3
+Crocell	
+The crowd is cheering for Crocell. Crocell seems to find this situation new and a bit uncomfortable. Let's help him out.	
+They're all in love with your enthusiastic play.	1
+They know you gave everything you got. It was spectacular.	
+How about just accepting the compliments for today?	
 	
 Didi	
 Didi looks excited to see a comet shower, which is a rare sight. What should we say to her?	
@@ -13839,12 +12813,6 @@ It's all thanks to you.	1
 It's a result of team effort.	
 The opponents are mesmerized by the beauty of our players.	
 	
-Hyang Ran, the Shaman	
-Hyang Ran, the Shaman is deeply focused on Jill's diet story. What should we do?	
-I don't think you need to worry about diets.	1
-You're playing soccer! You're fine!	
-Please don't forget about the match.	
-	
 White Guardenia	
 Nari is dancing and singing a song about the galaxy.	
 The stage is so majestic! It's awesome!	
@@ -13866,11 +12834,18 @@ Let's work up a solution.	3
 I'm disappointed, too. Let's start over.	
 Just please go with that boring strategy.	
 	
+Savnok	
+Savnok suggests that we visit the Celestial Castle, which is a place that the baby angels live.	
+What's the agenda here? Are you trying to taint the pure angels?	
+This is a good chance to show the baby angels how rough soccer can be!	
+That would be wonderful! I'll go ask for permission.	3
+	
 Tod	
 You're walking in a narrow ally and come across Tod having an intense staring contest with the captain of the opposing team. What should we say?	
 Save the energy for the match	
 How about solving this with a game of rock, scissors,  paper?	
 I see two idiots standing in front of me.	-1
+	
 Fizz	
 Fizz says that the Swirlies are missing.	
 They were sacrificed as material for a greater cause.	
@@ -14584,16 +13559,377 @@ This is good. We can use this chance to break their backline.
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 Alice	
 Alice is asking what the conditions of a team ace are with a serious face. Let's talk with her.	
 Just act like yourself. You're already the ace.	3
 Well, having a good ace skill is a start.	
-Flawless skills.	
+say	
+Alice	
+You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.	
+If this is how they do a memorial in Valhalla, it's natural to understand and accept.	
+I think it's a nice way to cherish the memories of the lost.	3
+Maybe it was a good thing? I mean they say it's a tragedy, but look at how joyful it is.	
 Alice	
 With a serious face, Alice is asking what the true meaning of competition is. Let's give her an answer.	
 Being together is enough for me.	
 Away that a mere high school student can prevent the universe from falling into chaos?	1
 Well,l'm sure we'll get an answer when we ge to the end of this.	
+Alice	
+Alice claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?	
+She must've made a mistake.	
+Maybe Sophie is actually a male..?	3
+I don't care what the case is.	
 Alice	
 Alice is deeply focused on Jill's diet story. What should we do?	
 I don't think you need to worry about a diet.	1
@@ -14624,6 +13960,11 @@ Alice seems to be lost after having a good match while her fortune-telling said 
 They say the fortune-telling is inaccurate if you don't pay a sufficient price.	-1
 It's just a myth. Forget about it.	1
 Game results aren't that simple to be predicted by fortune-telling.	3
+Alice	
+Alice seems to be lost. She says she no longer hates the rival team.	
+I don't see a problem with it as along as it doesn't affect your performance on the field.	
+I guess that's natural. The matches against them were great.	3
+Is there someone on that team that you like? Go propose!	-1
 Alice	
 Alice is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.	
 It's surprising to see such advanced technology.	
@@ -14738,7 +14079,7 @@ Alice
 Alice says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.	
 That's a mixture of mockery, sympathy, and love.	-1
 I think she likes him.	-1
-Maybe she's up to something.	
+Maybe she's up to something.	3
 Alice	
 Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Alice is starting to get intimidated.	
 Okay, it's time we take this match seriously.	3
@@ -14842,7 +14183,7 @@ The tougher it gets, the better it feels to win. Right?
 Ignore the referee. Focus on the match.	
 Alkyde	
 Alkyde feels her heart races when she sees Littre.	
-...Do you want to spend the rest of your life being with an abusive herbivore like alien creature?	
+...Do you want to spend the rest of your life being with an abusive herbivore like alien creature?	-1
 ...Do you want a Superb Power-up?	-1
 ...That's not a rabbit.	
 Alkyde	
@@ -14870,6 +14211,11 @@ Alkyde
 This could all be avoided if we become mesmerized by you. Do as you please.	
 I think they're also mesmerized by you. You have a charm that matches a demon...	3
 As pathetic as they are, let's let this one slide.	
+Alkyde	
+Alkyde is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?	
+You don't need to be the one being dragged around.	
+You will be happy, while that feeling lasts.	
+Think about your teammates that are counting on you.	1
 	
 Avnore	
 You're sick and in bed when Avnore and the teammates come to cheer you up. What will your response be?	
@@ -15078,7 +14424,7 @@ Stop right there, pig!
 Team! We're having sauteed shredded pork for tonight!	
 Baltheon	
 During a match, Baltheon bumped into a teammate and knocked the player out. He seems depressed. What should we say to cheer him up?	
-Wasn't that a glitch?	
+Wasn't that a glitch?	-1
 We have to keep on going.	3
 It's something that happened during the match. Don't be so hard on yourself.	1
 Baltheon	
@@ -15287,7 +14633,7 @@ Jheet
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Jheet seems to be sick of this.	
 Okay! Now i'll tell you all the good stuff about Jheet!	1
 Iron Claw!	
-Oh, there's Princess Merian! (Runs away)	
+    	
 Jheet	
 Jheet is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give him an answer.	
 They're on cooldown.	
@@ -15427,7 +14773,7 @@ Trust me and your teammates. Sit this one out.	-1
 Don't push yourself too hard.  Get off the field if you don't think you can continue.	3
 Lucid	
 Recently, Lucid seems to enjoy chatting with Jin. She thinks Jin is funny. Let's talk with her.	
-I can't believe he's still an active player even at that age.	
+I can't believe he's still an active player even at that age.	1
 Oh how much I'd love to show you what his "true" form is like.	-1
 I didn't know you were into old man.	
 Lucid	
@@ -15560,7 +14906,7 @@ Don't fall for this cheap shot.	3
 Metatron	
 The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.	
 That's a sad story. I'm tearing up.	-1
-I feel bad for them, but that's no excuse for throwing the game.	-1
+I feel bad for them, but that's no excuse for throwing the game.	3
 It would be rude to them if we don't do our best.	1
 Metatron	
 As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.	
@@ -15803,7 +15149,7 @@ Presty
 Kuma is caught sneaking in the woman's locker room once again. We should talk with Presty about what to do with him.	
 Let's make him put on Ogre's underwear	-1
 Let's make him put on Alkyde's underwear	
-I'm not sure if it's safe, but we can use him for leveling up.	
+I'm not sure if it's safe, but we can use him for leveling up.	3
 Presty	
 Presty continues to charge into the opponent's defense line and keeps failing. What should we do?	
 (Make a strategic decision.)	
@@ -15853,7 +15199,7 @@ Presty
 It's dinner time and Presty is staring at her carrot soup with a troubled look. What should we do?	
 (Eat it instead of her.)	1
 (Tell her to put the carrots in the soup on Hildegard's plate.)	
-(Tell her that carrots are good for the body and to eat it all.)	
+(Tell her that carrots are good for the body and to eat it all.)	3
 Presty	
 You witnessed a player on the other side putting a tack in Presty's shoe.	
 (Ignore it)	
@@ -16044,7 +15390,7 @@ Ravian
 The middle fielder on the other team is too powerful. Let's give Ravian some orders.	
 Pass? Shoot? Forfeit? Argh! Just make a run for it!	
 Make him know who he's up against.	-1
-Let's try some forward passes.	
+Let's try some forward passes.	3
 Ravian	
 Ravian's form has been improving rapidly. She says she can't wait for the next match. What should we say to her?	
 If you keep it up like that you'd be able to play superbly in any position.	
@@ -16188,7 +15534,7 @@ Your attacks are so strong the opponents can't handle it. You should keep that g
 I hope you'd stop sharing small talks with your opponents on the field.	
 Serestia	
 Serestia is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.	
-They're on cooldown.	
+They're on cooldown.	-1
 They support us from the shadows.	
 Even if they're not on the field with us, we're fighting as one. Right?	1
 Serestia	
@@ -16200,7 +15546,7 @@ Serestia
 You're walking in a narrow ally and come across Serestia having an intense staring contest with the captain of the opposing team. What should we say?	
 Save the energy for the match.	-1
 How about solving this with a game of rock, scissors, paper?	
-...I see two idiots standing in front of me...	
+...I see two idiots standing in front of me...	3
 Serestia	
 During a match, Serestia bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?	
 Wasn't that a glitch?	
@@ -16579,7 +15925,11 @@ Vitos is curious of the whereabouts of the managers that are nowhere to be seen 
 They're pn cooldown.	
 They support us from the shadows.	1
 Even if they're not on the field with us, we're fighting as one. Right?	
-	
+Vitos	
+Vitos, who is determined to make everything in his life, even his dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.	
+It was an intense feeling as if I was going against the strongest team in the universe.	1
+I've never dreamt about soccer.	
+I've been chased by a soccer ball monster in my dreams. It was terrifying.	
 Malcolm	
 Malcolm says that the captain of team Scout Entry seems to take good care of the team members.	
 Well, I'm better than him because I'm in love with this team.	3
@@ -16640,6 +15990,11 @@ Malcolm seems to get along with the opponent player. What should we tell him?
 Congratulations! How did you guys get along?	
 Don't forget we exist! Haha!	
 Good for you! I know it's hard for you to find someone at your level!	1
+Malcolm	
+Malcolm went to take a look at the opponent team and got caught. What should we do?	
+We should think about how to make fun of her when she comes back.	
+I feel sorry for the other team.	
+Malcolm is in danger! We have to save him!	-1
 	
 Valkia	
 Valkia is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.	
@@ -16705,7 +16060,7 @@ He's obviously obsessed with soccer.
 This is good. We can use this as a chance to break their back line.	1
 Black Daisy	
 Black Daisy thinks Nana on the other team actually isn't a raccoon.	
-That's because you haven't opened up your "third eye"!	
+That's because you haven't opened up your "third eye"!	-1
 Isn't that the same with all other beastmen?	
 Hmm,her tail is a bit weird and her ears are definitely human...	1
 Black Daisy	
@@ -16728,6 +16083,16 @@ Black Daisy says that the Swirlies are missing.
 They were sacrificed as material for a greater cause.	
 They have wings so I'm sure they flew away.	3
 I evolved them.	
+Black Daisy	
+The team is having a good run and Black Daisy is sure that winning the League is a matter of time.	
+Let's keep this momentum going!	1
+As long as we're not used as training material...	
+There's still a lot of obstacles ahead.	-1
+Black Daisy	
+Black Daisy picked up a diary. It says Bell on the cover.	
+So, this is how the revelation begins!	
+Oh, I'm sure going to read this! That's a joke, of course...	
+Lets contact her and return this.	1
 Verister	
 The team became furious after seeing Verister fall by the focused attack of the opposing team and used that fury to win the game. Let's say something.	
 You did well. Don't worry!	1
@@ -16791,7 +16156,7 @@ Don't give up until the end.	1
 Verister	
 Verister is asking about the whereabouts of a teammate that hasn't seen for quite a while. Let's give her an answer.	
 You said you want to be with him...So I used him as material for your special training.	-1
-I used him as training material so that he could be useful to you.	
+I used him as training material so that he could be useful to you.	3
 I sold him. We were in need of gold.	
 Verister	
 Verister is criticizing the male teammates that were mesmerized by Lilith during the match. It's your job to defend your teammates.	
@@ -16813,6 +16178,11 @@ Verister is having trouble finding a Spirit Stone that fits her needs and taste.
 How about Metatron's Will? It's cute wth the butterfly decorations.	3
 I recommend the pure Paradise of Light.	
 What about Silent Cold? You'll be able to hold onto your opponents.	
+Verister	
+Kaidormu of the United Explorers is praising Verister's plays. Let's add in.	
+Be careful not to fall in love with her.	-1
+Yeah, She's as charming as you!	
+You just got praised by Kaidormu! That's awesome!	
 Zibroi	
 Zibroi says he's having trouble dealing with the young players. Let's give him an answer.	
 They're young but they have passion.	1
@@ -17001,7 +16371,7 @@ Lynbell
 The game ended as a tie, but it seems that the competition between Lynbell and her opponent isn't over yet.	
 You better win that fight!	1
 Hey! the match is over!	
-I've never seen her worked up that much.	
+I've never seen her worked up that much.	3
 Lynbell	
 Lynbell is asking what to buy in the souvenir shop. Let's give her an opinion.	
 This is your chance to buy the hottest fashion items in space!	
@@ -17037,7 +16407,17 @@ Lindberg
 Lindberg is asking who you think of first when you win a match. Let's answer.	
 My teammates and their flawless play!	1
 My friends from previous life...They would be pleased to see me win.	
-My fans!	
+My fans!	3
+Lindberg	
+It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?	
+I could throw the ball and continue the match, but my honor wouldn't allow that.	
+I guess I finally get to meet my archnemesis.	
+Wow, congratulations! (Claps)	3
+Lindberg	
+You're watching the storm with Lindberg and you spot Princess Meiran taking a walk while humming.	
+Is something troubling her? I'm having a bad feeling.	
+What's wrong with her?	
+She shines even in the darkest storms! How gorgeous!	-1
 Lindberg	
 Lindberg is asking what to buy in the souvenir shop. Let's give her an opinion.	
 This is your chance to buy the hottest fashion items in space!	1
@@ -17237,17 +16617,16 @@ Durahan won a trip around the world from a radio event!
 What about soccer? You'll have to go through me to go on the trip!	
 Hmm, come back to me with a vacation plan.	
 ...World? What about space? Isn't that more interesting?	3
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+Kalkrish	
+The members of Siena Celtron are furiously searching the stadium for Kuma.	
+Kuma alert! Get back to the shelter!	
+Let's ignore them and get ready for the match.	3
+Let's give them a hand.	
+Kalkrish	
+With a serious look on his face, Kalkrish warns you to go to the bathroom before the match.	
+Bathroom...It is indeed a very important matter...	1
+Why does an ordinary advice sound so strange...	
+I'm surprised you said that. I won't ask what happened to you.	
 	
 	
 	
