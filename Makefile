@@ -3,6 +3,7 @@ CXX = g++
 CPPFLAGS = -MMD
 CXXFLAGS = -O1 -std=c++11
 SRCS = blah.cc
+YOURMOM = personality_processing.cc
 
 blah: $(SRCS:.cc=.o)
 
@@ -11,6 +12,8 @@ run: blah
 
 clean:
 	rm -f blah *.o *~
+
+bleh: $(YOURMOM:.cc=.o)
 
 .PHONY: clean run
 

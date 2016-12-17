@@ -134,6 +134,8 @@ int main() {
   map<string, map<int, string>> wikia_qas;
   map<string, map<string, string>> player_qas;
 
+  map<string, map<int, string>> player_answers_by_id;  // squishy format
+
   map<string, string> player_gender;
   {
     ifstream infile("genders.txt");
@@ -304,7 +306,7 @@ int main() {
                  << name << "\t" << this_gender << "\t" << question_idx << endl;
           }
           string wikia_format = "{{TeamworkQ" + wikia_number + "|";
-
+          string bleh;
           // string ans;
           // Answer 1
           // string tsv_answers;
@@ -314,12 +316,13 @@ int main() {
           // if (!wikia_number.empty()) cout << line.substr(tab+1) << "|";
           string part = line.substr(tab+1);
           if (part != "1" && part != "3" && part != "+1"
-              && part != "-1" && part != "+3" && part != "") {
+              && part != "-1" && part != "+3") {
             cerr << "Error in answer scores for " << question << endl;
             cerr << part << endl << endl;
             part = "";
           }
           wikia_format += (part.length() == 1 ? "+" + part : part) + "|";
+          bleh += part + "\t";
 
           // Answer 2
           getline(infile, line);
@@ -334,6 +337,7 @@ int main() {
             part = "";
           }
           wikia_format += (part.length() == 1 ? "+" + part : part) + "|";
+          bleh += part + "\t";
 
           // Answer 3
           getline(infile, line);
@@ -348,14 +352,18 @@ int main() {
             part = "";
           }
           wikia_format += (part.length() == 1 ? "+" + part : part) + "}}";
+          bleh += part + "\t";
+
           if (!wikia_number.empty()) {
             if (wikia_qas[name].count(stoi(wikia_number))) {
               cerr << "Repeated question for " << name << ": " << question << endl;
             }
             wikia_qas[name][stoi(wikia_number)] = wikia_format;
+            player_answers_by_id[name][stoi(wikia_number)] = bleh;
           }
 
           // player_qas[name][question] = ans;
+          /*
           size_t answers_pos;
           while ((answers_pos = answers.find("{0}")) != string::npos) {
             answers.erase(answers_pos, 3);
@@ -365,6 +373,7 @@ int main() {
             answers.erase(answers_pos, 1);
             answers.insert(answers_pos, "\n");
           }
+          */
           // if (!answers.empty() && answers != tsv_answers) {
             // cerr << "Answers do not match for player " << name << ":" << endl;
             // cerr << question << endl;
@@ -374,18 +383,39 @@ int main() {
         }
   }
 
-  // optimized output
+  // output modules
   /*
   for (const auto it : player_qas) {
     for (const auto itt : it.second) {
       cout << it.first << "\t" << itt.first << itt.second << endl;
     }
     } */
+
+  /*
   for (const auto it : wikia_qas) {
     cout << endl << it.first << endl;
     for (const auto itt : it.second) {
       cout << itt.second << endl;
     }
+    }*/
+
+  for (int i = 1; i <= 260; ++i) {
+    cout << "\t" << i << ".1"
+         << "\t" << i << ".2"
+         << "\t" << i << ".3";
+  }
+  cout << endl;
+  for (auto it : player_answers_by_id) {
+    cout << it.first << "\t";
+    for (int i = 1; i <= 260; ++i) {
+      //cout << it.second[i] << "\t";
+      if (it.second.count(i)) {
+        cout << it.second[i];
+      } else {
+        cout << "\t\t\t";
+      }
+    }
+    cout << endl;
   }
   //  cout << "Hello, world!" << endl;
   return 0;
