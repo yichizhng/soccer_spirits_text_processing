@@ -316,7 +316,7 @@ int main() {
           // if (!wikia_number.empty()) cout << line.substr(tab+1) << "|";
           string part = line.substr(tab+1);
           if (part != "1" && part != "3" && part != "+1"
-              && part != "-1" && part != "+3") {
+              && part != "-1" && part != "+3" && part != "") {
             cerr << "Error in answer scores for " << question << endl;
             cerr << part << endl << endl;
             part = "";
@@ -391,32 +391,46 @@ int main() {
     }
     } */
 
-  /*
+  
   for (const auto it : wikia_qas) {
     cout << endl << it.first << endl;
     for (const auto itt : it.second) {
       cout << itt.second << endl;
     }
-    }*/
-
-  for (int i = 1; i <= 260; ++i) {
-    cout << "\t" << i << ".1"
-         << "\t" << i << ".2"
-         << "\t" << i << ".3";
   }
-  cout << endl;
+  cout << endl << endl;
+
+  //for (int i = 1; i <= 260; ++i) {
+  //  cout << "\t" << i << ".1"
+  //       << "\t" << i << ".2"
+  //       << "\t" << i << ".3";
+  //}
+  
+  for (int i = 0; i < 260; i += 20) {
+	  //cout << i+1 << "-" << i+20;
+	  for (int j = 0; j < 20; ++j) {
+		  cout << "\t" << i+j+1 << ".1"
+		   << "\t" << i+j+1 << ".2"
+		    << "\t" << i+j+1 << ".3";
+	  }
+	  cout << endl;
   for (auto it : player_answers_by_id) {
-    cout << it.first << "\t";
-    for (int i = 1; i <= 260; ++i) {
+    //cout << it.first << "\t";
+	string bleh = it.first + "\t";
+	bool any_nonzero = false;
+    for (int j = 1; j <= 20; ++j) {
       //cout << it.second[i] << "\t";
-      if (it.second.count(i)) {
-        cout << it.second[i];
+      if (it.second.count(i+j)) {
+        bleh += it.second[i+j];
+		any_nonzero = true;
       } else {
-        cout << "\t\t\t";
+        bleh += "\t\t\t";
       }
     }
-    cout << endl;
+	if (any_nonzero) cout << bleh << endl;
   }
+  cout << endl << endl;
+}
   //  cout << "Hello, world!" << endl;
   return 0;
 }
