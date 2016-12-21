@@ -123,10 +123,72 @@ std::string wikia_question_map(const std::string& gender,
   return "";
 }
 
+// Questions are divided into 13 groups (1-20, 21-40, etc). Each group has
+// 3 distinct "personalities" which determine the results of answers to
+// those questions; personalities 1, 2, and 3, for example, correspond to
+// questions 1-20.
+
+// Map storing the personality values of each player.
+static std::map<std::string, std::vector<int>> player_personalities;
+
+static void init_personality_map() {
+  using namespace std;
+  ifstream infile("personalities.tsv");
+  string line;
+  while (getline(infile, line)) {
+    size_t tpos = line.find('\t');
+    string player = line.substr(0, tpos);
+    // TODO: implement properly
+    // remove blood code
+    if (isupper(player[1]) || isdigit(player[1])) {
+      size_t space = player.find(' ');
+      if (space != string::npos) {
+        player = player.substr(space+1);
+      }
+    }
+    // Parse out the rest of the personalities
+    do {
+      // Check if this section is empty
+      size_t n_tpos = line.find('\t', tpos + 1);
+      string section = line.substr(tpos+1, n_tpos == string::npos ? string::npos : (n_tpos) - (tpos+1));
+      if (!section.empty()) {
+        player_personalities[player].push_back(stoi(section));
+      }
+
+      tpos = n_tpos;
+    } while (tpos != string::npos);
+  }
+}
+
+// Map storing all this nonsense. First key is the personality, second
+// is the question number (yes, this is somewhat redundant). Third key is the
+// answer in question. Fourth key is the teamwork value of the answer. Value
+// is the number of votes for that key (used to detect/resolve conflicts)
+static std::map<int, std::map<int, std::array<std::map<int, int>, 3>>>
+teamwork_personality_map;
+
+// Utility function to insert an answer into the map.
+static inline void insert_answer(const std::string& player_name,
+                                 int question_id,
+                                 int question_answer,
+                                 int question_value) {
+  if (!player_personalities.count(player_name)) return;
+  // Look for relevant personality for id
+  int group = 3 * (question_id - 1) / 20;
+  for (const int& p : player_personalities.at(player_name)) {
+    if (p == group + 1 || p == group + 2 || p == group + 3) {
+      // Found it
+      teamwork_personality_map[p][question_id][question_answer-1][question_value]++;
+      return;
+    }
+  }
+}
+
 int main() {
   using namespace std;
 
   init_wikia_question_mapping();
+  init_personality_map();
 
   map<string, string> questions_male;
   map<string, string> questions_female;
@@ -187,13 +249,6 @@ int main() {
           // Deal with name inconsistencies in the spreadsheet
           if (name == "Jin") name = "King Jin";
           // Remove blood codes
-          // fucking gcc and clang not supporting ECMA mode
-          /*
-          static const regex blood_code("[A-Z0-9][A-Z0-9]* (.*)", regex_constants::extended);
-          smatch match;
-          if (std::regex_match(name, match, blood_code)) {
-            name = match[1].str();
-            }*/
 
           if (isupper(name[1]) || isdigit(name[1])) {
             size_t space = name.find(' ');
@@ -323,6 +378,9 @@ int main() {
           }
           wikia_format += (part.length() == 1 ? "+" + part : part) + "|";
           bleh += part + "\t";
+          if (!wikia_number.empty() && !part.empty()) {
+            insert_answer(name, stoi(wikia_number), 2, stoi(part));
+          }
 
           // Answer 2
           getline(infile, line);
@@ -338,6 +396,9 @@ int main() {
           }
           wikia_format += (part.length() == 1 ? "+" + part : part) + "|";
           bleh += part + "\t";
+          if (!wikia_number.empty() && !part.empty()) {
+            insert_answer(name, stoi(wikia_number), 3, stoi(part));
+          }
 
           // Answer 3
           getline(infile, line);
@@ -360,6 +421,9 @@ int main() {
             }
             wikia_qas[name][stoi(wikia_number)] = wikia_format;
             player_answers_by_id[name][stoi(wikia_number)] = bleh;
+          }
+          if (!wikia_number.empty() && !part.empty()) {
+            insert_answer(name, stoi(wikia_number), 1, stoi(part));
           }
 
           // player_qas[name][question] = ans;
@@ -391,7 +455,8 @@ int main() {
     }
     } */
 
-  
+  /*
+// Wikia templates
   for (const auto it : wikia_qas) {
     cout << endl << it.first << endl;
     for (const auto itt : it.second) {
@@ -399,38 +464,38 @@ int main() {
     }
   }
   cout << endl << endl;
+  */
 
-  //for (int i = 1; i <= 260; ++i) {
-  //  cout << "\t" << i << ".1"
-  //       << "\t" << i << ".2"
-  //       << "\t" << i << ".3";
-  //}
-  
-  for (int i = 0; i < 260; i += 20) {
-	  //cout << i+1 << "-" << i+20;
-	  for (int j = 0; j < 20; ++j) {
-		  cout << "\t" << i+j+1 << ".1"
-		   << "\t" << i+j+1 << ".2"
-		    << "\t" << i+j+1 << ".3";
-	  }
-	  cout << endl;
-  for (auto it : player_answers_by_id) {
-    //cout << it.first << "\t";
-	string bleh = it.first + "\t";
-	bool any_nonzero = false;
-    for (int j = 1; j <= 20; ++j) {
-      //cout << it.second[i] << "\t";
-      if (it.second.count(i+j)) {
-        bleh += it.second[i+j];
-		any_nonzero = true;
-      } else {
-        bleh += "\t\t\t";
+  // Personality groups
+  for (const auto it : teamwork_personality_map) {
+    cout << "Personality " << it.first << endl;
+    /*
+    for (const auto itt : it.second) {
+      cout << "Question " << itt.first << endl;
+      for (int i = 0; i < 3; ++i) {
+        if (itt.second[i].size() > 1) {
+          cout << '\t' << "CONFLICT" << endl;
+        }
+        for (const auto ittt : itt.second[i]) {
+          cout << "Answer " << i + 1 << ": " << ittt.first << " (" << ittt.second << " votes)" << endl;
+        }
+      }
+      } */
+    for (int i = 1; i <= 20; ++i) {
+      int question = 20 * ((it.first-1)/3) + i;
+      cout << "Question " << question << endl;
+      for (int i = 0; i < 3; ++i) {
+        cout << "Answer " << i + 1 << ": ";
+        if (it.second.count(question)) {
+          for (const auto itt : it.second.at(question)[i]) {
+            cout << itt.first << " (" << itt.second << " votes)";
+          }
+        }
+        cout << endl;
       }
     }
-	if (any_nonzero) cout << bleh << endl;
+    cout << endl;
   }
-  cout << endl << endl;
-}
   //  cout << "Hello, world!" << endl;
   return 0;
 }
