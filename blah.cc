@@ -174,7 +174,7 @@ static inline void insert_answer(const std::string& player_name,
                                  int question_value) {
   if (!player_personalities.count(player_name)) return;
   // Look for relevant personality for id
-  int group = 3 * (question_id - 1) / 20;
+  int group = 3 * ((question_id - 1) / 20);
   for (const int& p : player_personalities.at(player_name)) {
     if (p == group + 1 || p == group + 2 || p == group + 3) {
       // Found it
@@ -182,6 +182,7 @@ static inline void insert_answer(const std::string& player_name,
       return;
     }
   }
+  std::cerr << "not foundo!" << group << ' ' << question_id << std::endl;
 }
 
 int main() {
@@ -484,16 +485,16 @@ int main() {
     for (int i = 1; i <= 20; ++i) {
       int question = 20 * ((it.first-1)/3) + i;
       // cout << "Question " << question << endl;
-      for (int i = 0; i < 3; ++i) {
+      for (int j = 0; j < 3; ++j) {
         // cout << "Answer " << i + 1 << ": ";
         cout << '\t';
         if (it.second.count(question)) {
-          if (it.second.at(question)[i].size() > 1) {
-            for (const auto itt : it.second.at(question)[i]) {
+          if (it.second.at(question)[j].size() > 1) {
+            for (const auto itt : it.second.at(question)[j]) {
               cout << itt.first << " (" << itt.second << " votes)";
             }
-          } else if (it.second.at(question)[i].size() == 1) {
-            for (const auto itt : it.second.at(question)[i]) {
+          } else if (it.second.at(question)[j].size() == 1) {
+            for (const auto itt : it.second.at(question)[j]) {
               cout << itt.first;
             }
           }
