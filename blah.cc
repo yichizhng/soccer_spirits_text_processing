@@ -468,7 +468,7 @@ int main() {
 
   // Personality groups
   for (const auto it : teamwork_personality_map) {
-    cout << "Personality " << it.first << endl;
+    cout << "Personality " << it.first;
     /*
     for (const auto itt : it.second) {
       cout << "Question " << itt.first << endl;
@@ -483,15 +483,21 @@ int main() {
       } */
     for (int i = 1; i <= 20; ++i) {
       int question = 20 * ((it.first-1)/3) + i;
-      cout << "Question " << question << endl;
+      // cout << "Question " << question << endl;
       for (int i = 0; i < 3; ++i) {
-        cout << "Answer " << i + 1 << ": ";
+        // cout << "Answer " << i + 1 << ": ";
+        cout << '\t';
         if (it.second.count(question)) {
-          for (const auto itt : it.second.at(question)[i]) {
-            cout << itt.first << " (" << itt.second << " votes)";
+          if (it.second.at(question)[i].size() > 1) {
+            for (const auto itt : it.second.at(question)[i]) {
+              cout << itt.first << " (" << itt.second << " votes)";
+            }
+          } else if (it.second.at(question)[i].size() == 1) {
+            for (const auto itt : it.second.at(question)[i]) {
+              cout << itt.first;
+            }
           }
         }
-        cout << endl;
       }
     }
     cout << endl;
