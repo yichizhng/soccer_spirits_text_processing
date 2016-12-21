@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <unordered_map>
 
+using std::string;
+
 static inline
 // Copied from wikibooks
 int levenshtein_distance(const std::string &s1, const std::string &s2)
@@ -123,6 +125,20 @@ std::string wikia_question_map(const std::string& gender,
   return "";
 }
 
+std::string reverse_wikia_map_male(int question_id, const std::string& name) {
+  string m_copy = wikia_question_mapping.at(std::to_string(question_id));
+  wikia_gender_male(m_copy);
+  replace_all_instances(m_copy, "[Player]", name);
+  return m_copy;
+}
+
+std::string reverse_wikia_map_female(int question_id, const std::string& name) {
+  string m_copy = wikia_question_mapping.at(std::to_string(question_id));
+  wikia_gender_female(m_copy);
+  replace_all_instances(m_copy, "[Player]", name);
+  return m_copy;
+}
+
 // Questions are divided into 13 groups (1-20, 21-40, etc). Each group has
 // 3 distinct "personalities" which determine the results of answers to
 // those questions; personalities 1, 2, and 3, for example, correspond to
@@ -154,7 +170,6 @@ static void init_personality_map() {
       if (!section.empty()) {
         player_personalities[player].push_back(stoi(section));
       }
-
       tpos = n_tpos;
     } while (tpos != string::npos);
   }
@@ -182,7 +197,7 @@ static inline void insert_answer(const std::string& player_name,
       return;
     }
   }
-  std::cerr << "not foundo!" << group << ' ' << question_id << std::endl;
+  std::cerr << "impossible question " << group << ' ' << question_id << std::endl;
 }
 
 int main() {
@@ -232,6 +247,43 @@ int main() {
       u_questions.insert(line.substr(0,tab));
     }
   }
+
+  for (const auto it : player_personalities) {
+    string player = it.first;
+    const string& gender = player_gender[player];
+    cout << player << endl;
+    for (const int& personality : it.second) {
+      const int starting_point = 20 * ((personality-1)/3);
+      for (int j = 1; j <= 20; ++j) {
+        int question_idx = starting_point + j;
+        int answer_idx = ((personality + j + 1) % 3);
+        //cout << starting_point + j << ": " << 1 + ((i + j + 2) % 3) << endl;
+        if (gender == "Male") {
+          string original_question = reverse_wikia_map_male(question_idx, "{0}");
+          string answers = questions_male.at(original_question);
+          replace_all_instances(answers, player, "{0}");
+          cout << reverse_wikia_map_male(question_idx, player) << endl;
+          for (int ii = 0; ii < answer_idx; ++ii) {
+            //cout << ii << '\t' << answers << endl;
+            answers = answers.substr(answers.find('\t')+1);
+          }
+          cout << '\t' << answers.substr(0, answers.find('\t')) << endl;
+        } else {
+          string original_question = reverse_wikia_map_female(question_idx, "{0}");
+          string answers = questions_female.at(original_question);
+          replace_all_instances(answers, player, "{0}");
+          cout << reverse_wikia_map_female(question_idx, player) << endl;
+          for (int ii = 0; ii < answer_idx; ++ii) {
+            //cout << ii << '\t' << answers << endl;
+            answers = answers.substr(answers.find('\t')+1);
+          }
+          cout << '\t' << answers.substr(0, answers.find('\t')) << endl;
+        }
+      }
+      cout << endl;
+    }
+  }
+  return 0;
 
   ifstream infile("all_teamwork.tsv");
   string line;
