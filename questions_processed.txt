@@ -158,7 +158,7 @@ The team will be cleaning up the lodging. What will you have Aiolos do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Aiolos. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Aiolos does have that kind of charm.
 Aiolos is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Aiolos after the match. Let's barge in.
@@ -424,7 +424,7 @@ Alicia is depressed thinking that winning the Galaxy League is a goal that can't
 Alicia wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Alicia is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Alicia? Nah, she never gets lost.
 You find Alicia lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Alicia says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -490,9 +490,9 @@ Alkyde is furious about the referee that's clearly favoring the other team. Shou
 It suddenly began to rain heavily. You see Alkyde running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Alkyde's shoe.
-	(Tell {0} who did this.)
+	(Tell Alkyde who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Alkyde.)
 Alkyde hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -519,7 +519,7 @@ Alkyde is thinking about how to resist the psychological and mental attacks that
 Alkyde is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Alkyde's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Alkyde's charms.)
 A defender on the other team seems to have fallen in love with Alkyde and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Alkyde's plays. Let's add in.
@@ -604,11 +604,11 @@ Altair is deeply focused on Jill's diet story. What should we do?
 Altair says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Altair seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Altair trouble, I swear to god I'll use you both as special training material.
 Altair is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Altair went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Altair is in danger! We have to save her!
 Altair claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Altair seems very nervous to confront Kei of the Rescuer.
@@ -646,11 +646,11 @@ Amaranth is deeply focused on Jill's diet story. What should we do?
 Amaranth says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Amaranth seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Amaranth trouble, I swear to god I'll use you both as special training material.
 Amaranth is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Amaranth went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Amaranth is in danger! We have to save her!
 Amaranth claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Amaranth seems very nervous to confront Kei of the Rescuer.
@@ -780,7 +780,7 @@ The team will be cleaning up the lodging. What will you have Ami do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Ami. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Ami does have that kind of charm.
 Ami is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Ami after the match. Let's barge in.
@@ -853,7 +853,7 @@ Anael is deeply focused on Jill's diet story. What should we do?
 Anael says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Anael seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Anael.
 Anael is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Anael went to take a look at the opponent team and got caught. What should we do?
@@ -905,7 +905,7 @@ The team will be cleaning up the lodging. What will you have Angela do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Angela. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Angela does have that kind of charm.
 Angela is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Angela after the match. Let's barge in.
@@ -1241,7 +1241,7 @@ A player on the other team says soccer became enjoyable after confronting Armati
 Armati is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Armati after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Armati was fantastic on the field, right?
 
 Armati is asking about the team's goal of this season. What should you tell her?
 	Teamwork is what matters the most.
@@ -1296,7 +1296,7 @@ Asakura is depressed thinking that winning the Galaxy League is a goal that can'
 Asakura wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Asakura is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Asakura? Nah, she never gets lost.
 You find Asakura lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Asakura says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -1461,7 +1461,7 @@ Askeladd is depressed thinking that winning the Galaxy League is a goal that can
 Askeladd wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Askeladd is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Askeladd? Nah, she never gets lost.
 You find Askeladd lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Askeladd says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -1775,9 +1775,9 @@ Azrael is furious about the referee that's clearly favoring the other team. Shou
 It suddenly began to rain heavily. You see Azrael running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Azrael's shoe.
-	(Tell {0} who did this.)
+	(Tell Azrael who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Azrael.)
 Azrael hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -1875,7 +1875,7 @@ Baltheon is depressed thinking that winning the Galaxy League is a goal that can
 Baltheon wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Baltheon is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Baltheon? Nah, he never gets lost.
 You find Baltheon lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Baltheon says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -1982,7 +1982,7 @@ The team will be cleaning up the lodging. What will you have Bartel do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Bartel. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Bartel does have that kind of charm.
 Bartel is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Bartel after the match. Let's barge in.
@@ -1999,7 +1999,7 @@ Bartel is depressed thinking that winning the Galaxy League is a goal that can't
 Bartel wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Bartel is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Bartel? Nah, he never gets lost.
 You find Bartel lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Bartel says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -2179,11 +2179,11 @@ Beatrice is deeply focused on Jill's diet story. What should we do?
 Beatrice says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Beatrice seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Beatrice trouble, I swear to god I'll use you both as special training material.
 Beatrice is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Beatrice went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Beatrice is in danger! We have to save her!
 Beatrice claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Beatrice seems very nervous to confront Kei of the Rescuer.
@@ -2331,7 +2331,7 @@ Beta is depressed thinking that winning the Galaxy League is a goal that can't b
 Beta wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Beta is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Beta? Nah, she never gets lost.
 You find Beta lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Beta says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -2562,7 +2562,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Black Ivy is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Black Ivy seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Black Ivy!
 Black Ivy looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Black Ivy to set some simple rules.
@@ -2787,7 +2787,7 @@ Blade is depressed thinking that winning the Galaxy League is a goal that can't 
 Blade wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Blade is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Blade? Nah, she never gets lost.
 You find Blade lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Blade says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -2894,7 +2894,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Blue Dragon is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Blue Dragon seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Blue Dragon!
 Blue Dragon looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Blue Dragon to set some simple rules.
@@ -2953,7 +2953,7 @@ Blue King is depressed thinking that winning the Galaxy League is a goal that ca
 Blue King wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Blue King is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Blue King? Nah, he never gets lost.
 You find Blue King lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Blue King says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -3036,7 +3036,7 @@ Bora is depressed thinking that winning the Galaxy League is a goal that can't b
 Bora wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Bora is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Bora? Nah, she never gets lost.
 You find Bora lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Bora says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -3267,7 +3267,7 @@ The team will be cleaning up the lodging. What will you have Butcher do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Butcher. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Butcher does have that kind of charm.
 Butcher is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Butcher after the match. Let's barge in.
@@ -3350,7 +3350,7 @@ The team will be cleaning up the lodging. What will you have Cashlove do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Cashlove. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Cashlove does have that kind of charm.
 Cashlove is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Cashlove after the match. Let's barge in.
@@ -3589,11 +3589,11 @@ Cecily is deeply focused on Jill's diet story. What should we do?
 Cecily says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Cecily seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Cecily trouble, I swear to god I'll use you both as special training material.
 Cecily is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Cecily went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Cecily is in danger! We have to save her!
 Cecily claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Cecily seems very nervous to confront Kei of the Rescuer.
@@ -3641,7 +3641,7 @@ The team will be cleaning up the lodging. What will you have Celine do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Celine. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Celine does have that kind of charm.
 Celine is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Celine after the match. Let's barge in.
@@ -3670,7 +3670,7 @@ Celine is thinking about how to resist the psychological and mental attacks that
 Celine is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Celine's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Celine's charms.)
 A defender on the other team seems to have fallen in love with Celine and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Celine's plays. Let's add in.
@@ -3767,7 +3767,7 @@ Celus picked up a diary. It says Bell on the cover.
 Sorrow suddenly flies off after seeing a shiny object in the sky.
 	Come back Huginn! Wait, is it Muninn?
 Celus is irritated because her opponent has the attribute advantage over her.
-	It's time, {0}! Awaken the 6th attribute and show your true powers!
+	It's time, Celus! Awaken the 6th attribute and show your true powers!
 Celus thinks Nana on the other team actually isn't a raccoon.
 	That's because you haven't opened up your ''third eye''!
 
@@ -3890,7 +3890,7 @@ The team will be cleaning up the lodging. What will you have Chitose do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Chitose. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Chitose.
 Chitose is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Chitose after the match. Let's barge in.
@@ -3921,7 +3921,7 @@ Kuma is furiously chasing Ogre. Chitose seems confused.
 Chitose is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Chitose is prettier.
 Chitose refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Chitose is interested in Selena and is asking for your opinion. What should we say?
@@ -4667,7 +4667,7 @@ Kuma is furiously chasing Ogre. Cynthia seems confused.
 Cynthia is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Cynthia is prettier.
 Cynthia refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Cynthia is interested in Selena and is asking for your opinion. What should we say?
@@ -4926,7 +4926,7 @@ The team will be cleaning up the lodging. What will you have Damien do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Damien. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Damien does have that kind of charm.
 Damien is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Damien after the match. Let's barge in.
@@ -5082,11 +5082,11 @@ Didi is deeply focused on Jill's diet story. What should we do?
 Didi says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Didi seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Didi trouble, I swear to god I'll use you both as special training material.
 Didi is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Didi went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Didi is in danger! We have to save her!
 Didi claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Didi seems very nervous to confront Kei of the Rescuer.
@@ -5549,7 +5549,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Dynames is sad that the World Tree in Umbra has withered. What could we say to cheer him up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Dynames seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Dynames!
 Dynames looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Dynames to set some simple rules.
@@ -5798,7 +5798,7 @@ The team will be cleaning up the lodging. What will you have Elaine do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Elaine. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Elaine.
 Elaine is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Elaine after the match. Let's barge in.
@@ -5815,7 +5815,7 @@ Elaine is depressed thinking that winning the Galaxy League is a goal that can't
 Elaine wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Elaine is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Elaine? Nah, she never gets lost.
 You find Elaine lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Elaine says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -5912,7 +5912,7 @@ Kuma is furiously chasing Ogre. Elicia seems confused.
 Elicia is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Elicia is prettier.
 Elicia refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Elicia is interested in Selena and is asking for your opinion. What should we say?
@@ -6078,7 +6078,7 @@ Elizabeth is deeply focused on Jill's diet story. What should we do?
 Elizabeth says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Elizabeth seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Elizabeth.
 Elizabeth is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Elizabeth went to take a look at the opponent team and got caught. What should we do?
@@ -6114,7 +6114,7 @@ Elliot is asking you about what you like besides soccer.
 Elliot feels his heart races when he sees Littre.
 	...Do you want to spend the rest of your life being with an abusive herbivore like alien creature?
 Kuma is caught sneaking in the woman's locker room once again. We should talk with Elliot about what to do with him.
-	Let's make him put on {0}'s underwear.
+	Let's make him put on Elliot's underwear.
 Elliot continues to charge into the opponent's defense line and keeps failing. What should we do?
 	(He looks happy. Let's let him be.)
 Elliot is being annoying with his offensive words. What should we do?
@@ -6254,7 +6254,7 @@ The team will be cleaning up the lodging. What will you have Elua do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Elua. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Elua.
 Elua is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Elua after the match. Let's barge in.
@@ -6327,11 +6327,11 @@ Enthia is deeply focused on Jill's diet story. What should we do?
 Enthia says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Enthia seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Enthia trouble, I swear to god I'll use you both as special training material.
 Enthia is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Enthia went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Enthia is in danger! We have to save her!
 Enthia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Enthia seems very nervous to confront Kei of the Rescuer.
@@ -6369,7 +6369,7 @@ Ere Ere is deeply focused on Jill's diet story. What should we do?
 Ere Ere says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Ere Ere seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Ere Ere.
 Ere Ere is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Ere Ere went to take a look at the opponent team and got caught. What should we do?
@@ -6420,7 +6420,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Ere Ere is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Ere Ere seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Ere Ere!
 Ere Ere looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Ere Ere to set some simple rules.
@@ -6493,11 +6493,11 @@ Erica is deeply focused on Jill's diet story. What should we do?
 Erica says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Erica seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Erica trouble, I swear to god I'll use you both as special training material.
 Erica is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Erica went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Erica is in danger! We have to save her!
 Erica claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Erica seems very nervous to confront Kei of the Rescuer.
@@ -6521,7 +6521,7 @@ Ernesto is depressed thinking that winning the Galaxy League is a goal that can'
 Ernesto wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ernesto is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Ernesto? Nah, he never gets lost.
 You find Ernesto lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ernesto says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -6825,11 +6825,11 @@ Felix is deeply focused on Jill's diet story. What should we do?
 Felix says he's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Felix seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Felix trouble, I swear to god I'll use you both as special training material.
 Felix is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Felix went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save him!
+	Felix is in danger! We have to save him!
 Felix claims he saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Felix seems very nervous to confront Kei of the Rescuer.
@@ -7043,9 +7043,9 @@ Fredrica is furious about the referee that's clearly favoring the other team. Sh
 It suddenly began to rain heavily. You see Fredrica running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Fredrica's shoe.
-	(Tell {0} who did this.)
+	(Tell Fredrica who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Fredrica.)
 Fredrica hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -7143,7 +7143,7 @@ Freyja is depressed thinking that winning the Galaxy League is a goal that can't
 Freyja wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Freyja is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Freyja? Nah, she never gets lost.
 You find Freyja lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Freyja says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -7291,7 +7291,7 @@ The team will be cleaning up the lodging. What will you have Furion do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Furion. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Furion does have that kind of charm.
 Furion is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Furion after the match. Let's barge in.
@@ -7416,7 +7416,7 @@ The team will be cleaning up the lodging. What will you have Gaphyl do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Gaphyl. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Gaphyl does have that kind of charm.
 Gaphyl is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Gaphyl after the match. Let's barge in.
@@ -7499,9 +7499,9 @@ Gerrard is furious about the referee that's clearly favoring the other team. Sho
 It suddenly began to rain heavily. You see Gerrard running up ahead.
 	(Let him steal your umbrella.)
 You witnessed a player on the other side putting a tack in Gerrard's shoe.
-	(Tell {0} who did this.)
+	(Tell Gerrard who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Gerrard.)
 Gerrard hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
 	Okay. You make them pay, understand?
 
@@ -7652,7 +7652,7 @@ Grace is thinking about how to resist the psychological and mental attacks that 
 Grace is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Grace's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Grace's charms.)
 A defender on the other team seems to have fallen in love with Grace and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Grace's plays. Let's add in.
@@ -7747,7 +7747,7 @@ The team will be cleaning up the lodging. What will you have Griffith do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Griffith. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Griffith does have that kind of charm.
 Griffith is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Griffith after the match. Let's barge in.
@@ -7830,7 +7830,7 @@ The team will be cleaning up the lodging. What will you have Guinevere do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Guinevere. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Guinevere does have that kind of charm.
 Guinevere is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Guinevere after the match. Let's barge in.
@@ -8152,7 +8152,7 @@ Helena is deeply focused on Jill's diet story. What should we do?
 Helena says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Helena seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Helena.
 Helena is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Helena went to take a look at the opponent team and got caught. What should we do?
@@ -8180,7 +8180,7 @@ Hercules is depressed thinking that winning the Galaxy League is a goal that can
 Hercules wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Hercules is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Hercules? Nah, he never gets lost.
 You find Hercules lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Hercules says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -8332,7 +8332,7 @@ A player on the other team says soccer became enjoyable after confronting Hermod
 Hermod is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Hermod after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Hermod was fantastic on the field, right?
 
 Hildegard
 Hildegard is looking excited and asks how the match went.
@@ -8401,7 +8401,7 @@ Hildegard is deeply focused on Jill's diet story. What should we do?
 Hildegard says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Hildegard seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Hildegard.
 Hildegard is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Hildegard went to take a look at the opponent team and got caught. What should we do?
@@ -8496,7 +8496,7 @@ Hines picked up a diary. It says Bell on the cover.
 Sorrow suddenly flies off after seeing a shiny object in the sky.
 	Come back Huginn! Wait, is it Muninn?
 Hines is irritated because her opponent has the attribute advantage over her.
-	It's time, {0}! Awaken the 6th attribute and show your true powers!
+	It's time, Hines! Awaken the 6th attribute and show your true powers!
 Hines thinks Nana on the other team actually isn't a raccoon.
 	That's because you haven't opened up your ''third eye''!
 
@@ -8660,7 +8660,7 @@ The team will be cleaning up the lodging. What will you have Horan do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Horan. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Horan.
 Horan is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Horan after the match. Let's barge in.
@@ -8785,7 +8785,7 @@ The team will be cleaning up the lodging. What will you have Hyun do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Hyun. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Hyun does have that kind of charm.
 Hyun is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Hyun after the match. Let's barge in.
@@ -8826,7 +8826,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Hyun is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Hyun seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Hyun!
 Hyun looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Hyun to set some simple rules.
@@ -8996,7 +8996,7 @@ A player on the other team says soccer became enjoyable after confronting Igrit.
 Igrit is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Igrit after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Igrit was fantastic on the field, right?
 
 Irin
 Irin is asking about the team's goal of this season. What should you tell her?
@@ -9148,11 +9148,11 @@ Iris is deeply focused on Jill's diet story. What should we do?
 Iris says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Iris seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Iris trouble, I swear to god I'll use you both as special training material.
 Iris is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Iris went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Iris is in danger! We have to save her!
 Iris claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Iris seems very nervous to confront Kei of the Rescuer.
@@ -9466,7 +9466,7 @@ Jackson is depressed thinking that winning the Galaxy League is a goal that can'
 Jackson wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Jackson is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Jackson? Nah, he never gets lost.
 You find Jackson lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Jackson says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -9674,7 +9674,7 @@ James is depressed thinking that winning the Galaxy League is a goal that can't 
 James wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that James is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	James? Nah, he never gets lost.
 You find James lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 James says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -9798,7 +9798,7 @@ Jang is depressed thinking that winning the Galaxy League is a goal that can't b
 Jang wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Jang is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Jang? Nah, he never gets lost.
 You find Jang lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Jang says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -10030,7 +10030,7 @@ The team will be cleaning up the lodging. What will you have Jean do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Jean. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Jean does have that kind of charm.
 Jean is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Jean after the match. Let's barge in.
@@ -10113,7 +10113,7 @@ The team will be cleaning up the lodging. What will you have Jenny do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Jenny. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Jenny does have that kind of charm.
 Jenny is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Jenny after the match. Let's barge in.
@@ -10154,7 +10154,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Jenny is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Jenny seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Jenny!
 Jenny looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Jenny to set some simple rules.
@@ -10172,7 +10172,7 @@ Jess is depressed thinking that winning the Galaxy League is a goal that can't b
 Jess wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Jess is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Jess? Nah, he never gets lost.
 You find Jess lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Jess says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -10338,7 +10338,7 @@ Jheet is depressed thinking that winning the Galaxy League is a goal that can't 
 Jheet wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Jheet is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Jheet? Nah, he never gets lost.
 You find Jheet lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Jheet says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -10627,7 +10627,7 @@ Jiho is depressed thinking that winning the Galaxy League is a goal that can't b
 Jiho wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Jiho is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Jiho? Nah, she never gets lost.
 You find Jiho lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Jiho says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -10734,7 +10734,7 @@ The team will be cleaning up the lodging. What will you have Jill do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Jill. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Jill does have that kind of charm.
 Jill is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Jill after the match. Let's barge in.
@@ -10817,7 +10817,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Jin is sad that the World Tree in Umbra has withered. What could we say to cheer him up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Jin seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Jin!
 Jin looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Jin to set some simple rules.
@@ -10941,7 +10941,7 @@ The team will be cleaning up the lodging. What will you have John do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting John. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, John does have that kind of charm.
 John is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with John after the match. Let's barge in.
@@ -11178,7 +11178,7 @@ Juvel is thinking about how to resist the psychological and mental attacks that 
 Juvel is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Juvel's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Juvel's charms.)
 A defender on the other team seems to have fallen in love with Juvel and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Juvel's plays. Let's add in.
@@ -11291,7 +11291,7 @@ Kaidormu is depressed thinking that winning the Galaxy League is a goal that can
 Kaidormu wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Kaidormu is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Kaidormu? Nah, he never gets lost.
 You find Kaidormu lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Kaidormu says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -11374,7 +11374,7 @@ Kainen is depressed thinking that winning the Galaxy League is a goal that can't
 Kainen wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Kainen is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Kainen? Nah, he never gets lost.
 You find Kainen lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Kainen says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -11526,7 +11526,7 @@ A player on the other team says soccer became enjoyable after confronting Kalkri
 Kalkrish is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Kalkrish after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Kalkrish was fantastic on the field, right?
 
 Karpila
 Karpila is worried about the team's poor performance. Let's go talk to her.
@@ -11688,7 +11688,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Karuru is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Karuru seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Karuru!
 Karuru looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Karuru to set some simple rules.
@@ -11789,7 +11789,7 @@ Kevin is depressed thinking that winning the Galaxy League is a goal that can't 
 Kevin wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Kevin is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Kevin? Nah, he never gets lost.
 You find Kevin lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Kevin says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -12020,7 +12020,7 @@ The team will be cleaning up the lodging. What will you have Kiki do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Kiki. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Kiki does have that kind of charm.
 Kiki is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Kiki after the match. Let's barge in.
@@ -12176,7 +12176,7 @@ Kri'Veya is deeply focused on Jill's diet story. What should we do?
 Kri'Veya says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Kri'Veya seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Kri'Veya.
 Kri'Veya is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Kri'Veya went to take a look at the opponent team and got caught. What should we do?
@@ -12259,11 +12259,11 @@ Kumi is deeply focused on Jill's diet story. What should we do?
 Kumi says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Kumi seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Kumi trouble, I swear to god I'll use you both as special training material.
 Kumi is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Kumi went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Kumi is in danger! We have to save her!
 Kumi claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Kumi seems very nervous to confront Kei of the Rescuer.
@@ -12311,9 +12311,9 @@ Kyoko is furious about the referee that's clearly favoring the other team. Shoul
 It suddenly began to rain heavily. You see Kyoko running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Kyoko's shoe.
-	(Tell {0} who did this.)
+	(Tell Kyoko who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Kyoko.)
 Kyoko hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -12439,7 +12439,7 @@ A player on the other team says soccer became enjoyable after confronting Kyosuk
 Kyosuke is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Kyosuke after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Kyosuke was fantastic on the field, right?
 
 Lab Rat Rabian
 The team made it up to the semi-finals after counting the goal differences. Lab Rat Rabian asks how you feel. How should we answer?
@@ -12494,7 +12494,7 @@ Lab Rat Rabian is depressed thinking that winning the Galaxy League is a goal th
 Lab Rat Rabian wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Lab Rat Rabian is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Lab Rat Rabian? Nah, she never gets lost.
 You find Lab Rat Rabian lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Lab Rat Rabian says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -12605,7 +12605,7 @@ A player on the other team says soccer became enjoyable after confronting Labell
 Labella is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Labella after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Labella was fantastic on the field, right?
 
 Latios
 Latios is looking excited and asks how the match went.
@@ -12714,7 +12714,7 @@ Leah is thinking about how to resist the psychological and mental attacks that t
 Leah is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Leah's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Leah's charms.)
 A defender on the other team seems to have fallen in love with Leah and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Leah's plays. Let's add in.
@@ -12757,11 +12757,11 @@ Leah is deeply focused on Jill's diet story. What should we do?
 Leah says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Leah seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Leah trouble, I swear to god I'll use you both as special training material.
 Leah is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Leah went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Leah is in danger! We have to save her!
 Leah claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Leah seems very nervous to confront Kei of the Rescuer.
@@ -12813,7 +12813,7 @@ A player on the other team says soccer became enjoyable after confronting Leina.
 Leina is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Leina after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Leina was fantastic on the field, right?
 
 Leina says she's the center of the team and asks if you agree with her. How should we answer?
 	I'm sure that you're being a good influence to the team.
@@ -12840,7 +12840,7 @@ Leina is deeply focused on Jill's diet story. What should we do?
 Leina says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Leina seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Leina.
 Leina is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Leina went to take a look at the opponent team and got caught. What should we do?
@@ -12933,7 +12933,7 @@ The team will be cleaning up the lodging. What will you have Lemy do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lemy. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lemy does have that kind of charm.
 Lemy is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lemy after the match. Let's barge in.
@@ -13016,7 +13016,7 @@ The team will be cleaning up the lodging. What will you have Leonard do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Leonard. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Leonard does have that kind of charm.
 Leonard is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Leonard after the match. Let's barge in.
@@ -13034,7 +13034,7 @@ Leventor is depressed thinking that winning the Galaxy League is a goal that can
 Leventor wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Leventor is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Leventor? Nah, he never gets lost.
 You find Leventor lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Leventor says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -13141,7 +13141,7 @@ The team will be cleaning up the lodging. What will you have Lia do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Lia. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Lia.
 Lia is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Lia after the match. Let's barge in.
@@ -13172,11 +13172,11 @@ Lia is deeply focused on Jill's diet story. What should we do?
 Lia says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Lia seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Lia trouble, I swear to god I'll use you both as special training material.
 Lia is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Lia went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Lia is in danger! We have to save her!
 Lia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Lia seems very nervous to confront Kei of the Rescuer.
@@ -13253,7 +13253,7 @@ Lilith is thinking about how to resist the psychological and mental attacks that
 Lilith is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Lilith's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Lilith's charms.)
 A defender on the other team seems to have fallen in love with Lilith and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Lilith's plays. Let's add in.
@@ -13348,7 +13348,7 @@ The team will be cleaning up the lodging. What will you have Lily do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Lily. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Lily.
 Lily is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Lily after the match. Let's barge in.
@@ -13431,7 +13431,7 @@ The team will be cleaning up the lodging. What will you have Lina do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lina. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lina does have that kind of charm.
 Lina is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lina after the match. Let's barge in.
@@ -13514,7 +13514,7 @@ The team will be cleaning up the lodging. What will you have Lindberg do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lindberg. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lindberg does have that kind of charm.
 Lindberg is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lindberg after the match. Let's barge in.
@@ -13587,7 +13587,7 @@ Kuma is furiously chasing Ogre. Lindsey seems confused.
 Lindsey is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Lindsey is prettier.
 Lindsey refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Lindsey is interested in Selena and is asking for your opinion. What should we say?
@@ -13670,7 +13670,7 @@ Kuma is furiously chasing Ogre. Linmay seems confused.
 Linmay is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Linmay is prettier.
 Linmay refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Linmay is interested in Selena and is asking for your opinion. What should we say?
@@ -13698,7 +13698,7 @@ Litz is depressed thinking that winning the Galaxy League is a goal that can't b
 Litz wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Litz is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Litz? Nah, she never gets lost.
 You find Litz lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Litz says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -13888,7 +13888,7 @@ The team will be cleaning up the lodging. What will you have Lucid do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lucid. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lucid does have that kind of charm.
 Lucid is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lucid after the match. Let's barge in.
@@ -13917,7 +13917,7 @@ Lucid is thinking about how to resist the psychological and mental attacks that 
 Lucid is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Lucid's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Lucid's charms.)
 A defender on the other team seems to have fallen in love with Lucid and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Lucid's plays. Let's add in.
@@ -13947,7 +13947,7 @@ Lucifer is depressed thinking that winning the Galaxy League is a goal that can'
 Lucifer wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Lucifer is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Lucifer? Nah, he never gets lost.
 You find Lucifer lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Lucifer says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -14095,7 +14095,7 @@ The team will be cleaning up the lodging. What will you have Lucius do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lucius. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lucius does have that kind of charm.
 Lucius is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lucius after the match. Let's barge in.
@@ -14137,7 +14137,7 @@ The team will be cleaning up the lodging. What will you have Luka do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Luka. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Luka.
 Luka is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Luka after the match. Let's barge in.
@@ -14178,7 +14178,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Luka is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Luka seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Luka!
 Luka looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Luka to set some simple rules.
@@ -14510,7 +14510,7 @@ The team will be cleaning up the lodging. What will you have Luri do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Luri. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Luri does have that kind of charm.
 Luri is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Luri after the match. Let's barge in.
@@ -14554,7 +14554,7 @@ Lynbell picked up a diary. It says Bell on the cover.
 Sorrow suddenly flies off after seeing a shiny object in the sky.
 	Come back Huginn! Wait, is it Muninn?
 Lynbell is irritated because her opponent has the attribute advantage over her.
-	It's time, {0}! Awaken the 6th attribute and show your true powers!
+	It's time, Lynbell! Awaken the 6th attribute and show your true powers!
 Lynbell thinks Nana on the other team actually isn't a raccoon.
 	That's because you haven't opened up your ''third eye''!
 
@@ -14597,7 +14597,7 @@ A player on the other team says soccer became enjoyable after confronting Lynbel
 Lynbell is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Lynbell after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Lynbell was fantastic on the field, right?
 
 Lynia
 You find Lynia depressed for not playing well during the match. Let's cheer her up.
@@ -14635,7 +14635,7 @@ The team will be cleaning up the lodging. What will you have Lynia do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Lynia. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Lynia does have that kind of charm.
 Lynia is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Lynia after the match. Let's barge in.
@@ -14652,7 +14652,7 @@ Lynia is depressed thinking that winning the Galaxy League is a goal that can't 
 Lynia wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Lynia is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Lynia? Nah, she never gets lost.
 You find Lynia lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Lynia says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -14718,9 +14718,9 @@ Maggie is furious about the referee that's clearly favoring the other team. Shou
 It suddenly began to rain heavily. You see Maggie running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Maggie's shoe.
-	(Tell {0} who did this.)
+	(Tell Maggie who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Maggie.)
 Maggie hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -14873,7 +14873,7 @@ Kuma is furiously chasing Ogre. Magnus seems confused.
 Magnus is spreading the happy news about his cousin having a baby. Let's congratulate him.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Magnus is prettier.
 Magnus refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to him.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Magnus is interested in Selena and is asking for your opinion. What should we say?
@@ -14942,7 +14942,7 @@ Malcolm is depressed thinking that winning the Galaxy League is a goal that can'
 Malcolm wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Malcolm is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Malcolm? Nah, he never gets lost.
 You find Malcolm lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Malcolm says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -15053,7 +15053,7 @@ A player on the other team says soccer became enjoyable after confronting Marian
 Marianne is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Marianne after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Marianne was fantastic on the field, right?
 
 You come across Marianne, who was overwhelmed by her opponent throughout the game. Let's cheer her up.
 	I'm proud that you played your game and didn't descend to the opponent's level.
@@ -15131,9 +15131,9 @@ Marianne is furious about the referee that's clearly favoring the other team. Sh
 It suddenly began to rain heavily. You see Marianne running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Marianne's shoe.
-	(Tell {0} who did this.)
+	(Tell Marianne who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Marianne.)
 Marianne hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -15172,7 +15172,7 @@ The team will be cleaning up the lodging. What will you have Marianne do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Marianne. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Marianne.
 Marianne is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Marianne after the match. Let's barge in.
@@ -15287,11 +15287,11 @@ Marilyn is deeply focused on Jill's diet story. What should we do?
 Marilyn says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Marilyn seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Marilyn trouble, I swear to god I'll use you both as special training material.
 Marilyn is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Marilyn went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Marilyn is in danger! We have to save her!
 Marilyn claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Marilyn seems very nervous to confront Kei of the Rescuer.
@@ -15328,7 +15328,7 @@ Kuma is furiously chasing Ogre. Marilyn seems confused.
 Marilyn is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Marilyn is prettier.
 Marilyn refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Marilyn is interested in Selena and is asking for your opinion. What should we say?
@@ -15405,9 +15405,9 @@ May, who seems to be interested in Eve, is asking your opinion about her. What s
 Recently, May seems to enjoy chatting with Jin. She thinks Jin is funny. Let's talk with her.
 	Oh how much I'd love to show you what his ''true'' form is like.
 May is thinking about how to resist the psychological and mental attacks that the demons enjoy using. Let's give her advice.
-	{0}be acting like a demon would help?
+	Maybe acting like a demon would help?
 May is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
-	{0}be this is something about love and hate. It may be something serious.
+	Maybe this is something about love and hate. It may be something serious.
 May's uniform is all messed up because of the filthy plays of her opponent. What should we do?
 	(Tell her that it's not the opponent showing affection and it's nothing but foul plays.)
 A defender on the other team seems to have fallen in love with May and is chasing her around the field. It looks like the player forgot about the match. What should we do?
@@ -15463,9 +15463,9 @@ Meg is furious about the referee that's clearly favoring the other team. Should 
 It suddenly began to rain heavily. You see Meg running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Meg's shoe.
-	(Tell {0} who did this.)
+	(Tell Meg who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Meg.)
 Meg hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -15494,11 +15494,11 @@ Meg is deeply focused on Jill's diet story. What should we do?
 Meg says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Meg seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Meg trouble, I swear to god I'll use you both as special training material.
 Meg is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Meg went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Meg is in danger! We have to save her!
 Meg claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Meg seems very nervous to confront Kei of the Rescuer.
@@ -15577,7 +15577,7 @@ Melchior is deeply focused on Jill's diet story. What should we do?
 Melchior says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Melchior seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Melchior.
 Melchior is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Melchior went to take a look at the opponent team and got caught. What should we do?
@@ -15646,7 +15646,7 @@ Metatron is depressed thinking that winning the Galaxy League is a goal that can
 Metatron wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Metatron is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Metatron? Nah, she never gets lost.
 You find Metatron lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Metatron says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -15838,7 +15838,7 @@ Mider picked up a diary. It says Bell on the cover.
 Sorrow suddenly flies off after seeing a shiny object in the sky.
 	Come back Huginn! Wait, is it Muninn?
 Mider is irritated because her opponent has the attribute advantage over her.
-	It's time, {0}! Awaken the 6th attribute and show your true powers!
+	It's time, Mider! Awaken the 6th attribute and show your true powers!
 Mider thinks Nana on the other team actually isn't a raccoon.
 	That's because you haven't opened up your ''third eye''!
 
@@ -15895,7 +15895,7 @@ Miho is depressed thinking that winning the Galaxy League is a goal that can't b
 Miho wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Miho is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Miho? Nah, she never gets lost.
 You find Miho lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Miho says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -15950,7 +15950,7 @@ Kuma is furiously chasing Ogre. Miho seems confused.
 Miho is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Miho is prettier.
 Miho refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Miho is interested in Selena and is asking for your opinion. What should we say?
@@ -16019,7 +16019,7 @@ Mika is depressed thinking that winning the Galaxy League is a goal that can't b
 Mika wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Mika is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Mika? Nah, she never gets lost.
 You find Mika lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Mika says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -16085,7 +16085,7 @@ The team will be cleaning up the lodging. What will you have Mikael do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Mikael. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Mikael does have that kind of charm.
 Mikael is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Mikael after the match. Let's barge in.
@@ -16250,7 +16250,7 @@ The team will be cleaning up the lodging. What will you have Mikel do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Mikel. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Mikel does have that kind of charm.
 Mikel is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Mikel after the match. Let's barge in.
@@ -16333,7 +16333,7 @@ The team will be cleaning up the lodging. What will you have Milky Way do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Milky Way. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Milky Way.
 Milky Way is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Milky Way after the match. Let's barge in.
@@ -16416,7 +16416,7 @@ The team will be cleaning up the lodging. What will you have Mimi do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Mimi. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Mimi.
 Mimi is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Mimi after the match. Let's barge in.
@@ -16711,7 +16711,7 @@ A player on the other team says soccer became enjoyable after confronting Momo. 
 Momo is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Momo after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Momo was fantastic on the field, right?
 
 Momo is wondering why the team is doing so well recently. Pick an answer.
 	It's a result of team effort.
@@ -17080,7 +17080,7 @@ The team will be cleaning up the lodging. What will you have Muriel do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Muriel. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Muriel.
 Muriel is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Muriel after the match. Let's barge in.
@@ -17189,7 +17189,7 @@ Mute is asking you about what you like besides soccer.
 Mute feels her heart races when she sees Littre.
 	...Do you want to spend the rest of your life being with an abusive herbivore like alien creature?
 Kuma is caught sneaking in the woman's locker room once again. We should talk with Mute about what to do with him.
-	Let's make him put on {0}'s underwear.
+	Let's make him put on Mute's underwear.
 Mute continues to charge into the opponent's defense line and keeps failing. What should we do?
 	(She looks happy. Let's let her be.)
 Mute is being annoying with her offensive words. What should we do?
@@ -17361,11 +17361,11 @@ Naomi is deeply focused on Jill's diet story. What should we do?
 Naomi says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Naomi seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Naomi trouble, I swear to god I'll use you both as special training material.
 Naomi is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Naomi went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Naomi is in danger! We have to save her!
 Naomi claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Naomi seems very nervous to confront Kei of the Rescuer.
@@ -17412,7 +17412,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Naomi is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Naomi seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Naomi!
 Naomi looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Naomi to set some simple rules.
@@ -17479,7 +17479,7 @@ The team manger ran away with all of the team's money. What should we do?
 You were taking a walk in the Nadir forest with Nari and came across Enthia standing in the middle of a burnt part of the forest.
 	Let's give her some space.
 Nari is dancing and singing a song about the galaxy.
-	This proves that even the aliens like {0}.
+	This proves that even the aliens like Nari.
 According to Nari's words, Tyler went to school 1 year earlier than William.
 	I thought they were just friends.
 Nari thinks she knows who Lynbell's brother is. What should we do?
@@ -17537,9 +17537,9 @@ Nebra is furious about the referee that's clearly favoring the other team. Shoul
 It suddenly began to rain heavily. You see Nebra running up ahead.
 	(Let him steal your umbrella.)
 You witnessed a player on the other side putting a tack in Nebra's shoe.
-	(Tell {0} who did this.)
+	(Tell Nebra who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Nebra.)
 Nebra hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
 	Okay. You make them pay, understand?
 
@@ -17827,7 +17827,7 @@ The team will be cleaning up the lodging. What will you have Net do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Net. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Net does have that kind of charm.
 Net is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Net after the match. Let's barge in.
@@ -17993,7 +17993,7 @@ The team will be cleaning up the lodging. What will you have Nia do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Nia. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Nia.
 Nia is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Nia after the match. Let's barge in.
@@ -18035,7 +18035,7 @@ The team will be cleaning up the lodging. What will you have Niarose do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Niarose. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Niarose does have that kind of charm.
 Niarose is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Niarose after the match. Let's barge in.
@@ -18273,7 +18273,7 @@ Kuma is furiously chasing Ogre. Noa seems confused.
 Noa is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Noa is prettier.
 Noa refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Noa is interested in Selena and is asking for your opinion. What should we say?
@@ -18574,9 +18574,9 @@ Ortega is furious about the referee that's clearly favoring the other team. Shou
 It suddenly began to rain heavily. You see Ortega running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Ortega's shoe.
-	(Tell {0} who did this.)
+	(Tell Ortega who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Ortega.)
 Ortega hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -18688,11 +18688,11 @@ Patricia is deeply focused on Jill's diet story. What should we do?
 Patricia says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Patricia seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Patricia trouble, I swear to god I'll use you both as special training material.
 Patricia is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Patricia went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Patricia is in danger! We have to save her!
 Patricia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Patricia seems very nervous to confront Kei of the Rescuer.
@@ -18740,7 +18740,7 @@ The team will be cleaning up the lodging. What will you have Paulina do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Paulina. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Paulina does have that kind of charm.
 Paulina is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Paulina after the match. Let's barge in.
@@ -18781,7 +18781,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Paulina is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Paulina seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Paulina!
 Paulina looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Paulina to set some simple rules.
@@ -18947,7 +18947,7 @@ The team will be cleaning up the lodging. What will you have Phil do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Phil. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Phil does have that kind of charm.
 Phil is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Phil after the match. Let's barge in.
@@ -19113,7 +19113,7 @@ The team will be cleaning up the lodging. What will you have Presty do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Presty. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Presty.
 Presty is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Presty after the match. Let's barge in.
@@ -19504,7 +19504,7 @@ Ramia is depressed thinking that winning the Galaxy League is a goal that can't 
 Ramia wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ramia is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Ramia? Nah, she never gets lost.
 You find Ramia lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ramia says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -19546,7 +19546,7 @@ Rammi is depressed thinking that winning the Galaxy League is a goal that can't 
 Rammi wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Rammi is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Rammi? Nah, she never gets lost.
 You find Rammi lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Rammi says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -19753,7 +19753,7 @@ Ravi is depressed thinking that winning the Galaxy League is a goal that can't b
 Ravi wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ravi is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Ravi? Nah, she never gets lost.
 You find Ravi lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ravi says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -19877,7 +19877,7 @@ Ravian is depressed thinking that winning the Galaxy League is a goal that can't
 Ravian wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ravian is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Ravian? Nah, she never gets lost.
 You find Ravian lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ravian says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -19960,7 +19960,7 @@ Ray is depressed thinking that winning the Galaxy League is a goal that can't be
 Ray wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ray is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Ray? Nah, he never gets lost.
 You find Ray lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ray says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -20026,9 +20026,9 @@ Renee is furious about the referee that's clearly favoring the other team. Shoul
 It suddenly began to rain heavily. You see Renee running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Renee's shoe.
-	(Tell {0} who did this.)
+	(Tell Renee who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Renee.)
 Renee hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -20150,7 +20150,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Reto is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Reto seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Reto!
 Reto looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Reto to set some simple rules.
@@ -20292,7 +20292,7 @@ Rigoletto is depressed thinking that winning the Galaxy League is a goal that ca
 Rigoletto wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Rigoletto is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Rigoletto? Nah, he never gets lost.
 You find Rigoletto lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Rigoletto says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -20482,7 +20482,7 @@ The team will be cleaning up the lodging. What will you have Rize do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Rize. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Rize.
 Rize is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Rize after the match. Let's barge in.
@@ -20597,7 +20597,7 @@ Kuma is furiously chasing Ogre. Roina seems confused.
 Roina is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Roina is prettier.
 Roina refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Roina is interested in Selena and is asking for your opinion. What should we say?
@@ -20897,9 +20897,9 @@ Rosette is furious about the referee that's clearly favoring the other team. Sho
 It suddenly began to rain heavily. You see Rosette running up ahead.
 	(Let her steal your umbrella.)
 You witnessed a player on the other side putting a tack in Rosette's shoe.
-	(Tell {0} who did this.)
+	(Tell Rosette who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Rosette.)
 Rosette hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
@@ -21288,7 +21288,7 @@ Ryu is depressed thinking that winning the Galaxy League is a goal that can't be
 Ryu wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Ryu is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Ryu? Nah, he never gets lost.
 You find Ryu lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Ryu says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -21395,7 +21395,7 @@ The team will be cleaning up the lodging. What will you have Sage do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Sage. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Sage does have that kind of charm.
 Sage is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Sage after the match. Let's barge in.
@@ -21478,7 +21478,7 @@ The team will be cleaning up the lodging. What will you have Sam do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Sam. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Sam does have that kind of charm.
 Sam is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Sam after the match. Let's barge in.
@@ -21685,7 +21685,7 @@ The team will be cleaning up the lodging. What will you have Sarah do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Sarah. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Sarah does have that kind of charm.
 Sarah is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Sarah after the match. Let's barge in.
@@ -22007,7 +22007,7 @@ Kuma is furiously chasing Ogre. Scarlet seems confused.
 Scarlet is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Scarlet is prettier.
 Scarlet refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Scarlet is interested in Selena and is asking for your opinion. What should we say?
@@ -22242,7 +22242,7 @@ Selpina is depressed thinking that winning the Galaxy League is a goal that can'
 Selpina wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Selpina is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Selpina? Nah, she never gets lost.
 You find Selpina lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Selpina says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -22505,7 +22505,7 @@ Kuma is furiously chasing Ogre. Shairan seems confused.
 Shairan is spreading the happy news about her cousin having a baby. Let's congratulate her.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Shairan is prettier.
 Shairan refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Shairan is interested in Selena and is asking for your opinion. What should we say?
@@ -22557,7 +22557,7 @@ The team will be cleaning up the lodging. What will you have Shanti do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Shanti. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Shanti does have that kind of charm.
 Shanti is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Shanti after the match. Let's barge in.
@@ -22598,7 +22598,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Shanti is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Shanti seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Shanti!
 Shanti looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Shanti to set some simple rules.
@@ -22671,7 +22671,7 @@ Sharr is deeply focused on Jill's diet story. What should we do?
 Sharr says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Sharr seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Sharr.
 Sharr is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Sharr went to take a look at the opponent team and got caught. What should we do?
@@ -22806,7 +22806,7 @@ The team will be cleaning up the lodging. What will you have Shura do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Shura. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Shura.
 Shura is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Shura after the match. Let's barge in.
@@ -22847,7 +22847,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Shura is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Shura seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Shura!
 Shura looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Shura to set some simple rules.
@@ -22865,7 +22865,7 @@ Siegfried is depressed thinking that winning the Galaxy League is a goal that ca
 Siegfried wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Siegfried is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Siegfried? Nah, he never gets lost.
 You find Siegfried lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Siegfried says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -22962,11 +22962,11 @@ Silk is deeply focused on Jill's diet story. What should we do?
 Silk says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Silk seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Silk trouble, I swear to god I'll use you both as special training material.
 Silk is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Silk went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Silk is in danger! We have to save her!
 Silk claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Silk seems very nervous to confront Kei of the Rescuer.
@@ -23169,11 +23169,11 @@ Sirius is deeply focused on Jill's diet story. What should we do?
 Sirius says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Sirius seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Sirius trouble, I swear to god I'll use you both as special training material.
 Sirius is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Sirius went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Sirius is in danger! We have to save her!
 Sirius claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Sirius seems very nervous to confront Kei of the Rescuer.
@@ -23221,9 +23221,9 @@ Skada is furious about the referee that's clearly favoring the other team. Shoul
 It suddenly began to rain heavily. You see Skada running up ahead.
 	(Let him steal your umbrella.)
 You witnessed a player on the other side putting a tack in Skada's shoe.
-	(Tell {0} who did this.)
+	(Tell Skada who did this.)
 During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to {0}.)
+	(Leave it to Skada.)
 Skada hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
 	Okay. You make them pay, understand?
 
@@ -23428,7 +23428,7 @@ The team will be cleaning up the lodging. What will you have Sky do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Sky. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Sky does have that kind of charm.
 Sky is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Sky after the match. Let's barge in.
@@ -23501,11 +23501,11 @@ Sofia is deeply focused on Jill's diet story. What should we do?
 Sofia says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Sofia seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Sofia trouble, I swear to god I'll use you both as special training material.
 Sofia is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Sofia went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Sofia is in danger! We have to save her!
 Sofia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Sofia seems very nervous to confront Kei of the Rescuer.
@@ -23553,7 +23553,7 @@ The team will be cleaning up the lodging. What will you have Sophie do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Sophie. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Sophie does have that kind of charm.
 Sophie is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Sophie after the match. Let's barge in.
@@ -23582,7 +23582,7 @@ Sophie is thinking about how to resist the psychological and mental attacks that
 Sophie is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Sophie's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Sophie's charms.)
 A defender on the other team seems to have fallen in love with Sophie and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Sophie's plays. Let's add in.
@@ -23653,7 +23653,7 @@ Sorrow is depressed thinking that winning the Galaxy League is a goal that can't
 Sorrow wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Sorrow is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Sorrow? Nah, she never gets lost.
 You find Sorrow lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Sorrow says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -23802,7 +23802,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Sue is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Sue seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Sue!
 Sue looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Sue to set some simple rules.
@@ -24051,7 +24051,7 @@ The team will be cleaning up the lodging. What will you have Swimsuit Qiyou do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Swimsuit Qiyou. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Swimsuit Qiyou.
 Swimsuit Qiyou is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Swimsuit Qiyou after the match. Let's barge in.
@@ -24260,7 +24260,7 @@ Teddy picked up a diary. It says Bell on the cover.
 Sorrow suddenly flies off after seeing a shiny object in the sky.
 	Come back Huginn! Wait, is it Muninn?
 Teddy is irritated because her opponent has the attribute advantage over her.
-	It's time, {0}! Awaken the 6th attribute and show your true powers!
+	It's time, Teddy! Awaken the 6th attribute and show your true powers!
 Teddy thinks Nana on the other team actually isn't a raccoon.
 	That's because you haven't opened up your ''third eye''!
 
@@ -24507,7 +24507,7 @@ The team will be cleaning up the lodging. What will you have Tina do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Tina. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Tina.
 Tina is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Tina after the match. Let's barge in.
@@ -24649,7 +24649,7 @@ Tria is depressed thinking that winning the Galaxy League is a goal that can't b
 Tria wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Tria is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Tria? Nah, she never gets lost.
 You find Tria lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Tria says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -25023,7 +25023,7 @@ Uriel is depressed thinking that winning the Galaxy League is a goal that can't 
 Uriel wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Uriel is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Uriel? Nah, she never gets lost.
 You find Uriel lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Uriel says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -25161,7 +25161,7 @@ Ustiel is deeply focused on Jill's diet story. What should we do?
 Ustiel says she's going to meet up with Kiki and asks if you have any questions.
 	Ask her if she likes you and if she wants to join our team.
 Kei and Virgil are fighting again and Ustiel seems to be troubled. What should we do?
-	You both need to be disciplined by {0}.
+	You both need to be disciplined by Ustiel.
 Ustiel is having a delightful chat with a girl that's holding a turtle.
 	You seem like the princess...Scratch that, the queen.
 Ustiel went to take a look at the opponent team and got caught. What should we do?
@@ -25230,7 +25230,7 @@ Valentine is depressed thinking that winning the Galaxy League is a goal that ca
 Valentine wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Valentine is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Valentine? Nah, he never gets lost.
 You find Valentine lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Valentine says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -25337,7 +25337,7 @@ The team will be cleaning up the lodging. What will you have Valkia do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Valkia. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Valkia does have that kind of charm.
 Valkia is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Valkia after the match. Let's barge in.
@@ -25562,7 +25562,7 @@ Vayne is depressed thinking that winning the Galaxy League is a goal that can't 
 Vayne wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Vayne is lost in the Nadir forest. What should we do?
-	{0}? Nah, she never gets lost.
+	Vayne? Nah, she never gets lost.
 You find Vayne lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Vayne says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
@@ -25657,7 +25657,7 @@ Verister is thinking about how to resist the psychological and mental attacks th
 Verister is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
 	Didn't she grow up being friends with the princess? I think I know what's going on...
 Verister's uniform is all messed up because of the filthy plays of her opponent. What should we do?
-	(It won't be long until the opponent becomes mesmerized by {0}'s charms.)
+	(It won't be long until the opponent becomes mesmerized by Verister's charms.)
 A defender on the other team seems to have fallen in love with Verister and is chasing her around the field. It looks like the player forgot about the match. What should we do?
 	Nobody can resist that charm of yours.
 Kaidormu of the United Explorers is praising Verister's plays. Let's add in.
@@ -25711,7 +25711,7 @@ The team will be cleaning up the lodging. What will you have Vermilion Bird do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Vermilion Bird. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Vermilion Bird does have that kind of charm.
 Vermilion Bird is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Vermilion Bird after the match. Let's barge in.
@@ -25918,7 +25918,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Victoria is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Victoria seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Victoria!
 Victoria looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Victoria to set some simple rules.
@@ -26019,7 +26019,7 @@ Vitos is depressed thinking that winning the Galaxy League is a goal that can't 
 Vitos wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Vitos is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Vitos? Nah, he never gets lost.
 You find Vitos lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Vitos says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -26250,7 +26250,7 @@ The team will be cleaning up the lodging. What will you have Vonchi do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Vonchi. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Vonchi does have that kind of charm.
 Vonchi is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Vonchi after the match. Let's barge in.
@@ -26333,7 +26333,7 @@ The team will be cleaning up the lodging. What will you have Wayne do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Wayne. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Wayne does have that kind of charm.
 Wayne is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Wayne after the match. Let's barge in.
@@ -26350,7 +26350,7 @@ Wayne is depressed thinking that winning the Galaxy League is a goal that can't 
 Wayne wants to cherish every precious meeting with other people and beings. He wants to be good friends with everybody. Let's talk to him.
 	Nothing is eternal, but that doesn't make it insignificant.
 It seems that Wayne is lost in the Nadir forest. What should we do?
-	{0}? Nah, he never gets lost.
+	Wayne? Nah, he never gets lost.
 You find Wayne lurking around the food corner at the shopping center. What should we say?
 	Hello! Have you come here to buy food for dinner?
 Wayne says he doesn't understand why other angels are afraid of Uriel. He thinks Uriel is a very kind angel.
@@ -26544,7 +26544,7 @@ A player on the other team says soccer became enjoyable after confronting White 
 White Snow is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with White Snow after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	White Snow was fantastic on the field, right?
 
 White Tiger
 White Tiger is asking about the team's goal of this season. What should you tell her?
@@ -26862,7 +26862,7 @@ Kuma is furiously chasing Ogre. Wukong seems confused.
 Wukong is spreading the happy news about his cousin having a baby. Let's congratulate him.
 	So, the numerous baby clothes you've been making were all for this day?
 The team seems very nervous facing Skalardra. What should we do?
-	Huh? I think {0} is prettier.
+	Huh? I think Wukong is prettier.
 Wukong refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to him.
 	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
 Wukong is interested in Selena and is asking for your opinion. What should we say?
@@ -27080,7 +27080,7 @@ The team will be cleaning up the lodging. What will you have Xing do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Xing. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Xing does have that kind of charm.
 Xing is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Xing after the match. Let's barge in.
@@ -27153,11 +27153,11 @@ Yeon is deeply focused on Jill's diet story. What should we do?
 Yeon says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Yeon seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Yeon trouble, I swear to god I'll use you both as special training material.
 Yeon is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Yeon went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Yeon is in danger! We have to save her!
 Yeon claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Yeon seems very nervous to confront Kei of the Rescuer.
@@ -27415,7 +27415,7 @@ A player on the other team says soccer became enjoyable after confronting Yuna. 
 Yuna is angry about the opponent's resilient attack on you. What should we say?
 	Don't worry about me! Do your job!
 Latios is chatting with Yuna after the match. Let's barge in.
-	{0} was fantastic on the field, right?
+	Yuna was fantastic on the field, right?
 
 Yuna seems to be lost after having a good match while her fortune-telling said things would go wrong. Let's talk to her.
 	They say the fortune-telling is inaccurate if you don't pay a sufficient price.
@@ -27535,7 +27535,7 @@ The team will be cleaning up the lodging. What will you have Yuran do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	Well, you did get ''dirty'' by falling in the dirt.
 A player on the other team says soccer became enjoyable after confronting Yuran. What should you say?
-	Well, you're as cute as {0}.
+	Well, you're as cute as Yuran.
 Yuran is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Yuran after the match. Let's barge in.
@@ -27567,11 +27567,11 @@ Yuri is deeply focused on Jill's diet story. What should we do?
 Yuri says she's going to meet up with Kiki and asks if you have any questions.
 	Tell her to be our lap cat.
 Kei and Virgil are fighting again and Yuri seems to be troubled. What should we do?
-	If you guys keep giving {0} trouble, I swear to god I'll use you both as special training material.
+	If you guys keep giving Yuri trouble, I swear to god I'll use you both as special training material.
 Yuri is having a delightful chat with a girl that's holding a turtle.
 	She seems like a nice girl.
 Yuri went to take a look at the opponent team and got caught. What should we do?
-	{0} is in danger! We have to save her!
+	Yuri is in danger! We have to save her!
 Yuri claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
 	She must've made a mistake.
 Yuri seems very nervous to confront Kei of the Rescuer.
@@ -27618,7 +27618,7 @@ The team will be cleaning up the lodging. What will you have Yuri do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Yuri. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Yuri does have that kind of charm.
 Yuri is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Yuri after the match. Let's barge in.
@@ -27784,7 +27784,7 @@ The team will be cleaning up the lodging. What will you have Zhen Long do?
 The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
 	They will never learn with an attitude like that.
 A player on the other team says soccer became enjoyable after confronting Zhen Long. What should you say?
-	Well, {0} does have that kind of charm.
+	Well, Zhen Long does have that kind of charm.
 Zhen Long is angry about the opponent's resilient attack on you. What should we say?
 	Can you peel this guy off of me?
 Latios is chatting with Zhen Long after the match. Let's barge in.
@@ -27867,7 +27867,7 @@ James is fighting Akane after ambushing Yuri, and Bora is slowly making her appr
 Zibroi is sad that the World Tree in Umbra has withered. What could we say to cheer him up?
 	Who could've done such a hideous thing?
 Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Zibroi seems to be sick of this.
-	Okay! Now I'll tell you all the good stuff about {0}!
+	Okay! Now I'll tell you all the good stuff about Zibroi!
 Zibroi looks startled after learning the underworld actually exists.
 	How about we ask Jeunese?
 The team is in a slump and you take the team out for refreshment. Talk with Zibroi to set some simple rules.

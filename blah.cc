@@ -261,7 +261,7 @@ int main() {
         if (gender == "Male") {
           string original_question = reverse_wikia_map_male(question_idx, "{0}");
           string answers = questions_male.at(original_question);
-          replace_all_instances(answers, player, "{0}");
+          replace_all_instances(answers, "{0}", player);
           cout << reverse_wikia_map_male(question_idx, player) << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             //cout << ii << '\t' << answers << endl;
@@ -271,7 +271,7 @@ int main() {
         } else {
           string original_question = reverse_wikia_map_female(question_idx, "{0}");
           string answers = questions_female.at(original_question);
-          replace_all_instances(answers, player, "{0}");
+          replace_all_instances(answers, "{0}", player);
           cout << reverse_wikia_map_female(question_idx, player) << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             //cout << ii << '\t' << answers << endl;
