@@ -203,7 +203,7 @@ static inline void insert_answer(const std::string& player_name,
 int main() {
   using namespace std;
 
-  init_wikia_question_mapping();
+  // init_wikia_question_mapping();
   init_personality_map();
 
   map<string, string> questions_male;
@@ -234,16 +234,22 @@ int main() {
   }
 
   unordered_set<string> u_questions;
+  vector<string> male_questions;
+  vector<string> female_questions;
+  male_questions.push_back("");
+  female_questions.push_back("");
   {
     ifstream infile("questions.txt");
     string line;
     while (getline(infile, line)) {
       size_t tab = line.find('\t');
       questions_male[line.substr(0,tab)] = line.substr(tab+1);
+	  male_questions.push_back(line.substr(0, tab));
       u_questions.insert(line.substr(0,tab));
       getline(infile, line);
       tab = line.find('\t');
       questions_female[line.substr(0,tab)] = line.substr(tab+1);
+	  female_questions.push_back(line.substr(0, tab));
       u_questions.insert(line.substr(0,tab));
     }
   }
@@ -259,20 +265,22 @@ int main() {
         int answer_idx = ((personality + j + 1) % 3);
         //cout << starting_point + j << ": " << 1 + ((i + j + 2) % 3) << endl;
         if (gender == "Male") {
-          string original_question = reverse_wikia_map_male(question_idx, "{0}");
+          string original_question = male_questions[question_idx];
           string answers = questions_male.at(original_question);
           replace_all_instances(answers, "{0}", player);
-          cout << reverse_wikia_map_male(question_idx, player) << endl;
+          replace_all_instances(original_question, "{0}", player);
+          cout << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             //cout << ii << '\t' << answers << endl;
             answers = answers.substr(answers.find('\t')+1);
           }
           cout << '\t' << answers.substr(0, answers.find('\t')) << endl;
         } else {
-          string original_question = reverse_wikia_map_female(question_idx, "{0}");
+          string original_question = female_questions[question_idx];
           string answers = questions_female.at(original_question);
           replace_all_instances(answers, "{0}", player);
-          cout << reverse_wikia_map_female(question_idx, player) << endl;
+		  replace_all_instances(original_question, "{0}", player);
+          cout << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             //cout << ii << '\t' << answers << endl;
             answers = answers.substr(answers.find('\t')+1);
