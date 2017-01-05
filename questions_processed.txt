@@ -199,7 +199,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Aiolos seems to be s
 A big fight broke out between an angel and a demon within the team. Aiolos is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Aiolos's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Aiolos is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Aiolos is thinking about what the Universe of Oblivion is.
@@ -1361,7 +1361,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Asakura seems to be 
 A big fight broke out between an angel and a demon within the team. Asakura is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Asakura's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Asakura is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Asakura is thinking about what the Universe of Oblivion is.
@@ -3018,7 +3018,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue Dragon seems to
 A big fight broke out between an angel and a demon within the team. Blue Dragon is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Blue Dragon's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Blue Dragon is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue Dragon is thinking about what the Universe of Oblivion is.
@@ -3101,7 +3101,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue King seems to b
 A big fight broke out between an angel and a demon within the team. Blue King is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Blue King's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Blue King is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue King is thinking about what the Universe of Oblivion is.
@@ -4559,46 +4559,46 @@ MX54 Butcher is closing in on a cat with a suspicious smile.
 The match started and Cow Demon Queen is standing still doing nothing.
 	Run! Just start running!
 
-You find Cow Demon Queen depressed for not playing well during the match. Let's cheer her up.
-	You did well and I thank you for that.
-Cow Demon Queen is questioning your promise to make the best team ever. It's time to redeem yourself.
-	That's why I need your help.
-You come across Cow Demon Queen being lost and wandering around while going back to the lodging. Let's talk to her.
-	Are you feeling alright?
-Cow Demon Queen is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
-	I was always looking forward for that moment.
-Cow Demon Queen is having trouble with continuing nightmares. Let's talk to her.
-	It's just a dream. Forget about it.
-Cow Demon Queen is stressed out saying her opponent has the upper ground on every aspect. What should we do?
-	You can overcome this like always. Right?
-Cow Demon Queen seems to be satisfied with the perfect team work. Let's talk to her.
-	I'm starting to see true strength in this team.
-You come across Cow Demon Queen who is limping. She says it's nothing. What should we do?
-	Don't push yourself too hard. Get off the field if you don't think you can continue.
-You visit Marilyn's house and see Hildegard eating ramen.
-	Can't you cook ramen by yourself?
-You're watching the storm with Cow Demon Queen and you spot Princess Meiran taking a walk while humming.
-	What's wrong with her?
-Cow Demon Queen looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
-	Littre will be fine.
-Cow Demon Queen's opponent is smiling whenever they confront each other on the field. Cow Demon Queen seems to be nervous. Let's talk to her.
-	That player is just messing with you.
-Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Cow Demon Queen.
-	Maybe he got embarrassed for being obsessed with his past?
-The members of Siena Celtron are furiously searching the stadium for Kuma.
-	Let's give them a hand.
-The game ended as a tie, but it seems that the competition between Cow Demon Queen and her opponent isn't over yet.
-	You better win that fight!
-The team will be cleaning up the lodging. What will you have Cow Demon Queen do?
-	(Let her take some of the team members and allow them to clean freely.)
-The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
-	They will never learn with an attitude like that.
-A player on the other team says soccer became enjoyable after confronting Cow Demon Queen. What should you say?
-	Well, Cow Demon Queen does have that kind of charm.
-Cow Demon Queen is angry about the opponent's resilient attack on you. What should we say?
-	Can you peel this guy off of me?
-Latios is chatting with Cow Demon Queen after the match. Let's barge in.
-	I'm looking forward to our next match!
+Cow Demon Queen is asking you what you think is it that makes this team great. You weren't expecting this, but you should give her an answer.
+	You. I know you're doing much for the team without taking any credit.
+Cow Demon Queen is angry because she was criticized by her performance and is asking your opinion. Let's give her an answer.
+	I want to practice with you, if that's okay with you. No?
+Cow Demon Queen, who has shown absolutely superb chemistry with you, is embarrassed and says she didn't do all of that because of you. What should we say?
+	Yeah? Well, I did what I did for you.
+Cow Demon Queen wants to have an academic conversation about the 5th dimension, string theory, and other infamously hard space theories. Why...?
+	(Maybe she brought snacks but is too shy to share it with me.)
+Cow Demon Queen looks disappointed about the size of the Galaxy League. What would be an appropriate response?
+	Nervous? Trust me. I got you.
+Cow Demon Queen seems to be uncomfortable to hear about the love life of other teammates. Let's talk to her.
+	Should we join the club?
+Cow Demon Queen is talking about how famous her rivals are in the Galaxy League. She seems jealous. Let's talk to her.
+	I'll be your rival from now.
+Cow Demon Queen is furious about how Lucian is always surrounded by girls. What should we say?
+	Are you jealous?
+Kirin suddenly appears, pats Cow Demon Queen on the head while teasing her, and then goes away. Cow Demon Queen seems angry...
+	...I think you liked it more than you thought...
+The team is at Metro City. Cow Demon Queen seems to be surprised how the people of Metro City have mechanical bodies.
+	You have a heart of gold.
+Kuma is furiously chasing Ogre. Cow Demon Queen seems confused.
+	Two bears...Which one is Kuma?
+Cow Demon Queen is spreading the happy news about her cousin having a baby. Let's congratulate her.
+	So, the numerous baby clothes you've been making were all for this day?
+The team seems very nervous facing Skalardra. What should we do?
+	Huh? I think Cow Demon Queen is prettier.
+Cow Demon Queen refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
+	Are you angry because I wasn't there to oversee your training? I said I'm sorry!
+Cow Demon Queen is interested in Selena and is asking for your opinion. What should we say?
+	Be honest and show a sincere attitude.
+Cow Demon Queen seems to be interested in the Micrinum from Kiri, which is said to be good for beauty and anti-aging. Let's talk to her.
+	You're young and good looking even without that.
+Cow Demon Queen seems to be determined to crush the opposing team. Let's give her some advice.
+	That's the spirit! Let's teach them a lesson!
+Cow Demon Queen looks sad because she feels her friendship with a friend in a rival team is falling apart. What should we say to her?
+	Try starting off with some small talk.
+It's a tough match, but Cow Demon Queen is standing tall and encouraging the team. What should we say to her?
+	Your spirit is an inspiration to us all.
+A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Cow Demon Queen about what to do.
+	Let's go visit her. Some fun won't do any harm. It might even cheer her up!
 
 Crocell
 The team made it up to the semi-finals after counting the goal differences. Crocell asks how you feel. How should we answer?
@@ -4677,7 +4677,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Crocell seems to be 
 A big fight broke out between an angel and a demon within the team. Crocell is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Crocell's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Crocell is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Crocell is thinking about what the Universe of Oblivion is.
@@ -5673,7 +5673,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Duran seems to be su
 A big fight broke out between an angel and a demon within the team. Duran is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Duran's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Duran is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Duran is thinking about what the Universe of Oblivion is.
@@ -7250,7 +7250,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Fredrica seems to be
 A big fight broke out between an angel and a demon within the team. Fredrica is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Fredrica's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Fredrica is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Fredrica is thinking about what the Universe of Oblivion is.
@@ -7752,6 +7752,89 @@ Lynia is cleaning the streets with the members of Jeneva Crew. Gerrard is curiou
 	Let's go help them!
 Gerrard brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	Drink it up!
+
+Glayde
+The team made it up to the semi-finals after counting the goal differences. Glayde asks how you feel. How should we answer?
+	Wow. I'm sooooo happy.
+Glayde suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How about we go eat salad? I'm on a diet.
+Glayde is saying that her teammates are what keeps her going.
+	(Pat her on the head.)
+Glayde has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	I hope you'd stop sharing small talks with your opponents on the field.
+As Glayde said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I'm sure it's going in a good direction.
+The crowd is cheering for Glayde. Glayde seems to find this situation new and a bit uncomfortable. Let's help her out.
+	They know you gave everything you got. It was spectacular.
+Glayde is impressed by the help she received from the elementals. Let's talk to her.
+	I am so thankful to them.
+Glayde was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	Oh, that'll be so cute!
+The team will not have a match for some time. Glayde asks you about your plan.
+	Hmm, wanna go shopping?
+It's a very intense match and Glayde falls on the ground, but a player on the other team helps Glayde up and the two exchange smiles.
+	That player must have a heart of gold.
+The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	That's a sad story. I'm tearing up.
+You're walking in a narrow ally and come across Glayde having an intense staring contest with the captain of the opposing team. What should we say?
+	How about solving this with a game of rock, scissors, paper?
+Glayde is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	Should've practiced that autograph like I told you.
+Glayde scored a hat trick and led the team to a complete victory! Congratulate her!
+	Hmm? Didn't we win the game when we scored the first goal?
+A player on the other side is on the field with his arms tied up. Let's talk about this with Glayde.
+	It hurts when the whip first crackles. And the pain just keeps ramping up.
+Glayde falls to the ground after clashing with the opponent. What should we say to her?
+	Well, let's start by dropping that player's HP to 1.
+Glayde lost to the opponent and fell to the ground. What should we do?
+	This doesn't look good...Can anybody give her some heals?
+You come across Sammy while walking the street with Glayde. Let's talk to her.
+	Do you also do fortune telling? I think I'm in love.
+Lynia is cleaning the streets with the members of Jeneva Crew. Glayde is curious and wants to take a look.
+	They must love volunteer work!
+Glayde brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	The drink looks really scary...But we can't just throw it away...
+
+Glayde says she's the center of the team and asks if you agree with her. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+Glayde asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I'm going to make a joke before I start crying!
+Glayde is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+Glayde looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Do you think any of those comets are populated?
+Glayde says she's having trouble dealing with the young players. Let's give her an answer.
+	Teach them how adults play soccer.
+Glayde wants to know what the Swirlies really are. Give her an answer.
+	Beginner level monsters in an RPG game.
+Glayde is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	That's deep. I think it's cool.
+Glayde says she was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+Glayde says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+Glayde seems to get along with the opponent player. What should we tell her?
+	Don't forget that we exist! Haha!
+Glayde is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+Glayde says she's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+Kei and Virgil are fighting again and Glayde seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+Glayde is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+Glayde went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of her when she comes back.
+Glayde claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+Glayde seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+Glayde says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Glayde hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+Glayde says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	Maybe she's up to something.
 
 Grace
 Grace says she's the center of the team and asks if you agree with her. How should we answer?
@@ -15091,7 +15174,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Magnus seems to be s
 A big fight broke out between an angel and a demon within the team. Magnus is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Magnus's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Magnus is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Magnus is thinking about what the Universe of Oblivion is.
@@ -15339,7 +15422,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Marianne seems to be
 A big fight broke out between an angel and a demon within the team. Marianne is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Marianne's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Marianne is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Marianne is thinking about what the Universe of Oblivion is.
@@ -17163,7 +17246,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Moritz seems to be s
 A big fight broke out between an angel and a demon within the team. Moritz is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Moritz's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Moritz is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Moritz is thinking about what the Universe of Oblivion is.
@@ -17910,7 +17993,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Neraizel seems to be
 A big fight broke out between an angel and a demon within the team. Neraizel is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Neraizel's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Neraizel is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Neraizel is thinking about what the Universe of Oblivion is.
@@ -19860,7 +19943,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Rammi seems to be su
 A big fight broke out between an angel and a demon within the team. Rammi is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Rammi's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Rammi is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Rammi is thinking about what the Universe of Oblivion is.
@@ -21893,7 +21976,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Sammy seems to be su
 A big fight broke out between an angel and a demon within the team. Sammy is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Sammy's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Sammy is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Sammy is thinking about what the Universe of Oblivion is.
@@ -24383,7 +24466,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Swimsuit Qiyou seems
 A big fight broke out between an angel and a demon within the team. Swimsuit Qiyou is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Swimsuit Qiyou's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Swimsuit Qiyou is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Swimsuit Qiyou is thinking about what the Universe of Oblivion is.
@@ -26541,7 +26624,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Vivid Fear seems to 
 A big fight broke out between an angel and a demon within the team. Vivid Fear is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Vivid Fear's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Vivid Fear is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Vivid Fear is thinking about what the Universe of Oblivion is.
