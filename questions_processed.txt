@@ -205,6 +205,47 @@ Aiolos is thinking about what Selena said about saving the galaxy if we win the 
 Aiolos is thinking about what the Universe of Oblivion is.
 	Don't be scared about such petty things.
 
+Aiolos seems to be lost after having a good match while her fortune-telling said things would go wrong. Let's talk to her.
+	Game results aren't that simple to be predicted by fortune-telling.
+With a serious face, Aiolos is asking what the true meaning of competition is. Let's give her an answer.
+	Being together is enough for me.
+Aiolos came to you after the match, and says she's disappointed at the team's boring strategy. What should we say?
+	I'm disappointed, too. Let's start over.
+Aiolos is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.
+	Even if they're not on the field with us, we're fighting as one. Right?
+The team is having a good run and Aiolos is sure that winning the League is a matter of time.
+	Let's keep this momentum going!
+Aiolos seems to be very confused of how a small soccer ball can change the fate of the universe.
+	Let's open up a bright future with this ball.
+Aiolos seems to be upset about losing a body check against her opponent.
+	Don't be weak.
+Aiolos is asking what the conditions of a team ace are with a serious face. Let's talk with her.
+	Just act like yourself. You're already the ace.
+Aiolos is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.
+	Well, I have no problem with it as long as it functions as a soccer ball.
+Aiolos plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.
+	I don't care what I do after the League as long as I get to continue playing soccer.
+It's a hard match and your team is losing. Talk with Aiolos and talk about what to do.
+	We can't give up here. There's still a chance to win this.
+Aiolos seems to be lost. She says she no longer hates the rival team.
+	I guess that's natural. The matches against them were great. 
+You were enjoying the peaceful day on Earth until the Peacemakers suddenly showed up. At that moment, the Magical Girl Elements came to save the day!
+	...Uh...So no soccer?
+Vitos suddenly laughs in joy during the match against the Empire. Why?
+	The emperor of demons is also enjoying this match!
+Aiolos's form has been improving rapidly. She says she can't wait for the next match. What should we say to her?
+	Remember that feeling and use it when things get tough.
+During a match, Aiolos bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?
+	It's something that happened during the match. Don't be so hard on yourself.
+Aiolos is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to her.
+	It's the consequences of your actions. Accept it.
+You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.
+	I think it's a nice way to cherish the memories of the lost.
+Aiolos is suddenly taking interest in who Shootmeister actually is. What should we say?
+	I can tell that he's a very diligent person that always tries his best.
+Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Aiolos is starting to get intimidated.
+	Okay, it's time we take this match seriously.
+
 Akane
 Akane is asking about the team's goal of this season. What should you tell her?
 	Best of 4 should be our goal.
@@ -1283,6 +1324,89 @@ Armati is asking you about the one thing you want the most in the universe. What
 	(I want my dreams to come true.)
 There's been a mistake. The team's uniform is mixed up with the festival costumes. What should you tell the team?
 	What's done is done. Let's come up with a new design.
+
+Armel
+Still looking pretty heated up by the match, Armel is asking how she did in the match.
+	It was pretty scary watching you so pleased with the rough plays of the opponents.
+Armel looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
+	I like cats. I like the egoistic side of them.
+You come across Armel thinking about the value of soccer. What should we tell her?
+	I'm sure you can find pleasure inside of the violence of the field.
+Armel is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?
+	You will be happy, while that feeling lasts.
+Armel blushes up and tells you that she's happy she can play soccer with you. What should we tell her?
+	Hmm, I'll prepare a rougher match.
+Armel is asking for special training sessions because she's not satisfied with today's performance. What should we tell her?
+	Good. I'll train you until you can't stand up.
+Armel did her best, but she failed to achieve the results she wanted and looks sad. We should say something to her.
+	That wasn't enough! You have to try harder!
+Armel is asking you about what you like besides soccer.
+	Boxing. I like that feeling when I get hit by a punch.
+Armel feels her heart races when she sees Littre.
+	...Do you want to spend the rest of your life being with an abusive herbivore like alien creature? 
+Kuma is caught sneaking in the woman's locker room once again. We should talk with Armel about what to do with him.
+	Let's make him put on Armel's underwear.
+Armel continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(She looks happy. Let's let her be.)
+Armel is being annoying with her offensive words. What should we do?
+	(Slap her.)
+It's dinner time and Armel is staring at her carrot soup with a troubled look. What should we do?
+	(Tell her to put the carrots in the soup on Hildegard's plate.)
+It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Armel to do?
+	(Step on everyone that's still sleeping.)
+Armel says that the soup tastes funny. What should we do?
+	It's fine. Eat up.
+Armel is furious about the referee that's clearly favoring the other team. Should we stop her?
+	The tougher it gets, the better it feels to win. Right?
+It suddenly began to rain heavily. You see Armel running up ahead.
+	(Run past her and smile.)
+You witnessed a player on the other side putting a tack in Armel's shoe.
+	(Ignore it.)
+During the team meeting, you find a player sleeping. What should you do?
+	(Slap the player in the back of the head.)
+Armel hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
+	It seems as if pain is what keeps you going...
+
+Armel asks what you think is the most important ability in soccer. Give her an answer.
+	Excitement and elegance. The fans love it.
+Armel is criticizing the male teammates that were mesmerized by Lilith during the match. It's your job to defend your teammates.
+	I think they're also mesmerized by you. You have a charm that matches a demon...
+Being too excited, Armel is overreacting while talking about the game. It seems she wants people to agree with her.
+	Yeah. The sight of you running on the field was marvelous.
+Armel is asking what it would be like to date an alien. Give her your opinion.
+	I believe it'll be romantic.
+Armel seems to be planning to enter for the Galaxy League Mascot Contest. Let's talk to her.
+	Mascot? More like a super model. You're too good looking to be a mere mascot.
+Armel asks what your plans are for the holidays when there's no training or match. Give her an answer.
+	(Meet up with my lover.)
+Armel heard stories about the world of the demons and asks what you think it'll be like.
+	It'll sure be dangerous, but I think it'll be a place full of thrills and wonders.
+Armel, who seems to be interested in Eve, is asking your opinion about her. What should we tell her?
+	Maybe she would be too much for you.
+Recently, Armel seems to enjoy chatting with Jin. She thinks Jin is funny. Let's talk with her.
+	I didn't know you were into old men.
+Armel is thinking about how to resist the psychological and mental attacks that the demons enjoy using. Let's give her advice.
+	How about you just go with the flow?
+Armel is worried about Vermilion Bird. She thinks something is troubling Vermilion Bird.
+	Didn't she grow up being friends with the princess? I think I know what's going on...
+Armel's uniform is all messed up because of the filthy plays of her opponent. What should we do?
+	(It won't be long until the opponent becomes mesmerized by Armel's charms.)
+A defender on the other team seems to have fallen in love with Armel and is chasing her around the field. It looks like the player forgot about the match. What should we do?
+	Nobody can resist that charm of yours.
+Kaidormu of the United Explorers is praising Armel's plays. Let's add in.
+	Yeah, she's as charming as you!
+The team became furious after seeing Armel fall by the focused attack of the opposing team and used that fury to win the game. Let's say something.
+	Your beauty is a curse...
+Armel is having trouble finding a Spirit Stone that fits her needs and taste. Let's give her advice.
+	How about Metatron's Will? It's cute with the butterfly decorations.
+Armel is asking about the whereabouts of a teammate that hasn't seen for quite a while. Let's give her an answer.
+	I used him as training material so that he could be useful to you.
+Armel is planning to go on a blind date with a close teammate. Should we say something to her?
+	Don't get greedy and go for all of the men.
+It seems that Armel is wondering what to do after a teammate proposed to her. It doesn't seem that she's not entirely uninterested. What should we do?
+	Just make sure that it doesn't affect him on the field.
+Armel is teasing her opponent that is having a hard time chasing her. What should we do?
+	Well, that player is kind of cute...
 
 Asakura
 Asakura is asking about what's the most important condition in winning today's match. Let's give her an answer.
@@ -24719,6 +24843,89 @@ Tersia wonders why Castor twitches whenever he sees Beatrice.
 MX54 Butcher is closing in on a cat with a suspicious smile.
 	Excuse me, but do you have an appointment with that cat?
 The match started and Tersia is standing still doing nothing.
+	Looks like we'll have to do without her.
+
+Thor
+The team made it up to the semi-finals after counting the goal differences. Thor asks how you feel. How should we answer?
+	Wow. I'm sooooo happy.
+Thor suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How about we go eat salad? I'm on a diet.
+Thor is saying that her teammates are what keeps her going.
+	(Pat her on the head.)
+Thor has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	I hope you'd stop sharing small talks with your opponents on the field.
+As Thor said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I'm sure it's going in a good direction.
+The crowd is cheering for Thor. Thor seems to find this situation new and a bit uncomfortable. Let's help her out.
+	They know you gave everything you got. It was spectacular.
+Thor is impressed by the help she received from the elementals. Let's talk to her.
+	I am so thankful to them.
+Thor was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	Oh, that'll be so cute!
+The team will not have a match for some time. Thor asks you about your plan.
+	Hmm, wanna go shopping?
+It's a very intense match and Thor falls on the ground, but a player on the other team helps Thor up and the two exchange smiles.
+	That player must have a heart of gold.
+The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	That's a sad story. I'm tearing up.
+You're walking in a narrow ally and come across Thor having an intense staring contest with the captain of the opposing team. What should we say?
+	How about solving this with a game of rock, scissors, paper?
+Thor is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	Should've practiced that autograph like I told you.
+Thor scored a hat trick and led the team to a complete victory! Congratulate her!
+	Hmm? Didn't we win the game when we scored the first goal?
+A player on the other side is on the field with his arms tied up. Let's talk about this with Thor.
+	It hurts when the whip first crackles. And the pain just keeps ramping up.
+Thor falls to the ground after clashing with the opponent. What should we say to her?
+	Well, let's start by dropping that player's HP to 1.
+Thor lost to the opponent and fell to the ground. What should we do?
+	This doesn't look good...Can anybody give her some heals?
+You come across Sammy while walking the street with Thor. Let's talk to her.
+	Do you also do fortune telling? I think I'm in love.
+Lynia is cleaning the streets with the members of Jeneva Crew. Thor is curious and wants to take a look.
+	They must love volunteer work!
+Thor brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	The drink looks really scary...But we can't just throw it away...
+
+Thor is looking excited and asks how the match went.
+	They were a worthy opponent.
+This was the worst game in your entire life...Thor comes to you to cheer you up.
+	Thanks. You always know how to get me back on my feet.
+You're talking to Thor about what you would do if the world ends tomorrow. Let's tell her your answer.
+	I would say goodbye to all my friends.
+Thor is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.
+	I'm sure everybody is feeling the same way you feel.
+Thor is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give her some advice.
+	Let's make that our goal and make it happen.
+Thor isn't pleased with the team's recent plays. She feels that the plays have become somewhat repetitive and dull.
+	Let's all talk together and figure out what the problem is.
+With back to back matches, the team is exhausted. Let's talk to Thor for solutions.
+	I guess it's time the benchwarmers get a chance.
+The team manger ran away with all of the team's money. What should we do?
+	Let's ask for help to the League officials on this planet.
+You were taking a walk in the Nadir forest with Thor and came across Enthia standing in the middle of a burnt part of the forest. 
+	Let's give her some space.
+Nari is dancing and singing a song about the galaxy.
+	This proves that even the aliens like Nari.
+According to Thor's words, Tyler went to school 1 year earlier than William.
+	I thought they were just friends.
+Thor thinks she knows who Lynbell's brother is. What should we do?
+	First, let's look for a way to bring him back to normal. 
+Thor won a trip around the world from a radio event!
+	Hmm, come back to me with a vacation plan.
+Thor suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+	That would be wonderful! I'll go ask for permission.
+The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+	Let's see what you have to say after the match.
+You're sick and in bed when Thor and the teammates come to cheer you up. What will your response be?
+	I'm sorry...I should be giving you guys some tea or something, but...
+The match and the concert that Thor was looking for start at the same time...
+	I'm sorry that you couldn't go.
+Thor wonders why Castor twitches whenever he sees Beatrice.
+	Long ago, he was disgraceful towards a dragon emissary.
+MX54 Butcher is closing in on a cat with a suspicious smile.
+	Excuse me, but do you have an appointment with that cat?
+The match started and Thor is standing still doing nothing.
 	Looks like we'll have to do without her.
 
 Tiffany
