@@ -2024,3 +2024,5 @@ Thor
 Female
 Armel
 Female
+Loyce
+Female
