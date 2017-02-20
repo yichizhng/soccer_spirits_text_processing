@@ -6135,6 +6135,89 @@ Elaine looks startled after learning the underworld actually exists.
 The team is in a slump and you take the team out for refreshment. Talk with Elaine to set some simple rules.
 	Let's split up and meet back here for dinner. Tell everybody to enjoy their free time.
 
+Elchitusa
+You find Elchitusa depressed for not playing well during the match. Let's cheer her up.
+	It's not your fault that you fell during the match. Don't worry about it!
+Elchitusa is questioning your promise to make the best team ever. It's time to redeem yourself.
+	Don't be all negative because there were some mistakes. You're a precious part of this team.
+You come across Elchitusa being lost and wandering around while going back to the lodging. Let's talk to her.
+	Don't use that ability on the field...
+Elchitusa is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	Stay by my side and make sure I don't make any mistakes, will you?
+Elchitusa is having trouble with continuing nightmares. Let's talk to her.
+	I'll sleep by your side tonight.
+Elchitusa is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	It's not your fault. It's your mistakes that took the opponents off guard.
+Elchitusa seems to be satisfied with the perfect team work. Let's talk to her.
+	Perfect! No mistakes made!
+You come across Elchitusa who is limping. She says it's nothing. What should we do?
+	I think I'll get injured too if you're on the field. Please sit on the bench.
+You visit Marilyn's house and see Hildegard eating ramen.
+	Ramen, that's a dangerous food to cook.
+You're watching the storm with Elchitusa and you spot Princess Meiran taking a walk while humming.
+	She shines even in the darkest storms! How gorgeous!
+Elchitusa looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Did you prepare your meds in case you get space-sick? Never mind, I'll prepare the meds.
+Elchitusa's opponent is smiling whenever they confront each other on the field. Elchitusa seems to be nervous. Let's talk to her.
+	I think that player likes you.
+Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Elchitusa.
+	You saved us all from that awkward moment by tripping on your own foot.
+The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Kuma alert! Get back to the shelter!
+The game ended as a tie, but it seems that the competition between Elchitusa and her opponent isn't over yet.
+	Hey! The match is over!
+The team will be cleaning up the lodging. What will you have Elchitusa do?
+	(Let her clean, but warn her not to cause any trouble.)
+The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	Well, you did get ''dirty'' by falling in the dirt.
+A player on the other team says soccer became enjoyable after confronting Elchitusa. What should you say?
+	Well, you're as cute as Elchitusa.
+Elchitusa is angry about the opponent's resilient attack on you. What should we say?
+	Don't come over here! It's dangerous!
+Latios is chatting with Elchitusa after the match. Let's barge in.
+	Don't you think about sneaking her out. She's our pretty girl.
+
+Elchitusa is asking about what's the most important condition in winning today's match. Let's give her an answer.
+	What could it be? Money? Luck? Weather? Hmm? What?
+Elchitusa, who is determined to make everything in her life, even her dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
+	I've been chased by a soccer ball monster in my dreams. It was terrifying.
+Elchitusa announces that she will become an influential player that changes the league completely. Let's give her an answer.
+	You'll have to compete with me!
+Elchitusa is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to her?
+	Come on, cheer up. You're not being yourself.
+Elchitusa wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
+	It'll be pretty exciting if we could stay the same even after 10 years.
+It seems that Elchitusa is lost in the Nadir forest. What should we do?
+	Listen carefully and you'll find her.
+You find Elchitusa lurking around the food corner at the shopping center. What should we say?
+	Stop wandering around the kids snack corner!
+Elchitusa says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
+	Hmm? That is odd...What do you think about this?
+A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?
+	I'll tackle him down! Knock his lights out!
+Elchitusa wants the team to enter the Underground League on Earth. What should we do?
+	What about just watching?
+Elchitusa caught a player on the other team spying on your team's practice. What should we do?
+	You came to see my marvelous moves? I'm flattered. 
+The middle fielder on the other team is too powerful. Let's give Elchitusa some orders.
+	Pass? Shoot? Forfeit? Argh! Just make a run for it!
+Something must have startled Beelzebub. He has entered the field and is making a scene.
+	Stop right there, pig!
+You come across an opponent player limping, because of getting injured during a match against your team. Elchitusa seems to be worried.
+	Let's just go. That player will also feel uncomfortable if we keep standing here.
+Elchitusa came back without a penny after marching into the Casino.
+	What happened to you? Do you want me to lend you some money?
+James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.
+	...It's about to go down...! Where's the popcorn?
+Elchitusa is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
+	Who could've done such a hideous thing?
+Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Elchitusa seems to be sick of this.
+	Okay! Now I'll tell you all the good stuff about Elchitusa!
+Elchitusa looks startled after learning the underworld actually exists.
+	How about we ask Jeunese?
+The team is in a slump and you take the team out for refreshment. Talk with Elchitusa to set some simple rules.
+	Come on, I'll show you the best spots around!
+
 Elicia
 The team made it up to the semi-finals after counting the goal differences. Elicia asks how you feel. How should we answer?
 	What, are you expecting something like ''I feel like I can fly'' or something?
