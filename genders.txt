@@ -2028,3 +2028,7 @@ Loyce
 Female
 Elchitusa
 Female
+Fenrir
+Male
+Grandeur
+Female

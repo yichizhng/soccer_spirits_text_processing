@@ -199,7 +199,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Aiolos seems to be s
 A big fight broke out between an angel and a demon within the team. Aiolos is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Aiolos's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Aiolos is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Aiolos is thinking about what the Universe of Oblivion is.
@@ -593,7 +593,7 @@ Altair isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Altair for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Altair and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -1485,7 +1485,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Asakura seems to be 
 A big fight broke out between an angel and a demon within the team. Asakura is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Asakura's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Asakura is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Asakura is thinking about what the Universe of Oblivion is.
@@ -1547,7 +1547,7 @@ Askeladd isn't pleased with the team's recent plays. She feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Askeladd for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Askeladd and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -1795,7 +1795,7 @@ Avnore isn't pleased with the team's recent plays. He feels that the plays have 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Avnore for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Avnore and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -1961,7 +1961,7 @@ Baltheon isn't pleased with the team's recent plays. He feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Baltheon for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Baltheon and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -2251,7 +2251,7 @@ Beast King isn't pleased with the team's recent plays. He feels that the plays h
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Beast King for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Beast King and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -2334,7 +2334,7 @@ Beatrice isn't pleased with the team's recent plays. She feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Beatrice for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Beatrice and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -2417,7 +2417,7 @@ Bell isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Bell for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Bell and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -2582,7 +2582,7 @@ Beta isn't pleased with the team's recent plays. She feels that the plays have b
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Beta for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Beta and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -2914,7 +2914,7 @@ Black Tortoise isn't pleased with the team's recent plays. She feels that the pl
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Black Tortoise for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Black Tortoise and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -3142,7 +3142,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue Dragon seems to
 A big fight broke out between an angel and a demon within the team. Blue Dragon is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Blue Dragon's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Blue Dragon is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue Dragon is thinking about what the Universe of Oblivion is.
@@ -3225,7 +3225,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue King seems to b
 A big fight broke out between an angel and a demon within the team. Blue King is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Blue King's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Blue King is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue King is thinking about what the Universe of Oblivion is.
@@ -4324,7 +4324,7 @@ Chrono isn't pleased with the team's recent plays. He feels that the plays have 
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Chrono for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Chrono and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -4407,7 +4407,7 @@ Ciel isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Ciel for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Ciel and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -4614,7 +4614,7 @@ Constance isn't pleased with the team's recent plays. She feels that the plays h
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Constance for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Constance and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -4656,7 +4656,7 @@ Cow Demon Queen isn't pleased with the team's recent plays. She feels that the p
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Cow Demon Queen for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Cow Demon Queen and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -4801,7 +4801,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Crocell seems to be 
 A big fight broke out between an angel and a demon within the team. Crocell is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Crocell's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Crocell is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Crocell is thinking about what the Universe of Oblivion is.
@@ -5154,7 +5154,7 @@ Damien isn't pleased with the team's recent plays. He feels that the plays have 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Damien for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Damien and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -5693,7 +5693,7 @@ Durahan isn't pleased with the team's recent plays. He feels that the plays have
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Durahan for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Durahan and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -5797,7 +5797,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Duran seems to be su
 A big fight broke out between an angel and a demon within the team. Duran is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Duran's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Duran is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Duran is thinking about what the Universe of Oblivion is.
@@ -7021,7 +7021,7 @@ Estella isn't pleased with the team's recent plays. She feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Estella for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Estella and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -7214,6 +7214,89 @@ You enter the lodging feeling lonely on your birthday. The team greets you with 
 Felix says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
 	I think she likes him.
 
+Fenrir
+Still looking pretty heated up by the match, Fenrir is asking how he did in the match.
+	You bring the best out of the team. Good work!
+Fenrir looks excited as he's talking with the team about pets. He turns around and asks you what kind of pet you like.
+	I think that a baby duck following its mother is one of the most adorable things to watch.
+You come across Fenrir thinking about the value of soccer. What should we tell him?
+	The field is a ground of hopes and dreams. Isn't that enough?
+Fenrir is having trouble focusing on the match because of the affectionate emotion he feels. He says he must leave now to propose to his lover. What should we say?
+	Think about your teammates that are counting on you.
+Fenrir blushes up and tells you that he's happy he can play soccer with you. What should we tell him?
+	Me too. You're a good leader.
+Fenrir is asking for special training sessions because he's not satisfied with today's performance. What should we tell him?
+	If that's your wish.
+Fenrir did his best, but he failed to achieve the results he wanted and looks sad. We should say something to him.
+	It's experiences like this that bonds us together.
+Fenrir is asking you about what you like besides soccer.
+	I like board games about war. I admire famous commanders.
+Fenrir feels his heart races when he sees Littre.
+	...Do you want a Superb Power-up?
+Kuma is caught sneaking in the woman's locker room once again. We should talk with Fenrir about what to do with him.
+	I'm not sure if it's safe, but we can use him for leveling up.
+Fenrir continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Make a strategic decision.)
+Fenrir is being annoying with his offensive words. What should we do?
+	(Kick him out of the team if things can't be handled.)
+It's dinner time and Fenrir is staring at his carrot soup with a troubled look. What should we do?
+	(Tell him that carrots are good for the body and to eat it all.)
+It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Fenrir to do?
+	They all need scolding.
+Fenrir says that the soup tastes funny. What should we do?
+	Let's stay away from the soup, just in case.
+Fenrir is furious about the referee that's clearly favoring the other team. Should we stop him?
+	Ignore the referee. Focus on the match.
+It suddenly began to rain heavily. You see Fenrir running up ahead.
+	(Catch up and share your umbrella.)
+You witnessed a player on the other side putting a tack in Fenrir's shoe.
+	(Remove the tack and tell the manager on the other team.)
+During the team meeting, you find a player sleeping. What should you do?
+	(Wake the player up and continue with the meeting.)
+Fenrir hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
+	Don't push yourself too hard. There are a lot of matches left.
+
+Fenrir is asking you what you think is it that makes this team great. You weren't expecting this, but you should give him an answer.
+	Well, you're looking at the one person that is making this team great.
+Fenrir is angry because he was criticized by his performance and is asking your opinion. Let's give him an answer.
+	I'm sure the lesson here is that all of us need to learn.
+Fenrir, who has shown absolutely superb chemistry with you, is embarrassed and says he didn't do all of that because of you. What should we say?
+	Stop being embarrassed and just accept the compliments, will you?
+Fenrir wants to have an academic conversation about the 5th dimension, string theory, and other infamously hard space theories. Why...?
+	(There must be a reason why he started this conversation.)
+Fenrir looks disappointed about the size of the Galaxy League. What would be an appropriate response?
+	Isn't it awesome to see the galaxy come together for soccer?
+Fenrir seems to be uncomfortable to hear about the love life of other teammates. Let's talk to him.
+	It's all good as long as it doesn't affect the match.
+Fenrir is talking about how famous his rivals are in the Galaxy League. He seems jealous. Let's talk to him.
+	Good rivalry brings both sides to higher levels.
+Fenrir is furious about how Lucian is always surrounded by girls. What should we say?
+	He's good looking and has a good personality. Maybe that's why.
+Kirin suddenly appears, pats Fenrir on the head while teasing him, and then goes away. Fenrir seems angry...
+	He's like the wind. There wasn't even time to chat.
+The team is at Metro City. Fenrir seems to be surprised how the people of Metro City have mechanical bodies.
+	I like how even the minority can be saved in this society.
+Kuma is furiously chasing Ogre. Fenrir seems confused.
+	Looks like Ogre is goofing around. I mean the guy has like over 200 pounds over Kuma.
+Fenrir is spreading the happy news about his cousin having a baby. Let's congratulate him.
+	Congratulations!
+The team seems very nervous facing Skalardra. What should we do?
+	Political power means nothing on the field.
+Fenrir refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to him.
+	That's not like you...
+Fenrir is interested in Selena and is asking for your opinion. What should we say?
+	She's kind and sweet. Maybe you'll have a shot?
+Fenrir seems to be interested in the Micrinum from Kiri, which is said to be good for beauty and anti-aging. Let's talk to him.
+	Looks aren't important when it comes to soccer.
+Fenrir seems to be determined to crush the opposing team. Let's give him some advice.
+	I like how you're doing your best.
+Fenrir looks sad because he feels his friendship with a friend in a rival team is falling apart. What should we say to him?
+	It's not your fault. Let's try to find out why this is happening.
+It's a tough match, but Fenrir is standing tall and encouraging the team. What should we say to him?
+	You're a good person.
+A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Fenrir about what to do.
+	Let's be prepared to take care of her in case her sickness gets worse.
+
 Fizz
 Fizz is worried about the team's poor performance. Let's go talk to him.
 	Everybody is not at 100%. But, I think we'll do better sooner or later.
@@ -7312,7 +7395,7 @@ Fontus isn't pleased with the team's recent plays. He feels that the plays have 
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Fontus for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Fontus and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -7457,7 +7540,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Fredrica seems to be
 A big fight broke out between an angel and a demon within the team. Fredrica is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Fredrica's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Fredrica is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Fredrica is thinking about what the Universe of Oblivion is.
@@ -8126,6 +8209,89 @@ It seems that Grace is wondering what to do after a teammate proposed to her. It
 Grace is teasing her opponent that is having a hard time chasing her. What should we do?
 	Well, that player is kind of cute...
 
+Grandeur
+You find Grandeur depressed for not playing well during the match. Let's cheer her up.
+	You did well and I thank you for that.
+Grandeur is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+You come across Grandeur being lost and wandering around while going back to the lodging. Let's talk to her.
+	Are you feeling alright?
+Grandeur is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	I was always looking forward for that moment.
+Grandeur is having trouble with continuing nightmares. Let's talk to her.
+	It's just a dream. Forget about it.
+Grandeur is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+Grandeur seems to be satisfied with the perfect team work. Let's talk to her.
+	I'm starting to see true strength in this team.
+You come across Grandeur who is limping. She says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+You visit Marilyn's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+You're watching the storm with Grandeur and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+Grandeur looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+Grandeur's opponent is smiling whenever they confront each other on the field. Grandeur seems to be nervous. Let's talk to her.
+	That player is just messing with you.
+Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Grandeur.
+	Maybe he got embarrassed for being obsessed with his past?
+The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+The game ended as a tie, but it seems that the competition between Grandeur and her opponent isn't over yet.
+	You better win that fight!
+The team will be cleaning up the lodging. What will you have Grandeur do?
+	(Let her take some of the team members and allow them to clean freely.)
+The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+A player on the other team says soccer became enjoyable after confronting Grandeur. What should you say?
+	Well, Grandeur does have that kind of charm.
+Grandeur is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+Latios is chatting with Grandeur after the match. Let's barge in.
+	I'm looking forward to our next match!
+
+Grandeur says she's the center of the team and asks if you agree with her. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+Grandeur asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I'm going to make a joke before I start crying!
+Grandeur is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+Grandeur looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Do you think any of those comets are populated?
+Grandeur says she's having trouble dealing with the young players. Let's give her an answer.
+	Teach them how adults play soccer.
+Grandeur wants to know what the Swirlies really are. Give her an answer.
+	Beginner level monsters in an RPG game.
+Grandeur is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	That's deep. I think it's cool.
+Grandeur says she was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+Grandeur says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+Grandeur seems to get along with the opponent player. What should we tell her?
+	Don't forget that we exist! Haha!
+Grandeur is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+Grandeur says she's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+Kei and Virgil are fighting again and Grandeur seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+Grandeur is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+Grandeur went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of her when she comes back.
+Grandeur claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+Grandeur seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+Grandeur says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Grandeur hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+Grandeur says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	Maybe she's up to something.
+
 Griffith
 Griffith is worried about the team's poor performance. Let's go talk to her.
 	Everybody is not at 100%. But, I think we'll do better sooner or later.
@@ -8348,7 +8514,7 @@ Hamerus isn't pleased with the team's recent plays. She feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Hamerus for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Hamerus and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -8556,7 +8722,7 @@ Helena isn't pleased with the team's recent plays. She feels that the plays have
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Helena for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Helena and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -8680,7 +8846,7 @@ Hercules isn't pleased with the team's recent plays. He feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Hercules for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Hercules and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -8805,7 +8971,7 @@ Hildegard isn't pleased with the team's recent plays. She feels that the plays h
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Hildegard for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Hildegard and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -9469,7 +9635,7 @@ Igrit isn't pleased with the team's recent plays. She feels that the plays have 
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Igrit for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Igrit and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -9718,7 +9884,7 @@ Irre isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Irre for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Irre and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -9884,7 +10050,7 @@ Isillia isn't pleased with the team's recent plays. She feels that the plays hav
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Isillia for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Isillia and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -10506,7 +10672,7 @@ Jayce isn't pleased with the team's recent plays. He feels that the plays have b
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Jayce for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Jayce and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -11501,7 +11667,7 @@ Juno isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Juno for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Juno and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -11791,7 +11957,7 @@ Kai isn't pleased with the team's recent plays. He feels that the plays have bec
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Kai for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Kai and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -12912,7 +13078,7 @@ Kyosuke isn't pleased with the team's recent plays. He feels that the plays have
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Kyosuke for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Kyosuke and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -13078,7 +13244,7 @@ Labella isn't pleased with the team's recent plays. She feels that the plays hav
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Labella for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Labella and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -13161,7 +13327,7 @@ Latios isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Latios for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Latios and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -15028,7 +15194,7 @@ Luna isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Luna for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Luna and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -15056,87 +15222,87 @@ The match started and Luna is standing still doing nothing.
 	Looks like we'll have to do without her.
 
 Luri
-Luri is looking excited and asks how the match went.
-	They were a worthy opponent.
-This was the worst game in your entire life...Luri comes to you to cheer you up.
-	Thanks. You always know how to get me back on my feet.
-You're talking to Luri about what you would do if the world ends tomorrow. Let's tell her your answer.
-	I would say goodbye to all my friends.
-Luri is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.
-	I'm sure everybody is feeling the same way you feel.
-Luri is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give her some advice.
-	Let's make that our goal and make it happen.
-Luri isn't pleased with the team's recent plays. She feels that the plays have become somewhat repetitive and dull.
-	Let's all talk together and figure out what the problem is.
-With back to back matches, the team is exhausted. Let's talk to Luri for solutions.
-	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
-	Let's ask for help to the League officials on this planet.
-You were taking a walk in the Nadir forest with Luri and came across Enthia standing in the middle of a burnt part of the forest. 
-	Let's give her some space.
-Nari is dancing and singing a song about the galaxy.
-	This proves that even the aliens like Nari.
-According to Luri's words, Tyler went to school 1 year earlier than William.
-	I thought they were just friends.
-Luri thinks she knows who Lynbell's brother is. What should we do?
-	First, let's look for a way to bring him back to normal. 
-Luri won a trip around the world from a radio event!
-	Hmm, come back to me with a vacation plan.
-Luri suggests that we visit the Celestial Castle, which is a place that the baby angels live.
-	That would be wonderful! I'll go ask for permission.
-The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
-	Let's see what you have to say after the match.
-You're sick and in bed when Luri and the teammates come to cheer you up. What will your response be?
-	I'm sorry...I should be giving you guys some tea or something, but...
-The match and the concert that Luri was looking for start at the same time...
-	I'm sorry that you couldn't go.
-Luri wonders why Castor twitches whenever he sees Beatrice.
-	Long ago, he was disgraceful towards a dragon emissary.
-MX54 Butcher is closing in on a cat with a suspicious smile.
-	Excuse me, but do you have an appointment with that cat?
-The match started and Luri is standing still doing nothing.
-	Looks like we'll have to do without her.
+Luri says she's the center of the team and asks if you agree with her. How should we answer?
+	Of course! Everybody is counting on you!
+Luri asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I want to see everybody smile. I think that'll make me happy.
+Luri is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	I'd like to keep one as a pet.
+Luri looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Where do you think those comets are going?
+Luri says she's having trouble dealing with the young players. Let's give her an answer.
+	Yeah, I mean they could get hurt.
+Luri wants to know what the Swirlies really are. Give her an answer.
+	I'm planning to make a whole line of merchandise with them as the character.
+Luri is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	Life is a light of its own.
+Luri says she was cornered by the team which was devastated by the loss streak.
+	Just hear them out and smile. They'll feel better.
+Luri says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	I sense that there's something she hasn't told us yet...
+Luri seems to get along with the opponent player. What should we tell her?
+	Congratulations! How did you guys get along?
+Luri is deeply focused on Jill's diet story. What should we do?
+	You're playing soccer! You're fine!
+Luri says she's going to meet up with Kiki and asks if you have any questions.
+	Tell her to be our lap cat.
+Kei and Virgil are fighting again and Luri seems to be troubled. What should we do?
+	If you guys keep giving Luri trouble, I swear to god I'll use you both as special training material.
+Luri is having a delightful chat with a girl that's holding a turtle. 
+	She seems like a nice girl.
+Luri went to take a look at the opponent team and got caught. What should we do?
+	Luri is in danger! We have to save her!
+Luri claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	She must've made a mistake.
+Luri seems very nervous to confront Kei of the Rescuer.
+	We can do this! Let's go!
+Luri says that the captain of team Scout Entry seems to take good care of the team members.
+	Yeah, they get along pretty well.
+You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Luri hands you a present.
+	(A cute and pretty pendant)
+Luri says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	I think she likes him.
 
-You find Luri depressed for not playing well during the match. Let's cheer her up.
-	You did well and I thank you for that.
-Luri is questioning your promise to make the best team ever. It's time to redeem yourself.
-	That's why I need your help.
-You come across Luri being lost and wandering around while going back to the lodging. Let's talk to her.
-	Are you feeling alright?
-Luri is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
-	I was always looking forward for that moment.
-Luri is having trouble with continuing nightmares. Let's talk to her.
-	It's just a dream. Forget about it.
-Luri is stressed out saying her opponent has the upper ground on every aspect. What should we do?
-	You can overcome this like always. Right?
-Luri seems to be satisfied with the perfect team work. Let's talk to her.
-	I'm starting to see true strength in this team.
-You come across Luri who is limping. She says it's nothing. What should we do?
-	Don't push yourself too hard. Get off the field if you don't think you can continue.
-You visit Marilyn's house and see Hildegard eating ramen.
-	Can't you cook ramen by yourself?
-You're watching the storm with Luri and you spot Princess Meiran taking a walk while humming.
-	What's wrong with her?
-Luri looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
-	Littre will be fine.
-Luri's opponent is smiling whenever they confront each other on the field. Luri seems to be nervous. Let's talk to her.
-	That player is just messing with you.
-Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Luri.
-	Maybe he got embarrassed for being obsessed with his past?
-The members of Siena Celtron are furiously searching the stadium for Kuma.
-	Let's give them a hand.
-The game ended as a tie, but it seems that the competition between Luri and her opponent isn't over yet.
-	You better win that fight!
-The team will be cleaning up the lodging. What will you have Luri do?
-	(Let her take some of the team members and allow them to clean freely.)
-The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
-	They will never learn with an attitude like that.
-A player on the other team says soccer became enjoyable after confronting Luri. What should you say?
-	Well, Luri does have that kind of charm.
-Luri is angry about the opponent's resilient attack on you. What should we say?
-	Can you peel this guy off of me?
-Latios is chatting with Luri after the match. Let's barge in.
-	I'm looking forward to our next match!
+Luri is asking you what you think is it that makes this team great. You weren't expecting this, but you should give her an answer.
+	Well, you're looking at the one person that is making this team great.
+Luri is angry because she was criticized by her performance and is asking your opinion. Let's give her an answer.
+	I'm sure the lesson here is that all of us need to learn.
+Luri, who has shown absolutely superb chemistry with you, is embarrassed and says she didn't do all of that because of you. What should we say?
+	Stop being embarrassed and just accept the compliments, will you?
+Luri wants to have an academic conversation about the 5th dimension, string theory, and other infamously hard space theories. Why...?
+	(There must be a reason why she started this conversation.)
+Luri looks disappointed about the size of the Galaxy League. What would be an appropriate response?
+	Isn't it awesome to see the galaxy come together for soccer?
+Luri seems to be uncomfortable to hear about the love life of other teammates. Let's talk to her.
+	It's all good as long as it doesn't affect the match.
+Luri is talking about how famous her rivals are in the Galaxy League. She seems jealous. Let's talk to her.
+	Good rivalry brings both sides to higher levels.
+Luri is furious about how Lucian is always surrounded by girls. What should we say?
+	He's good looking and has a good personality. Maybe that's why.
+Kirin suddenly appears, pats Luri on the head while teasing her, and then goes away. Luri seems angry...
+	He's like the wind. There wasn't even time to chat.
+The team is at Metro City. Luri seems to be surprised how the people of Metro City have mechanical bodies.
+	I like how even the minority can be saved in this society.
+Kuma is furiously chasing Ogre. Luri seems confused.
+	Looks like Ogre is goofing around. I mean the guy has like over 200 pounds over Kuma.
+Luri is spreading the happy news about her cousin having a baby. Let's congratulate her.
+	Congratulations!
+The team seems very nervous facing Skalardra. What should we do?
+	Political power means nothing on the field.
+Luri refuses to listen to anybody's advice saying he's the best and he doesn't need any advice. Let's talk to her.
+	That's not like you...
+Luri is interested in Selena and is asking for your opinion. What should we say?
+	She's kind and sweet. Maybe you'll have a shot?
+Luri seems to be interested in the Micrinum from Kiri, which is said to be good for beauty and anti-aging. Let's talk to her.
+	Looks aren't important when it comes to soccer.
+Luri seems to be determined to crush the opposing team. Let's give her some advice.
+	I like how you're doing your best.
+Luri looks sad because she feels her friendship with a friend in a rival team is falling apart. What should we say to her?
+	It's not your fault. Let's try to find out why this is happening.
+It's a tough match, but Luri is standing tall and encouraging the team. What should we say to her?
+	You're a good person.
+A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Luri about what to do.
+	Let's be prepared to take care of her in case her sickness gets worse.
 
 Lynbell
 Lynbell is worried about the team's poor performance. Let's go talk to her.
@@ -15464,7 +15630,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Magnus seems to be s
 A big fight broke out between an angel and a demon within the team. Magnus is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Magnus's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Magnus is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Magnus is thinking about what the Universe of Oblivion is.
@@ -15712,7 +15878,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Marianne seems to be
 A big fight broke out between an angel and a demon within the team. Marianne is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Marianne's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Marianne is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Marianne is thinking about what the Universe of Oblivion is.
@@ -16478,7 +16644,7 @@ Mider isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Mider for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Mider and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -16603,7 +16769,7 @@ Mika isn't pleased with the team's recent plays. She feels that the plays have b
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Mika for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Mika and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -17225,7 +17391,7 @@ Mireille isn't pleased with the team's recent plays. She feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Mireille for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Mireille and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -17536,7 +17702,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Moritz seems to be s
 A big fight broke out between an angel and a demon within the team. Moritz is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Moritz's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Moritz is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Moritz is thinking about what the Universe of Oblivion is.
@@ -18096,7 +18262,7 @@ Nari isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Nari for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Nari and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -18283,7 +18449,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Neraizel seems to be
 A big fight broke out between an angel and a demon within the team. Neraizel is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Neraizel's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Neraizel is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Neraizel is thinking about what the Universe of Oblivion is.
@@ -18345,7 +18511,7 @@ Nerua isn't pleased with the team's recent plays. She feels that the plays have 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Nerua for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Nerua and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -18511,7 +18677,7 @@ Nevantos isn't pleased with the team's recent plays. He feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Nevantos for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Nevantos and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -18553,7 +18719,7 @@ Nia isn't pleased with the team's recent plays. She feels that the plays have be
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Nia for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Nia and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -19050,7 +19216,7 @@ Ogre isn't pleased with the team's recent plays. He feels that the plays have be
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Ogre for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Ogre and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -19092,7 +19258,7 @@ Orses isn't pleased with the team's recent plays. She feels that the plays have 
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Orses for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Orses and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -19258,7 +19424,7 @@ Patricia isn't pleased with the team's recent plays. She feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Patricia for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Patricia and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -19631,7 +19797,7 @@ Pinol isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Pinol for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Pinol and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -19797,7 +19963,7 @@ Princess Meiran isn't pleased with the team's recent plays. She feels that the p
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Princess Meiran for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Princess Meiran and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -19922,7 +20088,7 @@ Raklet isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Raklet for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Raklet and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -20088,7 +20254,7 @@ Ramia isn't pleased with the team's recent plays. She feels that the plays have 
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Ramia for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Ramia and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -20233,7 +20399,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Rammi seems to be su
 A big fight broke out between an angel and a demon within the team. Rammi is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Rammi's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Rammi is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Rammi is thinking about what the Universe of Oblivion is.
@@ -20586,7 +20752,7 @@ Ray isn't pleased with the team's recent plays. He feels that the plays have bec
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Ray for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Ray and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -20918,7 +21084,7 @@ Rigoletto isn't pleased with the team's recent plays. He feels that the plays ha
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Rigoletto for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Rigoletto and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -21042,7 +21208,7 @@ Ripa isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Ripa for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Ripa and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -21208,7 +21374,7 @@ Robin isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Robin for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Robin and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -21374,7 +21540,7 @@ Ronald isn't pleased with the team's recent plays. He feels that the plays have 
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Ronald for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Ronald and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -21623,7 +21789,7 @@ Rudiel isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Rudiel for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Rudiel and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -21872,7 +22038,7 @@ Ryle isn't pleased with the team's recent plays. He feels that the plays have be
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Ryle for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Ryle and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -21914,7 +22080,7 @@ Ryu isn't pleased with the team's recent plays. He feels that the plays have bec
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Ryu for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Ryu and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -22266,7 +22432,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Sammy seems to be su
 A big fight broke out between an angel and a demon within the team. Sammy is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Sammy's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Sammy is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Sammy is thinking about what the Universe of Oblivion is.
@@ -22536,7 +22702,7 @@ Savnok isn't pleased with the team's recent plays. He feels that the plays have 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Savnok for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Savnok and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -22743,7 +22909,7 @@ Scott isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Scott for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Scott and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -22992,7 +23158,7 @@ Sena isn't pleased with the team's recent plays. She feels that the plays have b
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Sena for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Sena and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -23905,7 +24071,7 @@ Skada isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Skada for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Skada and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -24030,7 +24196,7 @@ Sky isn't pleased with the team's recent plays. She feels that the plays have be
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Sky for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Sky and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -24756,7 +24922,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Swimsuit Qiyou seems
 A big fight broke out between an angel and a demon within the team. Swimsuit Qiyou is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Swimsuit Qiyou's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Swimsuit Qiyou is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Swimsuit Qiyou is thinking about what the Universe of Oblivion is.
@@ -24818,7 +24984,7 @@ Tarsilla isn't pleased with the team's recent plays. She feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Tarsilla for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Tarsilla and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -24984,7 +25150,7 @@ Tersia isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Tersia for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Tersia and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -25067,7 +25233,7 @@ Thor isn't pleased with the team's recent plays. She feels that the plays have b
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Thor for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Thor and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -25109,7 +25275,7 @@ Tiffany isn't pleased with the team's recent plays. She feels that the plays hav
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Tiffany for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Tiffany and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -25731,7 +25897,7 @@ Upiel isn't pleased with the team's recent plays. She feels that the plays have 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Upiel for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Upiel and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -26105,7 +26271,7 @@ Valkia isn't pleased with the team's recent plays. She feels that the plays have
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Valkia for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Valkia and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -26997,7 +27163,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Vivid Fear seems to 
 A big fight broke out between an angel and a demon within the team. Vivid Fear is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Vivid Fear's personal information and reveal it to the world. What should we do?
-	[+1] Don't fall for this cheap shot.
+	I contacted Hildegard.
 Vivid Fear is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Vivid Fear is thinking about what the Universe of Oblivion is.
@@ -27225,7 +27391,7 @@ White Guardenia isn't pleased with the team's recent plays. She feels that the p
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to White Guardenia for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with White Guardenia and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -27308,7 +27474,7 @@ White Snow isn't pleased with the team's recent plays. She feels that the plays 
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to White Snow for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with White Snow and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
@@ -27598,7 +27764,7 @@ Wizol isn't pleased with the team's recent plays. He feels that the plays have b
 	Let's invest some Crystals and get new players!
 With back to back matches, the team is exhausted. Let's talk to Wizol for solutions.
 	How about we put that advanced technology of Metro City to use?
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We could start a reset marathon.
 You were taking a walk in the Nadir forest with Wizol and came across Enthia standing in the middle of a burnt part of the forest. 
 	I could really use some grilled sweet potatoes and chestnuts.
@@ -27847,7 +28013,7 @@ Xiao Long isn't pleased with the team's recent plays. He feels that the plays ha
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Xiao Long for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Xiao Long and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -28054,7 +28220,7 @@ Yeon isn't pleased with the team's recent plays. She feels that the plays have b
 	We may have to go rough on the team and make them realize the problem.
 With back to back matches, the team is exhausted. Let's talk to Yeon for solutions.
 	We won't be able to win the league if we fail to overcome this. 
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	We're going to hunt that manager down and take back our money. We will show no mercy!
 You were taking a walk in the Nadir forest with Yeon and came across Enthia standing in the middle of a burnt part of the forest. 
 	There's no time for tears! Find out who did this and bring justice!
@@ -28552,7 +28718,7 @@ Zhen Long isn't pleased with the team's recent plays. He feels that the plays ha
 	Let's all talk together and figure out what the problem is.
 With back to back matches, the team is exhausted. Let's talk to Zhen Long for solutions.
 	I guess it's time the benchwarmers get a chance.
-The team manger ran away with all of the team's money. What should we do?
+The team manager ran away with all of the team's money. What should we do?
 	Let's ask for help to the League officials on this planet.
 You were taking a walk in the Nadir forest with Zhen Long and came across Enthia standing in the middle of a burnt part of the forest. 
 	Let's give her some space.
