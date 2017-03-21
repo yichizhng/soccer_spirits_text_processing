@@ -198,8 +198,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Aiolos seems to be s
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Aiolos is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Aiolos's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Aiolos's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Aiolos is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Aiolos is thinking about what the Universe of Oblivion is.
@@ -1484,8 +1484,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Asakura seems to be 
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Asakura is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Asakura's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Asakura's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Asakura is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Asakura is thinking about what the Universe of Oblivion is.
@@ -1691,7 +1691,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Aslan seems to be su
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Aslan is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Aslan's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Aslan's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Aslan is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -3141,8 +3141,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue Dragon seems to
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Blue Dragon is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Blue Dragon's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Blue Dragon's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Blue Dragon is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue Dragon is thinking about what the Universe of Oblivion is.
@@ -3225,7 +3225,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Blue King seems to b
 A big fight broke out between an angel and a demon within the team. Blue King is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Blue King's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Blue King is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Blue King is thinking about what the Universe of Oblivion is.
@@ -4801,7 +4801,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Crocell seems to be 
 A big fight broke out between an angel and a demon within the team. Crocell is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Crocell's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Crocell is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Crocell is thinking about what the Universe of Oblivion is.
@@ -5797,7 +5797,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Duran seems to be su
 A big fight broke out between an angel and a demon within the team. Duran is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Duran's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Duran is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Duran is thinking about what the Universe of Oblivion is.
@@ -7539,8 +7539,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Fredrica seems to be
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Fredrica is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Fredrica's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Fredrica's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Fredrica is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Fredrica is thinking about what the Universe of Oblivion is.
@@ -10111,7 +10111,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Isillia seems to be 
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Isillia is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Isillia's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Isillia's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Isillia is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -11190,7 +11190,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Jibril seems to be s
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Jibril is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Jibril's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Jibril's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Jibril is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -13388,7 +13388,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Latios seems to be s
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Latios is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Latios's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Latios's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Latios is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -15630,7 +15630,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Magnus seems to be s
 A big fight broke out between an angel and a demon within the team. Magnus is asking for help.
 	I'm going to pick sides of the one I like.
 Cracsus threatens to hack Magnus's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1] Don't fall for this cheap shot.
 Magnus is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Magnus is thinking about what the Universe of Oblivion is.
@@ -15877,8 +15877,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Marianne seems to be
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Marianne is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Marianne's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Marianne's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Marianne is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Marianne is thinking about what the Universe of Oblivion is.
@@ -16498,7 +16498,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Metatron seems to be
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Metatron is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Metatron's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Metatron's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Metatron is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -16540,7 +16540,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Micki seems to be su
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Micki is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Micki's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Micki's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Micki is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -17618,7 +17618,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Morgana seems to be 
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Morgana is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Morgana's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Morgana's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Morgana is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -17701,8 +17701,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Moritz seems to be s
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Moritz is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Moritz's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Moritz's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Moritz is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Moritz is thinking about what the Universe of Oblivion is.
@@ -18448,8 +18448,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Neraizel seems to be
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Neraizel is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Neraizel's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Neraizel's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Neraizel is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Neraizel is thinking about what the Universe of Oblivion is.
@@ -20398,8 +20398,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Rammi seems to be su
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Rammi is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Rammi's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Rammi's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Rammi is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Rammi is thinking about what the Universe of Oblivion is.
@@ -20446,6 +20446,47 @@ Rasia is angry about the opponent's resilient attack on you. What should we say?
 	Don't come over here! It's dangerous!
 Latios is chatting with Rasia after the match. Let's barge in.
 	Don't you think about sneaking her out. She's our pretty girl.
+
+Rasia says she's the center of the team and asks if you agree with her. How should we answer?
+	Of course! Everybody is counting on you!
+Rasia asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I want to see everybody smile. I think that'll make me happy.
+Rasia is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	I'd like to keep one as a pet.
+Rasia looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Where do you think those comets are going?
+Rasia says she's having trouble dealing with the young players. Let's give her an answer.
+	Yeah, I mean they could get hurt.
+Rasia wants to know what the Swirlies really are. Give her an answer.
+	I'm planning to make a whole line of merchandise with them as the character.
+Rasia is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	Life is a light of its own.
+Rasia says she was cornered by the team which was devastated by the loss streak.
+	Just hear them out and smile. They'll feel better.
+Rasia says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	I sense that there's something she hasn't told us yet...
+Rasia seems to get along with the opponent player. What should we tell her?
+	Congratulations! How did you guys get along?
+Rasia is deeply focused on Jill's diet story. What should we do?
+	You're playing soccer! You're fine!
+Rasia says she's going to meet up with Kiki and asks if you have any questions.
+	Tell her to be our lap cat.
+Kei and Virgil are fighting again and Rasia seems to be troubled. What should we do?
+	If you guys keep giving Rasia trouble, I swear to god I'll use you both as special training material.
+Rasia is having a delightful chat with a girl that's holding a turtle. 
+	She seems like a nice girl.
+Rasia went to take a look at the opponent team and got caught. What should we do?
+	Rasia is in danger! We have to save her!
+Rasia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	She must've made a mistake.
+Rasia seems very nervous to confront Kei of the Rescuer.
+	We can do this! Let's go!
+Rasia says that the captain of team Scout Entry seems to take good care of the team members.
+	Yeah, they get along pretty well.
+You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Rasia hands you a present.
+	(A cute and pretty pendant)
+Rasia says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	I think she likes him.
 
 Rasiel
 Rasiel is asking about the team's goal of this season. What should you tell her?
@@ -22431,8 +22472,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Sammy seems to be su
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Sammy is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Sammy's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Sammy's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Sammy is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Sammy is thinking about what the Universe of Oblivion is.
@@ -24921,8 +24962,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Swimsuit Qiyou seems
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Swimsuit Qiyou is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Swimsuit Qiyou's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Swimsuit Qiyou's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Swimsuit Qiyou is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Swimsuit Qiyou is thinking about what the Universe of Oblivion is.
@@ -26415,7 +26456,7 @@ Mortor and Wizol of the Peacemakers are helping an old man. Valkyrja Beth seems 
 	Well, what do you know! They have some decency in them after all.
 A big fight broke out between an angel and a demon within the team. Valkyrja Beth is asking for help.
 	I hope the demon didn't say anything stupid.
-Cracsus threatens to hack Valkyrja Beth's personal information and reveal it to the world. What should we do?
+Cracsus threatens to hack Valkyrja Beth's personal inf]ormation and reveal it to the world. What should we do?
 	Don't fall for this cheap shot.
 Valkyrja Beth is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	Then we should do our very best to win.
@@ -27162,8 +27203,8 @@ Mortor and Wizol of the Peacemakers are helping an old man. Vivid Fear seems to 
 	It's good to know that they're not shallow people.
 A big fight broke out between an angel and a demon within the team. Vivid Fear is asking for help.
 	I'm going to pick sides of the one I like.
-Cracsus threatens to hack Vivid Fear's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+Cracsus threatens to hack Vivid Fear's personal inf]ormation and reveal it to the world. What should we do?
+	[+1] Don't fall for this cheap shot.
 Vivid Fear is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 Vivid Fear is thinking about what the Universe of Oblivion is.
