@@ -2032,3 +2032,5 @@ Fenrir
 Male
 Grandeur
 Female
+Chundo
+Male
