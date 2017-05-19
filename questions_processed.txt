@@ -197,7 +197,7 @@
 [Aiolos]A big fight broke out between an angel and a demon within the team. Aiolos is asking for help.
 	I'm going to pick sides of the one I like.
 [Aiolos]Cracsus threatens to hack Aiolos's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Aiolos]Aiolos is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Aiolos]Aiolos is thinking about what the Universe of Oblivion is.
@@ -1468,7 +1468,7 @@
 [Asakura]A big fight broke out between an angel and a demon within the team. Asakura is asking for help.
 	I'm going to pick sides of the one I like.
 [Asakura]Cracsus threatens to hack Asakura's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Asakura]Asakura is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Asakura]Asakura is thinking about what the Universe of Oblivion is.
@@ -3190,7 +3190,7 @@
 [Blue Dragon]A big fight broke out between an angel and a demon within the team. Blue Dragon is asking for help.
 	I'm going to pick sides of the one I like.
 [Blue Dragon]Cracsus threatens to hack Blue Dragon's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Blue Dragon]Blue Dragon is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Blue Dragon]Blue Dragon is thinking about what the Universe of Oblivion is.
@@ -3272,7 +3272,7 @@
 [Blue King]A big fight broke out between an angel and a demon within the team. Blue King is asking for help.
 	I'm going to pick sides of the one I like.
 [Blue King]Cracsus threatens to hack Blue King's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Blue King]Blue King is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Blue King]Blue King is thinking about what the Universe of Oblivion is.
@@ -4912,7 +4912,7 @@
 [Crocell]A big fight broke out between an angel and a demon within the team. Crocell is asking for help.
 	I'm going to pick sides of the one I like.
 [Crocell]Cracsus threatens to hack Crocell's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Crocell]Crocell is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Crocell]Crocell is thinking about what the Universe of Oblivion is.
@@ -5896,7 +5896,7 @@
 [Duran]A big fight broke out between an angel and a demon within the team. Duran is asking for help.
 	I'm going to pick sides of the one I like.
 [Duran]Cracsus threatens to hack Duran's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Duran]Duran is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Duran]Duran is thinking about what the Universe of Oblivion is.
@@ -7618,7 +7618,7 @@
 [Fredrica]A big fight broke out between an angel and a demon within the team. Fredrica is asking for help.
 	I'm going to pick sides of the one I like.
 [Fredrica]Cracsus threatens to hack Fredrica's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Fredrica]Fredrica is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Fredrica]Fredrica is thinking about what the Universe of Oblivion is.
@@ -15695,7 +15695,7 @@
 [Magnus]A big fight broke out between an angel and a demon within the team. Magnus is asking for help.
 	I'm going to pick sides of the one I like.
 [Magnus]Cracsus threatens to hack Magnus's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Magnus]Magnus is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Magnus]Magnus is thinking about what the Universe of Oblivion is.
@@ -15941,7 +15941,7 @@
 [Marianne]A big fight broke out between an angel and a demon within the team. Marianne is asking for help.
 	I'm going to pick sides of the one I like.
 [Marianne]Cracsus threatens to hack Marianne's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Marianne]Marianne is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Marianne]Marianne is thinking about what the Universe of Oblivion is.
@@ -16439,45 +16439,86 @@
 [Melchior]Melchior says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
-[Metatron]The team made it up to the semi-finals after counting the goal differences. Metatron asks how you feel. How should we answer?
+[Metatron Base/E]The team made it up to the semi-finals after counting the goal differences. Anis asks how you feel. How should we answer?
+    Wow. I'm sooooo happy.
+[Metatron Base/E]Anis suggests that we have a team dinner to lighten things up. What will be your reaction?
+    How about we go eat salad? I'm on a diet.
+[Metatron Base/E]Anis is saying that her teammates are what keeps her going.
+    (Pat her on the head.)
+[Metatron Base/E]Anis has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+    I hope you'd stop sharing small talks with your opponents on the field.
+[Metatron Base/E]As Anis said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+    I'm sure it's going in a good direction.
+[Metatron Base/E]The crowd is cheering for Anis. Anis seems to find this situation new and a bit uncomfortable. Let's help her out.
+    They know you gave everything you got. It was spectacular.
+[Metatron Base/E]Anis is impressed by the help she received from the elementals. Let's talk to her.
+    I am so thankful to them.
+[Metatron Base/E]Anis was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+    Oh, that'll be so cute!
+[Metatron Base/E]The team will not have a match for some time. Anis asks you about your plan.
+    Hmm, wanna go shopping?
+[Metatron Base/E]It's a very intense match and Anis falls on the ground, but a player on the other team helps Anis up and the two exchange smiles.
+    That player must have a heart of gold.
+[Metatron Base/E]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+    That's a sad story. I'm tearing up.
+[Metatron Base/E]You're walking in a narrow ally and come across Anis having an intense staring contest with the captain of the opposing team. What should we say?
+    How about solving this with a game of rock, scissors, paper?
+[Metatron Base/E]Anis is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+    Should've practiced that autograph like I told you.
+[Metatron Base/E]Anis scored a hat trick and led the team to a complete victory! Congratulate her!
+    Hmm? Didn't we win the game when we scored the first goal?
+[Metatron Base/E]A player on the other side is on the field with his arms tied up. Let's talk about this with Anis.
+    It hurts when the whip first crackles. And the pain just keeps ramping up.
+[Metatron Base/E]Anis falls to the ground after clashing with the opponent. What should we say to her?
+    Well, let's start by dropping that player's HP to 1.
+[Metatron Base/E]Anis lost to the opponent and fell to the ground. What should we do?
+    This doesn't look good...Can anybody give her some heals?
+[Metatron Base/E]You come across Sammy while walking the street with Anis. Let's talk to her.
+    Do you also do fortune telling? I think I'm in love.
+[Metatron Base/E]Lynia is cleaning the streets with the members of Jeneva Crew. Anis is curious and wants to take a look.
+    They must love volunteer work!
+[Metatron Base/E]Anis brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+    The drink looks really scary...But we can't just throw it away...
+
+[Metatron EE]The team made it up to the semi-finals after counting the goal differences. Metatron asks how you feel. How should we answer?
 	What, are you expecting something like ''I feel like I can fly'' or something?
-[Metatron]Metatron suggests that we have a team dinner to lighten things up. What will be your reaction?
+[Metatron EE]Metatron suggests that we have a team dinner to lighten things up. What will be your reaction?
 	How could you think about eating at a time like this? I'm disappointed in you.
-[Metatron]Metatron is saying that her teammates are what keeps her going.
+[Metatron EE]Metatron is saying that her teammates are what keeps her going.
 	(Just nod your head.)
-[Metatron]Metatron has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+[Metatron EE]Metatron has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
 	You always seem to find the weak point of the opponent's defense and I love that.
-[Metatron]As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+[Metatron EE]As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
 	I feel like the universe is heading towards chaos.
-[Metatron]The crowd is cheering for Metatron. Metatron seems to find this situation new and a bit uncomfortable. Let's help her out.
+[Metatron EE]The crowd is cheering for Metatron. Metatron seems to find this situation new and a bit uncomfortable. Let's help her out.
 	How about just accepting the compliments for today?
-[Metatron]Metatron is impressed by the help she received from the elementals. Let's talk to her.
+[Metatron EE]Metatron is impressed by the help she received from the elementals. Let's talk to her.
 	The only problem is that they take up a lot of space in the inventory.
-[Metatron]Metatron was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+[Metatron EE]Metatron was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
 	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
-[Metatron]The team will not have a match for some time. Metatron asks you about your plan.
+[Metatron EE]The team will not have a match for some time. Metatron asks you about your plan.
 	I have a very hard training session all planned up for everybody.
-[Metatron]It's a very intense match and Metatron falls on the ground, but a player on the other team helps Metatron up and the two exchange smiles.
+[Metatron EE]It's a very intense match and Metatron falls on the ground, but a player on the other team helps Metatron up and the two exchange smiles.
 	Guess the match isn't that tough for you, huh?
-[Metatron]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+[Metatron EE]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
 	I feel bad for them, but that's no excuse for throwing the game.
-[Metatron]You're walking in a narrow ally and come across Metatron having an intense staring contest with the captain of the opposing team. What should we say?
+[Metatron EE]You're walking in a narrow ally and come across Metatron having an intense staring contest with the captain of the opposing team. What should we say?
 	...I see two idiots standing in front of me...
-[Metatron]Metatron is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+[Metatron EE]Metatron is surrounded by fans and seems to be overwhelmed. Let's talk to her.
 	I hope this won't affect your performance on the field.
-[Metatron]Metatron scored a hat trick and led the team to a complete victory! Congratulate her!
+[Metatron EE]Metatron scored a hat trick and led the team to a complete victory! Congratulate her!
 	That was awesome! I'm looking forward to seeing more of that!
-[Metatron]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron.
+[Metatron EE]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron.
 	He still has his two legs functioning. I see no problem with that.
-[Metatron]Metatron falls to the ground after clashing with the opponent. What should we say to her?
+[Metatron EE]Metatron falls to the ground after clashing with the opponent. What should we say to her?
 	If that's all you've got, just stay down. It's okay.
-[Metatron]Metatron lost to the opponent and fell to the ground. What should we do?
+[Metatron EE]Metatron lost to the opponent and fell to the ground. What should we do?
 	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
-[Metatron]You come across Sammy while walking the street with Metatron. Let's talk to her.
+[Metatron EE]You come across Sammy while walking the street with Metatron. Let's talk to her.
 	(Ignore.)
-[Metatron]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron is curious and wants to take a look.
+[Metatron EE]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron is curious and wants to take a look.
 	We should probably ignore them and just walk by.
-[Metatron]Metatron brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+[Metatron EE]Metatron brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	Throw it away. NOW.
 
 [Metatron]Metatron is asking about what's the most important condition in winning today's match. Let's give her an answer.
@@ -17745,7 +17786,7 @@
 [Moritz]A big fight broke out between an angel and a demon within the team. Moritz is asking for help.
 	I'm going to pick sides of the one I like.
 [Moritz]Cracsus threatens to hack Moritz's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Moritz]Moritz is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Moritz]Moritz is thinking about what the Universe of Oblivion is.
@@ -18565,7 +18606,7 @@
 [Neraizel]A big fight broke out between an angel and a demon within the team. Neraizel is asking for help.
 	I'm going to pick sides of the one I like.
 [Neraizel]Cracsus threatens to hack Neraizel's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Neraizel]Neraizel is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Neraizel]Neraizel is thinking about what the Universe of Oblivion is.
@@ -20574,7 +20615,7 @@
 [Rammi]A big fight broke out between an angel and a demon within the team. Rammi is asking for help.
 	I'm going to pick sides of the one I like.
 [Rammi]Cracsus threatens to hack Rammi's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Rammi]Rammi is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Rammi]Rammi is thinking about what the Universe of Oblivion is.
@@ -22583,7 +22624,7 @@
 [Sammy]A big fight broke out between an angel and a demon within the team. Sammy is asking for help.
 	I'm going to pick sides of the one I like.
 [Sammy]Cracsus threatens to hack Sammy's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Sammy]Sammy is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Sammy]Sammy is thinking about what the Universe of Oblivion is.
@@ -25043,7 +25084,7 @@
 [Swimsuit Qiyou]A big fight broke out between an angel and a demon within the team. Swimsuit Qiyou is asking for help.
 	I'm going to pick sides of the one I like.
 [Swimsuit Qiyou]Cracsus threatens to hack Swimsuit Qiyou's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Swimsuit Qiyou]Swimsuit Qiyou is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Swimsuit Qiyou]Swimsuit Qiyou is thinking about what the Universe of Oblivion is.
@@ -27257,7 +27298,7 @@
 [Vivid Fear]A big fight broke out between an angel and a demon within the team. Vivid Fear is asking for help.
 	I'm going to pick sides of the one I like.
 [Vivid Fear]Cracsus threatens to hack Vivid Fear's personal information and reveal it to the world. What should we do?
-	I contacted Hildegard.
+	[+1]Don't fall for this cheap shot.
 [Vivid Fear]Vivid Fear is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
 	It's not good to just believe what others say.
 [Vivid Fear]Vivid Fear is thinking about what the Universe of Oblivion is.
