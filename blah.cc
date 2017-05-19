@@ -257,7 +257,6 @@ int main() {
   for (const auto it : player_personalities) {
     string player = it.first;
     const string& gender = player_gender[player];
-    cout << player << endl;
     for (const int& personality : it.second) {
       const int starting_point = 20 * ((personality-1)/3);
       for (int j = 1; j <= 20; ++j) {
@@ -269,9 +268,8 @@ int main() {
           string answers = questions_male.at(original_question);
           replace_all_instances(answers, "{0}", player);
           replace_all_instances(original_question, "{0}", player);
-          cout << original_question << endl;
+          cout << '[' << player << ']' << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
-            //cout << ii << '\t' << answers << endl;
             answers = answers.substr(answers.find('\t')+1);
           }
           cout << '\t' << answers.substr(0, answers.find('\t')) << endl;
@@ -280,9 +278,8 @@ int main() {
           string answers = questions_female.at(original_question);
           replace_all_instances(answers, "{0}", player);
 		  replace_all_instances(original_question, "{0}", player);
-          cout << original_question << endl;
+          cout << '[' << player << ']' << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
-            //cout << ii << '\t' << answers << endl;
             answers = answers.substr(answers.find('\t')+1);
           }
           cout << '\t' << answers.substr(0, answers.find('\t')) << endl;
