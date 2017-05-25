@@ -606,6 +606,10 @@ Durahan
 Male
 Metatron
 Female
+Metatron Base/E
+Female
+Metatron EE
+Female
 Mider
 Male
 Ronald
@@ -2041,4 +2045,8 @@ Male
 Black Horns
 Male
 Lai Gayle
+Female
+Nabi
+Female
+Miri
 Female

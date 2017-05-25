@@ -16439,88 +16439,6 @@
 [Melchior]Melchior says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
-[Metatron Base/E]The team made it up to the semi-finals after counting the goal differences. Anis asks how you feel. How should we answer?
-    Wow. I'm sooooo happy.
-[Metatron Base/E]Anis suggests that we have a team dinner to lighten things up. What will be your reaction?
-    How about we go eat salad? I'm on a diet.
-[Metatron Base/E]Anis is saying that her teammates are what keeps her going.
-    (Pat her on the head.)
-[Metatron Base/E]Anis has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
-    I hope you'd stop sharing small talks with your opponents on the field.
-[Metatron Base/E]As Anis said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
-    I'm sure it's going in a good direction.
-[Metatron Base/E]The crowd is cheering for Anis. Anis seems to find this situation new and a bit uncomfortable. Let's help her out.
-    They know you gave everything you got. It was spectacular.
-[Metatron Base/E]Anis is impressed by the help she received from the elementals. Let's talk to her.
-    I am so thankful to them.
-[Metatron Base/E]Anis was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
-    Oh, that'll be so cute!
-[Metatron Base/E]The team will not have a match for some time. Anis asks you about your plan.
-    Hmm, wanna go shopping?
-[Metatron Base/E]It's a very intense match and Anis falls on the ground, but a player on the other team helps Anis up and the two exchange smiles.
-    That player must have a heart of gold.
-[Metatron Base/E]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
-    That's a sad story. I'm tearing up.
-[Metatron Base/E]You're walking in a narrow ally and come across Anis having an intense staring contest with the captain of the opposing team. What should we say?
-    How about solving this with a game of rock, scissors, paper?
-[Metatron Base/E]Anis is surrounded by fans and seems to be overwhelmed. Let's talk to her.
-    Should've practiced that autograph like I told you.
-[Metatron Base/E]Anis scored a hat trick and led the team to a complete victory! Congratulate her!
-    Hmm? Didn't we win the game when we scored the first goal?
-[Metatron Base/E]A player on the other side is on the field with his arms tied up. Let's talk about this with Anis.
-    It hurts when the whip first crackles. And the pain just keeps ramping up.
-[Metatron Base/E]Anis falls to the ground after clashing with the opponent. What should we say to her?
-    Well, let's start by dropping that player's HP to 1.
-[Metatron Base/E]Anis lost to the opponent and fell to the ground. What should we do?
-    This doesn't look good...Can anybody give her some heals?
-[Metatron Base/E]You come across Sammy while walking the street with Anis. Let's talk to her.
-    Do you also do fortune telling? I think I'm in love.
-[Metatron Base/E]Lynia is cleaning the streets with the members of Jeneva Crew. Anis is curious and wants to take a look.
-    They must love volunteer work!
-[Metatron Base/E]Anis brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
-    The drink looks really scary...But we can't just throw it away...
-
-[Metatron EE]The team made it up to the semi-finals after counting the goal differences. Metatron asks how you feel. How should we answer?
-	What, are you expecting something like ''I feel like I can fly'' or something?
-[Metatron EE]Metatron suggests that we have a team dinner to lighten things up. What will be your reaction?
-	How could you think about eating at a time like this? I'm disappointed in you.
-[Metatron EE]Metatron is saying that her teammates are what keeps her going.
-	(Just nod your head.)
-[Metatron EE]Metatron has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
-	You always seem to find the weak point of the opponent's defense and I love that.
-[Metatron EE]As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
-	I feel like the universe is heading towards chaos.
-[Metatron EE]The crowd is cheering for Metatron. Metatron seems to find this situation new and a bit uncomfortable. Let's help her out.
-	How about just accepting the compliments for today?
-[Metatron EE]Metatron is impressed by the help she received from the elementals. Let's talk to her.
-	The only problem is that they take up a lot of space in the inventory.
-[Metatron EE]Metatron was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
-	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
-[Metatron EE]The team will not have a match for some time. Metatron asks you about your plan.
-	I have a very hard training session all planned up for everybody.
-[Metatron EE]It's a very intense match and Metatron falls on the ground, but a player on the other team helps Metatron up and the two exchange smiles.
-	Guess the match isn't that tough for you, huh?
-[Metatron EE]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
-	I feel bad for them, but that's no excuse for throwing the game.
-[Metatron EE]You're walking in a narrow ally and come across Metatron having an intense staring contest with the captain of the opposing team. What should we say?
-	...I see two idiots standing in front of me...
-[Metatron EE]Metatron is surrounded by fans and seems to be overwhelmed. Let's talk to her.
-	I hope this won't affect your performance on the field.
-[Metatron EE]Metatron scored a hat trick and led the team to a complete victory! Congratulate her!
-	That was awesome! I'm looking forward to seeing more of that!
-[Metatron EE]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron.
-	He still has his two legs functioning. I see no problem with that.
-[Metatron EE]Metatron falls to the ground after clashing with the opponent. What should we say to her?
-	If that's all you've got, just stay down. It's okay.
-[Metatron EE]Metatron lost to the opponent and fell to the ground. What should we do?
-	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
-[Metatron EE]You come across Sammy while walking the street with Metatron. Let's talk to her.
-	(Ignore.)
-[Metatron EE]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron is curious and wants to take a look.
-	We should probably ignore them and just walk by.
-[Metatron EE]Metatron brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
-	Throw it away. NOW.
-
 [Metatron]Metatron is asking about what's the most important condition in winning today's match. Let's give her an answer.
 	We need a decent level of personal performance.
 [Metatron]Metatron, who is determined to make everything in her life, even her dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
@@ -16602,6 +16520,88 @@
 	Then we should do our very best to win.
 [Metatron]Metatron is thinking about what the Universe of Oblivion is.
 	I don't like the word oblivion.
+
+[Metatron Base/E]The team made it up to the semi-finals after counting the goal differences. Metatron Base/E asks how you feel. How should we answer?
+	Wow. I'm sooooo happy.
+[Metatron Base/E]Metatron Base/E suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How about we go eat salad? I'm on a diet.
+[Metatron Base/E]Metatron Base/E is saying that her teammates are what keeps her going.
+	(Pat her on the head.)
+[Metatron Base/E]Metatron Base/E has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	I hope you'd stop sharing small talks with your opponents on the field.
+[Metatron Base/E]As Metatron Base/E said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I'm sure it's going in a good direction.
+[Metatron Base/E]The crowd is cheering for Metatron Base/E. Metatron Base/E seems to find this situation new and a bit uncomfortable. Let's help her out.
+	They know you gave everything you got. It was spectacular.
+[Metatron Base/E]Metatron Base/E is impressed by the help she received from the elementals. Let's talk to her.
+	I am so thankful to them.
+[Metatron Base/E]Metatron Base/E was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	Oh, that'll be so cute!
+[Metatron Base/E]The team will not have a match for some time. Metatron Base/E asks you about your plan.
+	Hmm, wanna go shopping?
+[Metatron Base/E]It's a very intense match and Metatron Base/E falls on the ground, but a player on the other team helps Metatron Base/E up and the two exchange smiles.
+	That player must have a heart of gold.
+[Metatron Base/E]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	That's a sad story. I'm tearing up.
+[Metatron Base/E]You're walking in a narrow ally and come across Metatron Base/E having an intense staring contest with the captain of the opposing team. What should we say?
+	How about solving this with a game of rock, scissors, paper?
+[Metatron Base/E]Metatron Base/E is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	Should've practiced that autograph like I told you.
+[Metatron Base/E]Metatron Base/E scored a hat trick and led the team to a complete victory! Congratulate her!
+	Hmm? Didn't we win the game when we scored the first goal?
+[Metatron Base/E]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron Base/E.
+	It hurts when the whip first crackles. And the pain just keeps ramping up.
+[Metatron Base/E]Metatron Base/E falls to the ground after clashing with the opponent. What should we say to her?
+	Well, let's start by dropping that player's HP to 1.
+[Metatron Base/E]Metatron Base/E lost to the opponent and fell to the ground. What should we do?
+	This doesn't look good...Can anybody give her some heals?
+[Metatron Base/E]You come across Sammy while walking the street with Metatron Base/E. Let's talk to her.
+	Do you also do fortune telling? I think I'm in love.
+[Metatron Base/E]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron Base/E is curious and wants to take a look.
+	They must love volunteer work!
+[Metatron Base/E]Metatron Base/E brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	The drink looks really scary...But we can't just throw it away...
+
+[Metatron EE]The team made it up to the semi-finals after counting the goal differences. Metatron EE asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I can fly'' or something?
+[Metatron EE]Metatron EE suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Metatron EE]Metatron EE is saying that her teammates are what keeps her going.
+	(Just nod your head.)
+[Metatron EE]Metatron EE has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Metatron EE]As Metatron EE said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I feel like the universe is heading towards chaos.
+[Metatron EE]The crowd is cheering for Metatron EE. Metatron EE seems to find this situation new and a bit uncomfortable. Let's help her out.
+	How about just accepting the compliments for today?
+[Metatron EE]Metatron EE is impressed by the help she received from the elementals. Let's talk to her.
+	The only problem is that they take up a lot of space in the inventory.
+[Metatron EE]Metatron EE was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Metatron EE]The team will not have a match for some time. Metatron EE asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Metatron EE]It's a very intense match and Metatron EE falls on the ground, but a player on the other team helps Metatron EE up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Metatron EE]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Metatron EE]You're walking in a narrow ally and come across Metatron EE having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Metatron EE]Metatron EE is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	I hope this won't affect your performance on the field.
+[Metatron EE]Metatron EE scored a hat trick and led the team to a complete victory! Congratulate her!
+	That was awesome! I'm looking forward to seeing more of that!
+[Metatron EE]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron EE.
+	He still has his two legs functioning. I see no problem with that.
+[Metatron EE]Metatron EE falls to the ground after clashing with the opponent. What should we say to her?
+	If that's all you've got, just stay down. It's okay.
+[Metatron EE]Metatron EE lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Metatron EE]You come across Sammy while walking the street with Metatron EE. Let's talk to her.
+	(Ignore.)
+[Metatron EE]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron EE is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Metatron EE]Metatron EE brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
 
 [Micki]You come across Micki, who was overwhelmed by her opponent throughout the game. Let's cheer her up.
 	Those scumbags played dirty. Ugh, I'm angry!
@@ -17546,6 +17546,88 @@
 [Mireille]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Mireille is starting to get intimidated.
 	He's obviously obsessed with soccer.
 
+[Miri]Miri is wondering why the team is doing so well recently. Pick an answer.
+	It's a result of team effort.
+[Miri]After a meeting, Miri's eyes met yours a several times and Miri asks if she has something on her face.
+	I was just thinking about how much you do for the team.
+[Miri]With a serious look on her face, Miri warns you to go to the bathroom before the match.
+	Bathroom...It is indeed a very important matter...
+[Miri]Preparing for the press conference, you're talking with Miri on which player you think has the brightest future. What will you say?
+	I can't pick just one...
+[Miri]Miri is worried that she has to face demons, black holes and other dangerous things. What should we tell her?
+	Makes it worth the challenge, don't you think so?
+[Miri]Miri is making a scene about the women's uniform and underwear disappearing. Let's talk to her.
+	I want you to form a team and catch every single bear near this locker room.
+[Miri]Miri is asking if you have a special person who you would like to share happy moments with. Let's give her an answer.
+	Every teammate there by my side on the field is special.
+[Miri]You find Miri being very excited after performing an awesome play. How will you react?
+	Now we're starting to look like a team!
+[Miri]Miri is having trouble focusing on the match. Let's help her out.
+	I'll teach you how to meditate to synchronize the breathing with other teammates.
+[Miri]Miri is questioning Kuma's status as a Gate Keeper.
+	I like how all of the Gate Keepers have different characteristics.
+[Miri]Miri doesn't like the new team advertisement video.
+	It didn't have to have the bench warmers in the video.
+[Miri]It's Miri's birthday. Let's give her a present.
+	Here! I made some cookies with the team.
+[Miri]You see Miri's opponent trash talking and smirking towards Miri. What should we do?
+	Let's see how long they last. Come on guys!
+[Miri]The team is going to go shop. Which group will you join?
+	I guess I can go to the soccer gear shop.
+[Miri]You hear that the opponent team's ace, who is also Miri's rival, has been severely injured and is in the hospital. What should you say to her?
+	Sorry for the bad news. Do you want to pay a visit?
+[Miri]Miri comes to you and says that she has to leave the team because of personal reasons. What should we say?
+	There will always be a place for you to return.
+[Miri]Miri is getting slow on the field and this is causing trouble. Let's talk with Miri.
+	We can overcome this with team effort.
+[Miri]Miri is telling a story about how an old kingdom in Valhalla was doomed because of the king.
+	I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.
+[Miri]You got a couple of tickets to Veronica's live concert. Miri seems to be interested.
+	We're going to make it fair and gather everybody around so we can draw for the ticket.
+[Miri]Miri says she wants to cry because the goal keeper on the other team just won't go down no matter how many shots she makes.
+	I'll come up with a formation that can bring the best out of everybody.
+
+[Miri]Miri is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Miri]Miri is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Miri]Miri wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Miri]Miri is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Miri]Miri is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Miri]Miri is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Miri]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Miri]Miri says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Miri]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Miri]Miri seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Miri]Ogre's pony tail slapped Miri in the face!
+	That must hurt.
+[Miri]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Miri]Miri is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Miri]Miri says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Miri]Miri says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Miri]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Miri]Miri picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Miri]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Miri]Miri is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Miri]Miri thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
 [Momo]You find Momo depressed for not playing well during the match. Let's cheer her up.
 	Don't mind it. It's our fault. We weren't able to make use of your strength.
 [Momo]Momo is questioning your promise to make the best team ever. It's time to redeem yourself.
@@ -18201,6 +18283,88 @@
 	Just make sure that it doesn't affect him on the field.
 [Na Yang Ho]Na Yang Ho is teasing her opponent that is having a hard time chasing her. What should we do?
 	Well, that player is kind of cute...
+
+[Nabi]Nabi is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Nabi]Nabi is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Nabi]Nabi wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Nabi]Nabi is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Nabi]Nabi is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Nabi]Nabi is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Nabi]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Nabi]Nabi says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Nabi]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Nabi]Nabi seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Nabi]Ogre's pony tail slapped Nabi in the face!
+	That must hurt.
+[Nabi]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Nabi]Nabi is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Nabi]Nabi says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Nabi]Nabi says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Nabi]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Nabi]Nabi picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Nabi]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Nabi]Nabi is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Nabi]Nabi thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Nabi]You find Nabi depressed for not playing well during the match. Let's cheer her up.
+	You did well and I thank you for that.
+[Nabi]Nabi is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+[Nabi]You come across Nabi being lost and wandering around while going back to the lodging. Let's talk to her.
+	Are you feeling alright?
+[Nabi]Nabi is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	I was always looking forward for that moment.
+[Nabi]Nabi is having trouble with continuing nightmares. Let's talk to her.
+	It's just a dream. Forget about it.
+[Nabi]Nabi is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+[Nabi]Nabi seems to be satisfied with the perfect team work. Let's talk to her.
+	I'm starting to see true strength in this team.
+[Nabi]You come across Nabi who is limping. She says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+[Nabi]You visit Marilyn's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+[Nabi]You're watching the storm with Nabi and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+[Nabi]Nabi looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+[Nabi]Nabi's opponent is smiling whenever they confront each other on the field. Nabi seems to be nervous. Let's talk to her.
+	That player is just messing with you.
+[Nabi]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Nabi.
+	Maybe he got embarrassed for being obsessed with his past?
+[Nabi]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+[Nabi]The game ended as a tie, but it seems that the competition between Nabi and her opponent isn't over yet.
+	You better win that fight!
+[Nabi]The team will be cleaning up the lodging. What will you have Nabi do?
+	(Let her take some of the team members and allow them to clean freely.)
+[Nabi]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+[Nabi]A player on the other team says soccer became enjoyable after confronting Nabi. What should you say?
+	Well, Nabi does have that kind of charm.
+[Nabi]Nabi is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+[Nabi]Latios is chatting with Nabi after the match. Let's barge in.
+	I'm looking forward to our next match!
 
 [Nana]Nana is wondering why the team is doing so well recently. Pick an answer.
 	It's a result of team effort.
