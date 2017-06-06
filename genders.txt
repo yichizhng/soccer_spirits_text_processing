@@ -606,6 +606,10 @@ Durahan
 Male
 Metatron
 Female
+Metatron Base/E
+Female
+Metatron EE
+Female
 Mider
 Male
 Ronald
@@ -2031,4 +2035,18 @@ Female
 Fenrir
 Male
 Grandeur
+Female
+Chundo
+Male
+Na Yang Ho
+Female
+Parabellum
+Male
+Black Horns
+Male
+Lai Gayle
+Female
+Nabi
+Female
+Miri
 Female
