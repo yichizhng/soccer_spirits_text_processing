@@ -16439,86 +16439,86 @@
 [Metatron]Metatron is thinking about what the Universe of Oblivion is.
 	I don't like the word oblivion.
 
-[Metatron Base/E]The team made it up to the semi-finals after counting the goal differences. Metatron Base/E asks how you feel. How should we answer?
+[Metatron Base/E]The team made it up to the semi-finals after counting the goal differences. Metatron asks how you feel. How should we answer?
 	Wow. I'm sooooo happy.
-[Metatron Base/E]Metatron Base/E suggests that we have a team dinner to lighten things up. What will be your reaction?
+[Metatron Base/E]Metatron suggests that we have a team dinner to lighten things up. What will be your reaction?
 	How about we go eat salad? I'm on a diet.
-[Metatron Base/E]Metatron Base/E is saying that her teammates are what keeps her going.
+[Metatron Base/E]Metatron is saying that her teammates are what keeps her going.
 	(Pat her on the head.)
-[Metatron Base/E]Metatron Base/E has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+[Metatron Base/E]Metatron has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
 	I hope you'd stop sharing small talks with your opponents on the field.
-[Metatron Base/E]As Metatron Base/E said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+[Metatron Base/E]As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
 	I'm sure it's going in a good direction.
-[Metatron Base/E]The crowd is cheering for Metatron Base/E. Metatron Base/E seems to find this situation new and a bit uncomfortable. Let's help her out.
+[Metatron Base/E]The crowd is cheering for Metatron. Metatron seems to find this situation new and a bit uncomfortable. Let's help her out.
 	They know you gave everything you got. It was spectacular.
-[Metatron Base/E]Metatron Base/E is impressed by the help she received from the elementals. Let's talk to her.
+[Metatron Base/E]Metatron is impressed by the help she received from the elementals. Let's talk to her.
 	I am so thankful to them.
-[Metatron Base/E]Metatron Base/E was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+[Metatron Base/E]Metatron was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
 	Oh, that'll be so cute!
-[Metatron Base/E]The team will not have a match for some time. Metatron Base/E asks you about your plan.
+[Metatron Base/E]The team will not have a match for some time. Metatron asks you about your plan.
 	Hmm, wanna go shopping?
-[Metatron Base/E]It's a very intense match and Metatron Base/E falls on the ground, but a player on the other team helps Metatron Base/E up and the two exchange smiles.
+[Metatron Base/E]It's a very intense match and Metatron falls on the ground, but a player on the other team helps Metatron up and the two exchange smiles.
 	That player must have a heart of gold.
 [Metatron Base/E]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
 	That's a sad story. I'm tearing up.
-[Metatron Base/E]You're walking in a narrow ally and come across Metatron Base/E having an intense staring contest with the captain of the opposing team. What should we say?
+[Metatron Base/E]You're walking in a narrow ally and come across Metatron having an intense staring contest with the captain of the opposing team. What should we say?
 	How about solving this with a game of rock, scissors, paper?
-[Metatron Base/E]Metatron Base/E is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+[Metatron Base/E]Metatron is surrounded by fans and seems to be overwhelmed. Let's talk to her.
 	Should've practiced that autograph like I told you.
-[Metatron Base/E]Metatron Base/E scored a hat trick and led the team to a complete victory! Congratulate her!
+[Metatron Base/E]Metatron scored a hat trick and led the team to a complete victory! Congratulate her!
 	Hmm? Didn't we win the game when we scored the first goal?
-[Metatron Base/E]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron Base/E.
+[Metatron Base/E]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron.
 	It hurts when the whip first crackles. And the pain just keeps ramping up.
-[Metatron Base/E]Metatron Base/E falls to the ground after clashing with the opponent. What should we say to her?
+[Metatron Base/E]Metatron falls to the ground after clashing with the opponent. What should we say to her?
 	Well, let's start by dropping that player's HP to 1.
-[Metatron Base/E]Metatron Base/E lost to the opponent and fell to the ground. What should we do?
+[Metatron Base/E]Metatron lost to the opponent and fell to the ground. What should we do?
 	This doesn't look good...Can anybody give her some heals?
-[Metatron Base/E]You come across Sammy while walking the street with Metatron Base/E. Let's talk to her.
+[Metatron Base/E]You come across Sammy while walking the street with Metatron. Let's talk to her.
 	Do you also do fortune telling? I think I'm in love.
-[Metatron Base/E]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron Base/E is curious and wants to take a look.
+[Metatron Base/E]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron is curious and wants to take a look.
 	They must love volunteer work!
-[Metatron Base/E]Metatron Base/E brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+[Metatron Base/E]Metatron brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	The drink looks really scary...But we can't just throw it away...
 
-[Metatron EE]The team made it up to the semi-finals after counting the goal differences. Metatron EE asks how you feel. How should we answer?
+[Metatron EE]The team made it up to the semi-finals after counting the goal differences. Metatron asks how you feel. How should we answer?
 	What, are you expecting something like ''I feel like I can fly'' or something?
-[Metatron EE]Metatron EE suggests that we have a team dinner to lighten things up. What will be your reaction?
+[Metatron EE]Metatron suggests that we have a team dinner to lighten things up. What will be your reaction?
 	How could you think about eating at a time like this? I'm disappointed in you.
-[Metatron EE]Metatron EE is saying that her teammates are what keeps her going.
+[Metatron EE]Metatron is saying that her teammates are what keeps her going.
 	(Just nod your head.)
-[Metatron EE]Metatron EE has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+[Metatron EE]Metatron has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
 	You always seem to find the weak point of the opponent's defense and I love that.
-[Metatron EE]As Metatron EE said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+[Metatron EE]As Metatron said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
 	I feel like the universe is heading towards chaos.
-[Metatron EE]The crowd is cheering for Metatron EE. Metatron EE seems to find this situation new and a bit uncomfortable. Let's help her out.
+[Metatron EE]The crowd is cheering for Metatron. Metatron seems to find this situation new and a bit uncomfortable. Let's help her out.
 	How about just accepting the compliments for today?
-[Metatron EE]Metatron EE is impressed by the help she received from the elementals. Let's talk to her.
+[Metatron EE]Metatron is impressed by the help she received from the elementals. Let's talk to her.
 	The only problem is that they take up a lot of space in the inventory.
-[Metatron EE]Metatron EE was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+[Metatron EE]Metatron was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
 	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
-[Metatron EE]The team will not have a match for some time. Metatron EE asks you about your plan.
+[Metatron EE]The team will not have a match for some time. Metatron asks you about your plan.
 	I have a very hard training session all planned up for everybody.
-[Metatron EE]It's a very intense match and Metatron EE falls on the ground, but a player on the other team helps Metatron EE up and the two exchange smiles.
+[Metatron EE]It's a very intense match and Metatron falls on the ground, but a player on the other team helps Metatron up and the two exchange smiles.
 	Guess the match isn't that tough for you, huh?
 [Metatron EE]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
 	I feel bad for them, but that's no excuse for throwing the game.
-[Metatron EE]You're walking in a narrow ally and come across Metatron EE having an intense staring contest with the captain of the opposing team. What should we say?
+[Metatron EE]You're walking in a narrow ally and come across Metatron having an intense staring contest with the captain of the opposing team. What should we say?
 	...I see two idiots standing in front of me...
-[Metatron EE]Metatron EE is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+[Metatron EE]Metatron is surrounded by fans and seems to be overwhelmed. Let's talk to her.
 	I hope this won't affect your performance on the field.
-[Metatron EE]Metatron EE scored a hat trick and led the team to a complete victory! Congratulate her!
+[Metatron EE]Metatron scored a hat trick and led the team to a complete victory! Congratulate her!
 	That was awesome! I'm looking forward to seeing more of that!
-[Metatron EE]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron EE.
+[Metatron EE]A player on the other side is on the field with his arms tied up. Let's talk about this with Metatron.
 	He still has his two legs functioning. I see no problem with that.
-[Metatron EE]Metatron EE falls to the ground after clashing with the opponent. What should we say to her?
+[Metatron EE]Metatron falls to the ground after clashing with the opponent. What should we say to her?
 	If that's all you've got, just stay down. It's okay.
-[Metatron EE]Metatron EE lost to the opponent and fell to the ground. What should we do?
+[Metatron EE]Metatron lost to the opponent and fell to the ground. What should we do?
 	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
-[Metatron EE]You come across Sammy while walking the street with Metatron EE. Let's talk to her.
+[Metatron EE]You come across Sammy while walking the street with Metatron. Let's talk to her.
 	(Ignore.)
-[Metatron EE]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron EE is curious and wants to take a look.
+[Metatron EE]Lynia is cleaning the streets with the members of Jeneva Crew. Metatron is curious and wants to take a look.
 	We should probably ignore them and just walk by.
-[Metatron EE]Metatron EE brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+[Metatron EE]Metatron brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	Throw it away. NOW.
 
 [Micki]You come across Micki, who was overwhelmed by her opponent throughout the game. Let's cheer her up.

@@ -200,6 +200,7 @@ string remove_blood_code(const string& player) {
       copy = copy.substr(space+1);
     }
   }
+  if (copy.substr(0,8) == "Metatron") copy = "Metatron";
   return copy;
 }
 
