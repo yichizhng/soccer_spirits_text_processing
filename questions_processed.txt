@@ -326,6 +326,88 @@
 [Akane]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Akane is starting to get intimidated.
 	He's obviously obsessed with soccer.
 
+[Alexa]You find Alexa depressed for not playing well during the match. Let's cheer her up.
+	You did well and I thank you for that.
+[Alexa]Alexa is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+[Alexa]You come across Alexa being lost and wandering around while going back to the lodging. Let's talk to her.
+	Are you feeling alright?
+[Alexa]Alexa is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	I was always looking forward for that moment.
+[Alexa]Alexa is having trouble with continuing nightmares. Let's talk to her.
+	It's just a dream. Forget about it.
+[Alexa]Alexa is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+[Alexa]Alexa seems to be satisfied with the perfect team work. Let's talk to her.
+	I'm starting to see true strength in this team.
+[Alexa]You come across Alexa who is limping. She says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+[Alexa]You visit Marilyn's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+[Alexa]You're watching the storm with Alexa and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+[Alexa]Alexa looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+[Alexa]Alexa's opponent is smiling whenever they confront each other on the field. Alexa seems to be nervous. Let's talk to her.
+	That player is just messing with you.
+[Alexa]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Alexa.
+	Maybe he got embarrassed for being obsessed with his past?
+[Alexa]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+[Alexa]The game ended as a tie, but it seems that the competition between Alexa and her opponent isn't over yet.
+	You better win that fight!
+[Alexa]The team will be cleaning up the lodging. What will you have Alexa do?
+	(Let her take some of the team members and allow them to clean freely.)
+[Alexa]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+[Alexa]A player on the other team says soccer became enjoyable after confronting Alexa. What should you say?
+	Well, Alexa does have that kind of charm.
+[Alexa]Alexa is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+[Alexa]Latios is chatting with Alexa after the match. Let's barge in.
+	I'm looking forward to our next match!
+
+[Alexa]Alexa seems to be lost after having a good match while her fortune-telling said things would go wrong. Let's talk to her.
+	It's just a myth. Forget about it.
+[Alexa]With a serious face, Alexa is asking what the true meaning of competition is. Let's give her an answer.
+	Well, I'm sure we'll get an answer when we get to the end of this.
+[Alexa]Alexa came to you after the match, and says she's disappointed at the team's boring strategy. What should we say?
+	Let's work up a solution.
+[Alexa]Alexa is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.
+	They support us from the shadows.
+[Alexa]The team is having a good run and Alexa is sure that winning the League is a matter of time.
+	There's still a lot of obstacles ahead.
+[Alexa]Alexa seems to be very confused of how a small soccer ball can change the fate of the universe.
+	The fate of the universe is not that simple to be changed by a soccer ball.
+[Alexa]Alexa seems to be upset about losing a body check against her opponent.
+	Maybe if you increase your Strength...
+[Alexa]Alexa is asking what the conditions of a team ace are with a serious face. Let's talk with her.
+	Flawless skills.
+[Alexa]Alexa is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.
+	It's surprising to see such advanced technology.
+[Alexa]Alexa plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.
+	We'll see about it after the League.
+[Alexa]It's a hard match and your team is losing. Talk with Alexa and talk about what to do.
+	Let's come up with a plan after this match is over.
+[Alexa]Alexa seems to be lost. She says she no longer hates the rival team.
+	I don't see a problem with it as long as it doesn't affect your performance on the field.
+[Alexa]You were enjoying the peaceful day on Earth until the Peacemakers suddenly showed up. At that moment, the Magical Girl Elements came to save the day!
+	Oh, come on! Where's the transformation scene?!
+[Alexa]Vitos suddenly laughs in joy during the match against the Empire. Why?
+	I guess he's happy this is a good match.
+[Alexa]Alexa's form has been improving rapidly. She says she can't wait for the next match. What should we say to her?
+	If you keep it up like that you'd be able to play superbly in any position.
+[Alexa]During a match, Alexa bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?
+	We have to keep on going.
+[Alexa]Alexa is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to her.
+	Use this as a chance to enhance your condition.
+[Alexa]You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.
+	If this is how they do a memorial in Valhalla, it's natural to understand and accept.
+[Alexa]Alexa is suddenly taking interest in who Shootmeister actually is. What should we say?
+	All that I care is that he's an excellent trainer.
+[Alexa]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Alexa is starting to get intimidated.
+	This is good. We can use this as a chance to break their back line.
+
 [Alice]Alice says she's the center of the team and asks if you agree with her. How should we answer?
 	Well, your sarcastic jokes are an essential part of the team's strength.
 [Alice]Alice asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.

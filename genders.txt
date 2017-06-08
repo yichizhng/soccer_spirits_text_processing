@@ -2050,3 +2050,5 @@ Nabi
 Female
 Miri
 Female
+Alexa
+Female
