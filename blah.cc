@@ -154,14 +154,6 @@ static void init_personality_map() {
   while (getline(infile, line)) {
     size_t tpos = line.find('\t');
     string player = line.substr(0, tpos);
-    // TODO: implement properly
-    // remove blood code
-    if (isupper(player[1]) || isdigit(player[1])) {
-      size_t space = player.find(' ');
-      if (space != string::npos) {
-        player = player.substr(space+1);
-      }
-    }
     // Parse out the rest of the personalities
     do {
       // Check if this section is empty
@@ -200,6 +192,18 @@ static inline void insert_answer(const std::string& player_name,
   std::cerr << "impossible question " << group << ' ' << question_id << std::endl;
 }
 
+string remove_blood_code(const string& player) {
+  string copy = player;
+  if (isupper(copy[1]) || isdigit(copy[1])) {
+    size_t space = copy.find(' ');
+    if (space != string::npos) {
+      copy = copy.substr(space+1);
+    }
+  }
+  if (copy.substr(0,8) == "Metatron") copy = "Metatron";
+  return copy;
+}
+
 int main() {
   using namespace std;
 
@@ -221,13 +225,6 @@ int main() {
     while (getline(infile, player)) {
       // TODO: implement properly
       // remove blood code kappa
-      if (isupper(player[1]) || isdigit(player[1])) {
-            size_t space = player.find(' ');
-            if (space != string::npos) {
-              player = player.substr(space+1);
-            }
-          }
-
       getline(infile, gender);
       player_gender[player] = gender;
     }
@@ -256,6 +253,7 @@ int main() {
 
   for (const auto it : player_personalities) {
     string player = it.first;
+    string mangled_player = remove_blood_code(player);
     const string& gender = player_gender[player];
     for (const int& personality : it.second) {
       const int starting_point = 20 * ((personality-1)/3);
@@ -266,8 +264,8 @@ int main() {
         if (gender == "Male") {
           string original_question = male_questions[question_idx];
           string answers = questions_male.at(original_question);
-          replace_all_instances(answers, "{0}", player);
-          replace_all_instances(original_question, "{0}", player);
+          replace_all_instances(answers, "{0}", mangled_player);
+          replace_all_instances(original_question, "{0}", mangled_player);
           cout << '[' << player << ']' << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             answers = answers.substr(answers.find('\t')+1);
@@ -276,8 +274,8 @@ int main() {
         } else {
           string original_question = female_questions[question_idx];
           string answers = questions_female.at(original_question);
-          replace_all_instances(answers, "{0}", player);
-		  replace_all_instances(original_question, "{0}", player);
+          replace_all_instances(answers, "{0}", mangled_player);
+          replace_all_instances(original_question, "{0}", mangled_player);
           cout << '[' << player << ']' << original_question << endl;
           for (int ii = 0; ii < answer_idx; ++ii) {
             answers = answers.substr(answers.find('\t')+1);
@@ -301,6 +299,7 @@ int main() {
           tab = line.find('\t');
           // This is the character's name, hopefully?
           string name = line.substr(0, tab);
+          string original_name = name;
           // cerr << name << endl;
           // cout << line.substr(0, tab);
 
@@ -314,7 +313,7 @@ int main() {
               name = name.substr(space+1);
             }
           }
-                    string this_gender = player_gender[name];
+          string this_gender = player_gender[name];
 
           getline(infile, line);
           // the question
