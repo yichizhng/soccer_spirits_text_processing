@@ -5164,6 +5164,88 @@
 [Damien]Latios is chatting with Damien after the match. Let's barge in.
 	I'm looking forward to our next match!
 
+[Danbi]The team made it up to the semi-finals after counting the goal differences. Danbi asks how you feel. How should we answer?
+	Wow. I'm sooooo happy.
+[Danbi]Danbi suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How about we go eat salad? I'm on a diet.
+[Danbi]Danbi is saying that his teammates are what keeps him going.
+	(Pat him on the head.)
+[Danbi]Danbi has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	I hope you'd stop sharing small talks with your opponents on the field.
+[Danbi]As Danbi said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	I'm sure it's going in a good direction.
+[Danbi]The crowd is cheering for Danbi. Danbi seems to find this situation new and a bit uncomfortable. Let's help him out.
+	They know you gave everything you got. It was spectacular.
+[Danbi]Danbi is impressed by the help he received from the elementals. Let's talk to him.
+	I am so thankful to them.
+[Danbi]Danbi was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	Oh, that'll be so cute!
+[Danbi]The team will not have a match for some time. Danbi asks you about your plan.
+	Hmm, wanna go shopping?
+[Danbi]It's a very intense match and Danbi falls on the ground, but a player on the other team helps Danbi up and the two exchange smiles.
+	That player must have a heart of gold.
+[Danbi]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	That's a sad story. I'm tearing up.
+[Danbi]You're walking in a narrow ally and come across Danbi having an intense staring contest with the captain of the opposing team. What should we say?
+	How about solving this with a game of rock, scissors, paper?
+[Danbi]Danbi is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	Should've practiced that autograph like I told you.
+[Danbi]Danbi scored a hat trick and led the team to a complete victory! Congratulate him!
+	Hmm? Didn't we win the game when we scored the first goal?
+[Danbi]A player on the other side is on the field with his arms tied up. Let's talk about this with Danbi.
+	It hurts when the whip first crackles. And the pain just keeps ramping up.
+[Danbi]Danbi falls to the ground after clashing with the opponent. What should we say to him?
+	Well, let's start by dropping that player's HP to 1.
+[Danbi]Danbi lost to the opponent and fell to the ground. What should we do?
+	This doesn't look good...Can anybody give him some heals?
+[Danbi]You come across Sammy while walking the street with Danbi. Let's talk to her.
+	Do you also do fortune telling? I think I'm in love.
+[Danbi]Lynia is cleaning the streets with the members of Jeneva Crew. Danbi is curious and wants to take a look.
+	They must love volunteer work!
+[Danbi]Danbi brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	The drink looks really scary...But we can't just throw it away...
+
+[Danbi]Danbi is worried about the team's poor performance. Let's go talk to him.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Danbi]Danbi is curious about the Galaxy League. What answer will help him?
+	It's the place of dreams colliding.
+[Danbi]Danbi wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Danbi]Danbi is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	Yeah, I understand you. Soccer is so much fun!
+[Danbi]Danbi is asking what to buy in the souvenir shop. Let's give him an opinion.
+	Gate Keeper dolls! Why not!
+[Danbi]Danbi is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Danbi]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Danbi]Danbi says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Danbi]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Danbi]Danbi seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Danbi]Ogre's pony tail slapped Danbi in the face!
+	That must hurt.
+[Danbi]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Danbi]Danbi is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Danbi]Danbi says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Danbi]Danbi says he forgot to use his skill points before entering the match. What should we say to him?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Danbi]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Danbi]Danbi picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Danbi]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Danbi]Danbi is irritated because his opponent has the attribute advantage over him.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Danbi]Danbi thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
 [Death Queen]The team made it up to the semi-finals after counting the goal differences. Death Queen asks how you feel. How should we answer?
 	This is where things get serious. We're going for the win!
 [Death Queen]Death Queen suggests that we have a team dinner to lighten things up. What will be your reaction?
@@ -6311,6 +6393,88 @@
 	It's space. Anything can exist here.
 [EA14 Ravi]The team is in a slump and you take the team out for refreshment. Talk with Ravi to set some simple rules.
 	Let's split up and meet back here for dinner. Tell everybody to enjoy their free time.
+
+[EA42 Vanity]Vanity is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[EA42 Vanity]Vanity is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[EA42 Vanity]Vanity wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[EA42 Vanity]Vanity is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[EA42 Vanity]Vanity is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[EA42 Vanity]Vanity is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[EA42 Vanity]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[EA42 Vanity]Vanity says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[EA42 Vanity]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[EA42 Vanity]Vanity seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[EA42 Vanity]Ogre's pony tail slapped Vanity in the face!
+	That must hurt.
+[EA42 Vanity]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[EA42 Vanity]Vanity is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[EA42 Vanity]Vanity says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[EA42 Vanity]Vanity says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[EA42 Vanity]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[EA42 Vanity]Vanity picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[EA42 Vanity]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[EA42 Vanity]Vanity is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[EA42 Vanity]Vanity thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[EA42 Vanity]Vanity says she's the center of the team and asks if you agree with her. How should we answer?
+	Of course! Everybody is counting on you!
+[EA42 Vanity]Vanity asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I want to see everybody smile. I think that'll make me happy.
+[EA42 Vanity]Vanity is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	I'd like to keep one as a pet.
+[EA42 Vanity]Vanity looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Where do you think those comets are going?
+[EA42 Vanity]Vanity says she's having trouble dealing with the young players. Let's give her an answer.
+	Yeah, I mean they could get hurt.
+[EA42 Vanity]Vanity wants to know what the Swirlies really are. Give her an answer.
+	I'm planning to make a whole line of merchandise with them as the character.
+[EA42 Vanity]Vanity is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	Life is a light of its own.
+[EA42 Vanity]Vanity says she was cornered by the team which was devastated by the loss streak.
+	Just hear them out and smile. They'll feel better.
+[EA42 Vanity]Vanity says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	I sense that there's something she hasn't told us yet...
+[EA42 Vanity]Vanity seems to get along with the opponent player. What should we tell her?
+	Congratulations! How did you guys get along?
+[EA42 Vanity]Vanity is deeply focused on Jill's diet story. What should we do?
+	You're playing soccer! You're fine!
+[EA42 Vanity]Vanity says she's going to meet up with Kiki and asks if you have any questions.
+	Tell her to be our lap cat.
+[EA42 Vanity]Kei and Virgil are fighting again and Vanity seems to be troubled. What should we do?
+	If you guys keep giving Vanity trouble, I swear to god I'll use you both as special training material.
+[EA42 Vanity]Vanity is having a delightful chat with a girl that's holding a turtle. 
+	She seems like a nice girl.
+[EA42 Vanity]Vanity went to take a look at the opponent team and got caught. What should we do?
+	Vanity is in danger! We have to save her!
+[EA42 Vanity]Vanity claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	She must've made a mistake.
+[EA42 Vanity]Vanity seems very nervous to confront Kei of the Rescuer.
+	We can do this! Let's go!
+[EA42 Vanity]Vanity says that the captain of team Scout Entry seems to take good care of the team members.
+	Yeah, they get along pretty well.
+[EA42 Vanity]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Vanity hands you a present.
+	(A cute and pretty pendant)
+[EA42 Vanity]Vanity says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	I think she likes him.
 
 [EA43 Haru]The team made it up to the semi-finals after counting the goal differences. Haru asks how you feel. How should we answer?
 	What, are you expecting something like ''I feel like I'm in heaven'' or something?
@@ -14142,6 +14306,88 @@
 	Your spirit is an inspiration to us all.
 [Linmay]A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Linmay about what to do.
 	Let's go visit her. Some fun won't do any harm. It might even cheer her up!
+
+[Loki]The team made it up to the semi-finals after counting the goal differences. Loki asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I'm in heaven'' or something?
+[Loki]Loki suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Loki]Loki is saying that his teammates are what keeps him going.
+	(Just nod your head.)
+[Loki]Loki has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Loki]As Loki said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	I feel like the universe is heading towards chaos.
+[Loki]The crowd is cheering for Loki. Loki seems to find this situation new and a bit uncomfortable. Let's help him out.
+	How about just accepting the compliments for today?
+[Loki]Loki is impressed by the help he received from the elementals. Let's talk to him.
+	The only problem is that they take up a lot of space in the inventory.
+[Loki]Loki was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Loki]The team will not have a match for some time. Loki asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Loki]It's a very intense match and Loki falls on the ground, but a player on the other team helps Loki up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Loki]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Loki]You're walking in a narrow ally and come across Loki having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Loki]Loki is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	I hope this won't affect your performance on the field.
+[Loki]Loki scored a hat trick and led the team to a complete victory! Congratulate him!
+	That was awesome! I'm looking forward to seeing more of that!
+[Loki]A player on the other side is on the field with his arms tied up. Let's talk about this with Loki.
+	He still has his two legs functioning. I see no problem with that.
+[Loki]Loki falls to the ground after clashing with the opponent. What should we say to him?
+	If that's all you've got, just stay down. It's okay.
+[Loki]Loki lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Loki]You come across Sammy while walking the street with Loki. Let's talk to her.
+	(Ignore.)
+[Loki]Lynia is cleaning the streets with the members of Jeneva Crew. Loki is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Loki]Loki brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
+
+[Loki]Loki is looking excited and asks how the match went.
+	The other team went home crying!
+[Loki]This was the worst game in your entire life...Loki comes to you to cheer you up.
+	Thanks...I know you're the one that's the most devastated...Let's do better next time.
+[Loki]You're talking to Loki about what you would do if the world ends tomorrow. Let's tell him your answer.
+	Hmm, there's a guy I'd like to beat up before I die.
+[Loki]Loki is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to him.
+	It's only a sport! The strongest team wins, and we are strong!
+[Loki]Loki is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give him some advice.
+	Make the scouters fall in love with your performance!
+[Loki]Loki isn't pleased with the team's recent plays. He feels that the plays have become somewhat repetitive and dull.
+	We may have to go rough on the team and make them realize the problem.
+[Loki]With back to back matches, the team is exhausted. Let's talk to Loki for solutions.
+	We won't be able to win the league if we fail to overcome this. 
+[Loki]The team manager ran away with all of the team's money. What should we do?
+	We're going to hunt that manager down and take back our money. We will show no mercy!
+[Loki]You were taking a walk in the Nadir forest with Loki and came across Enthia standing in the middle of a burnt part of the forest. 
+	There's no time for tears! Find out who did this and bring justice!
+[Loki]Nari is dancing and singing a song about the galaxy.
+	The stage is so majestic! It's awesome!
+[Loki]According to Loki's words, Tyler went to school 1 year earlier than William.
+	William doesn't know how to respect his seniors.
+[Loki]Loki thinks he knows who Lynbell's brother is. What should we do?
+	...Sometimes, the truth is better to be left a secret.
+[Loki]Loki won a trip around the world from a radio event!
+	What about soccer? You'll have to go through me to go on that trip!
+[Loki]Loki suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+	This is a good chance to show the baby angels how rough soccer can be!
+[Loki]The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+	Care to receive the ball with your face?
+[Loki]You're sick and in bed when Loki and the teammates come to cheer you up. What will your response be?
+	You guys...I'm about to cry...
+[Loki]The match and the concert that Loki was looking for start at the same time...
+	Channel that sorrow and rage towards your opponents and make them pay.
+[Loki]Loki wonders why Castor twitches whenever he sees Beatrice.
+	Maybe he just wants to duke it out.
+[Loki]MX54 Butcher is closing in on a cat with a suspicious smile.
+	Stop right there!
+[Loki]The match started and Loki is standing still doing nothing.
+	Run! Just start running!
 
 [Loyce]The team made it up to the semi-finals after counting the goal differences. Loyce asks how you feel. How should we answer?
 	This is where things get serious. We're going for the win!
