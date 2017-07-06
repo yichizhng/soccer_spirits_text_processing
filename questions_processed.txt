@@ -24803,6 +24803,88 @@
 [Swimsuit Qiyou]Swimsuit Qiyou is thinking about what the Universe of Oblivion is.
 	Don't be scared about such petty things.
 
+[Taehoon]Still looking pretty heated up by the match, Taehoon is asking how he did in the match.
+	You bring the best out of the team. Good work!
+[Taehoon]Taehoon looks excited as he's talking with the team about pets. He turns around and asks you what kind of pet you like.
+	I think that a baby duck following its mother is one of the most adorable things to watch.
+[Taehoon]You come across Taehoon thinking about the value of soccer. What should we tell him?
+	The field is a ground of hopes and dreams. Isn't that enough?
+[Taehoon]Taehoon is having trouble focusing on the match because of the affectionate emotion he feels. He says he must leave now to propose to his lover. What should we say?
+	Think about your teammates that are counting on you.
+[Taehoon]Taehoon blushes up and tells you that he's happy he can play soccer with you. What should we tell him?
+	Me too. You're a good leader.
+[Taehoon]Taehoon is asking for special training sessions because he's not satisfied with today's performance. What should we tell him?
+	If that's your wish.
+[Taehoon]Taehoon did his best, but he failed to achieve the results he wanted and looks sad. We should say something to him.
+	It's experiences like this that bonds us together.
+[Taehoon]Taehoon is asking you about what you like besides soccer.
+	I like board games about war. I admire famous commanders.
+[Taehoon]Taehoon feels his heart races when he sees Littre.
+	...Do you want a Superb Power-up?
+[Taehoon]Kuma is caught sneaking in the woman's locker room once again. We should talk with Taehoon about what to do with him.
+	I'm not sure if it's safe, but we can use him for leveling up.
+[Taehoon]Taehoon continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Make a strategic decision.)
+[Taehoon]Taehoon is being annoying with his offensive words. What should we do?
+	(Kick him out of the team if things can't be handled.)
+[Taehoon]It's dinner time and Taehoon is staring at his carrot soup with a troubled look. What should we do?
+	(Tell him that carrots are good for the body and to eat it all.)
+[Taehoon]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Taehoon to do?
+	They all need scolding.
+[Taehoon]Taehoon says that the soup tastes funny. What should we do?
+	Let's stay away from the soup, just in case.
+[Taehoon]Taehoon is furious about the referee that's clearly favoring the other team. Should we stop him?
+	Ignore the referee. Focus on the match.
+[Taehoon]It suddenly began to rain heavily. You see Taehoon running up ahead.
+	(Catch up and share your umbrella.)
+[Taehoon]You witnessed a player on the other side putting a tack in Taehoon's shoe.
+	(Remove the tack and tell the manager on the other team.)
+[Taehoon]During the team meeting, you find a player sleeping. What should you do?
+	(Wake the player up and continue with the meeting.)
+[Taehoon]Taehoon hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
+	Don't push yourself too hard. There are a lot of matches left.
+
+[Taehoon]The team made it up to the semi-finals after counting the goal differences. Taehoon asks how you feel. How should we answer?
+	This is where things get serious. We're going for the win!
+[Taehoon]Taehoon suggests that we have a team dinner to lighten things up. What will be your reaction?
+	Good idea. Let's go eat some meat!
+[Taehoon]Taehoon is saying that his teammates are what keeps him going.
+	(Put your thumbs up, wink, and send a juicy smile.)
+[Taehoon]Taehoon has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	Your attacks are so strong the opponents can't handle it. You should keep that going.
+[Taehoon]As Taehoon said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	It's not the Galaxy League. We are the ones that are leading the fate of this universe.
+[Taehoon]The crowd is cheering for Taehoon. Taehoon seems to find this situation new and a bit uncomfortable. Let's help him out.
+	They're all in love with your enthusiastic play.
+[Taehoon]Taehoon is impressed by the help he received from the elementals. Let's talk to him.
+	I feel like the whole universe is cheering for us when we're with the elementals!
+[Taehoon]Taehoon was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	We can play soccer with the penguins!
+[Taehoon]The team will not have a match for some time. Taehoon asks you about your plan.
+	We could ask one of the top teams for a friendly match.
+[Taehoon]It's a very intense match and Taehoon falls on the ground, but a player on the other team helps Taehoon up and the two exchange smiles.
+	True sportsmanship! Wonderful!
+[Taehoon]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	It would be rude to them if we don't do our best.
+[Taehoon]You're walking in a narrow ally and come across Taehoon having an intense staring contest with the captain of the opposing team. What should we say?
+	Save the energy for the match.
+[Taehoon]Taehoon is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	The fans love your performance!
+[Taehoon]Taehoon scored a hat trick and led the team to a complete victory! Congratulate him!
+	You're starting to show the world your true potential! I'm impressed!
+[Taehoon]A player on the other side is on the field with his arms tied up. Let's talk about this with Taehoon.
+	I feel like he's mocking us!
+[Taehoon]Taehoon falls to the ground after clashing with the opponent. What should we say to him?
+	Get up! The game's not over! You better not give up!
+[Taehoon]Taehoon lost to the opponent and fell to the ground. What should we do?
+	I will avenge you!
+[Taehoon]You come across Sammy while walking the street with Taehoon. Let's talk to her.
+	We'll win next time!
+[Taehoon]Lynia is cleaning the streets with the members of Jeneva Crew. Taehoon is curious and wants to take a look.
+	Let's go help them!
+[Taehoon]Taehoon brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Drink it up!
+
 [Tarsilla]The team made it up to the semi-finals after counting the goal differences. Tarsilla asks how you feel. How should we answer?
 	Wow. I'm sooooo happy.
 [Tarsilla]Tarsilla suggests that we have a team dinner to lighten things up. What will be your reaction?

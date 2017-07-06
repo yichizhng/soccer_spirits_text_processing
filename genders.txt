@@ -2058,3 +2058,5 @@ EA42 Vanity
 Female
 Danbi
 Male
+Taehoon
+Male
