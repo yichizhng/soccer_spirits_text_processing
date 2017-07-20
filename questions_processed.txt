@@ -12913,6 +12913,88 @@
 [Kri'Veya]Kri'Veya says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
+[Krishna]Still looking pretty heated up by the match, Krishna is asking how she did in the match.
+	You were picking the other team apart! It was awesome!
+[Krishna]Krishna looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
+	I like puppies. The loyal ones!
+[Krishna]You come across Krishna thinking about the value of soccer. What should we tell her?
+	I feel something when I overpower my opponents on the field.
+[Krishna]Krishna is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?
+	You don't need to be the one being dragged around.
+[Krishna]Krishna blushes up and tells you that she's happy she can play soccer with you. What should we tell her?
+	*Smiles bitterly*
+[Krishna]Krishna is asking for special training sessions because she's not satisfied with today's performance. What should we tell her?
+	Sure. Let's get on to it.
+[Krishna]Krishna did her best, but she failed to achieve the results she wanted and looks sad. We should say something to her.
+	Sorry, I feel that this is on me.
+[Krishna]Krishna is asking you about what you like besides soccer.
+	Rugby, a sport of strength!
+[Krishna]Krishna feels her heart races when she sees Littre.
+	...That's not a rabbit.
+[Krishna]Kuma is caught sneaking in the woman's locker room once again. We should talk with Krishna about what to do with him.
+	Let's make him put on Ogre's underwear.
+[Krishna]Krishna continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Guide her by kicking the ball toward the weak link in the opponent's defense.)
+[Krishna]Krishna is being annoying with her offensive words. What should we do?
+	(Ignore it.)
+[Krishna]It's dinner time and Krishna is staring at her carrot soup with a troubled look. What should we do?
+	(Eat it instead of her.)
+[Krishna]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Krishna to do?
+	Wake them up. Kick them if you need to.
+[Krishna]Krishna says that the soup tastes funny. What should we do?
+	We shouldn't throw away food. Let's give it to somebody else.
+[Krishna]Krishna is furious about the referee that's clearly favoring the other team. Should we stop her?
+	(Step on the referee's foot and pretend it was an accident.)
+[Krishna]It suddenly began to rain heavily. You see Krishna running up ahead.
+	(Let her steal your umbrella.)
+[Krishna]You witnessed a player on the other side putting a tack in Krishna's shoe.
+	(Tell Krishna who did this.)
+[Krishna]During the team meeting, you find a player sleeping. What should you do?
+	(Leave it to Krishna.)
+[Krishna]Krishna hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
+	Okay. You make them pay, understand?
+
+[Krishna]You come across Krishna, who was overwhelmed by her opponent throughout the game. Let's cheer her up.
+	I'm proud that you played your game and didn't descend to the opponent's level.
+[Krishna]Krishna is complaining about a teammate and is asking for your opinion.
+	If you're better than your teammates, you should be the one to be considerate.
+[Krishna]Krishna, who is always suspicious of you, has you in the corner and is demanding that you reveal who you really are. What should we answer?
+	Just playing soccer, that's all.
+[Krishna]Krishna says to you that it was an honor to be able to play with you. Let's give her an answer.
+	I'm starting to enjoy playing with you.
+[Krishna]You're having a conversation with Krishna about the power of Spirit Stones which is covered in secrets. Let's tell her what you think.
+	I need a Spirit Stone that's as fancy as I am.
+[Krishna]Krishna is yelling, ''Our will for soccer is guiding us to victory!''
+	Let's do this! I'm at your disposal!
+[Krishna]Let's talk to Krishna who recently started to take interest in the world of angels.
+	I hope it's not a boring place.
+[Krishna]Krishna is asking you if you ever saw the World Tree. Let's tell her your thoughts.
+	Let's not talk about anything irrelevant to the match.
+[Krishna]The teammates are speaking highly of Krishna, saying she's a good role model. Let's add in.
+	She shows dominance with elegance.
+[Krishna]You visit the practice field of your next opponent and feel very sorry about their not-so-good financial situation. What should we do?
+	I'm considering making an anonymous donation.
+[Krishna]Your team seems to be too worried about the next match against the all stars of Minerva. Krishna wants to say a word.
+	Get yourselves together, guys. Are you going to give up already?
+[Krishna]You're at the Underground to enter a wager match, but you find people who are playing a friendly match.
+	It's sort of an obligation for first class athletes like me to mingle with the community.
+[Krishna]Half of your team is injured because of an evil plot of your next opponent. What should we do?
+	Pathetic. We'll show them that we're better in many ways.
+[Krishna]The representative of the refugees of Karladure is pleading you to throw the next match because Guinevere, who is providing them economic support, is playing for your next opponent. What should we say?
+	A square match is what suites a proud royalty.
+[Krishna]Krishna points out that the time the men of Minerva died and the time the epidemic broke out in Metro City matches.
+	It would disgust me if that was the result of an evil plot.
+[Krishna]Mortor and Wizol of the Peacemakers are helping an old man. Krishna seems to be surprised.
+	It's good to know that they're not shallow people.
+[Krishna]A big fight broke out between an angel and a demon within the team. Krishna is asking for help.
+	I'm going to pick sides of the one I like.
+[Krishna]Cracsus threatens to hack Krishna's personal information and reveal it to the world. What should we do?
+	[+1]Don't fall for this cheap shot.
+[Krishna]Krishna is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
+	It's not good to just believe what others say.
+[Krishna]Krishna is thinking about what the Universe of Oblivion is.
+	Don't be scared about such petty things.
+
 [Kyoko]Still looking pretty heated up by the match, Kyoko is asking how she did in the match.
 	You were picking the other team apart! It was awesome!
 [Kyoko]Kyoko looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
