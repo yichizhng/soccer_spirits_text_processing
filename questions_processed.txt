@@ -4918,6 +4918,88 @@
 [Cyril]Cyril brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	Drink it up!
 
+[Czerny]Czerny is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Czerny]Czerny is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Czerny]Czerny wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Czerny]Czerny is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Czerny]Czerny is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Czerny]Czerny is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Czerny]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Czerny]Czerny says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Czerny]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Czerny]Czerny seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Czerny]Ogre's pony tail slapped Czerny in the face!
+	That must hurt.
+[Czerny]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Czerny]Czerny is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Czerny]Czerny says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Czerny]Czerny says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Czerny]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Czerny]Czerny picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Czerny]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Czerny]Czerny is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Czerny]Czerny thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Czerny]You find Czerny depressed for not playing well during the match. Let's cheer her up.
+	You did well and I thank you for that.
+[Czerny]Czerny is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+[Czerny]You come across Czerny being lost and wandering around while going back to the lodging. Let's talk to her.
+	Are you feeling alright?
+[Czerny]Czerny is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	I was always looking forward for that moment.
+[Czerny]Czerny is having trouble with continuing nightmares. Let's talk to her.
+	It's just a dream. Forget about it.
+[Czerny]Czerny is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+[Czerny]Czerny seems to be satisfied with the perfect team work. Let's talk to her.
+	I'm starting to see true strength in this team.
+[Czerny]You come across Czerny who is limping. She says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+[Czerny]You visit Marilyn's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+[Czerny]You're watching the storm with Czerny and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+[Czerny]Czerny looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+[Czerny]Czerny's opponent is smiling whenever they confront each other on the field. Czerny seems to be nervous. Let's talk to her.
+	That player is just messing with you.
+[Czerny]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Czerny.
+	Maybe he got embarrassed for being obsessed with his past?
+[Czerny]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+[Czerny]The game ended as a tie, but it seems that the competition between Czerny and her opponent isn't over yet.
+	You better win that fight!
+[Czerny]The team will be cleaning up the lodging. What will you have Czerny do?
+	(Let her take some of the team members and allow them to clean freely.)
+[Czerny]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+[Czerny]A player on the other team says soccer became enjoyable after confronting Czerny. What should you say?
+	Well, Czerny does have that kind of charm.
+[Czerny]Czerny is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+[Czerny]Latios is chatting with Czerny after the match. Let's barge in.
+	I'm looking forward to our next match!
+
 [DU007 Nute]Nute is asking about the team's goal of this season. What should you tell her?
 	To win all the way, of course.
 [DU007 Nute]Nute is asking about my ideal type of person. Should be careful about answering this...
@@ -12831,6 +12913,88 @@
 [Kirin]Kirin says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
 	Maybe she's up to something.
 
+[Kirna]Kirna is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Kirna]Kirna is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Kirna]Kirna wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Kirna]Kirna is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Kirna]Kirna is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Kirna]Kirna is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Kirna]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Kirna]Kirna says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Kirna]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Kirna]Kirna seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Kirna]Ogre's pony tail slapped Kirna in the face!
+	That must hurt.
+[Kirna]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Kirna]Kirna is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Kirna]Kirna says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Kirna]Kirna says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Kirna]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Kirna]Kirna picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Kirna]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Kirna]Kirna is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Kirna]Kirna thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Kirna]Kirna seems to be lost after having a good match while her fortune-telling said things would go wrong. Let's talk to her.
+	Game results aren't that simple to be predicted by fortune-telling.
+[Kirna]With a serious face, Kirna is asking what the true meaning of competition is. Let's give her an answer.
+	Being together is enough for me.
+[Kirna]Kirna came to you after the match, and says she's disappointed at the team's boring strategy. What should we say?
+	I'm disappointed, too. Let's start over.
+[Kirna]Kirna is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.
+	Even if they're not on the field with us, we're fighting as one. Right?
+[Kirna]The team is having a good run and Kirna is sure that winning the League is a matter of time.
+	Let's keep this momentum going!
+[Kirna]Kirna seems to be very confused of how a small soccer ball can change the fate of the universe.
+	Let's open up a bright future with this ball.
+[Kirna]Kirna seems to be upset about losing a body check against her opponent.
+	Don't be weak.
+[Kirna]Kirna is asking what the conditions of a team ace are with a serious face. Let's talk with her.
+	Just act like yourself. You're already the ace.
+[Kirna]Kirna is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.
+	Well, I have no problem with it as long as it functions as a soccer ball.
+[Kirna]Kirna plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.
+	I don't care what I do after the League as long as I get to continue playing soccer.
+[Kirna]It's a hard match and your team is losing. Talk with Kirna and talk about what to do.
+	We can't give up here. There's still a chance to win this.
+[Kirna]Kirna seems to be lost. She says she no longer hates the rival team.
+	I guess that's natural. The matches against them were great. 
+[Kirna]You were enjoying the peaceful day on Earth until the Peacemakers suddenly showed up. At that moment, the Magical Girl Elements came to save the day!
+	...Uh...So no soccer?
+[Kirna]Vitos suddenly laughs in joy during the match against the Empire. Why?
+	The emperor of demons is also enjoying this match!
+[Kirna]Kirna's form has been improving rapidly. She says she can't wait for the next match. What should we say to her?
+	Remember that feeling and use it when things get tough.
+[Kirna]During a match, Kirna bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?
+	It's something that happened during the match. Don't be so hard on yourself.
+[Kirna]Kirna is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to her.
+	It's the consequences of your actions. Accept it.
+[Kirna]You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.
+	I think it's a nice way to cherish the memories of the lost.
+[Kirna]Kirna is suddenly taking interest in who Shootmeister actually is. What should we say?
+	I can tell that he's a very diligent person that always tries his best.
+[Kirna]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Kirna is starting to get intimidated.
+	Okay, it's time we take this match seriously.
+
 [Kri'Veya]Kri'Veya is worried about the team's poor performance. Let's go talk to her.
 	Everybody is not at 100%. But, I think we'll do better sooner or later.
 [Kri'Veya]Kri'Veya is curious about the Galaxy League. What answer will help her?
@@ -15044,6 +15208,88 @@
 	Excuse me, but do you have an appointment with that cat?
 [Luna]The match started and Luna is standing still doing nothing.
 	Looks like we'll have to do without her.
+
+[Luphia]Luphia is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Luphia]Luphia is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Luphia]Luphia wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Luphia]Luphia is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Luphia]Luphia is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Luphia]Luphia is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Luphia]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Luphia]Luphia says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Luphia]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Luphia]Luphia seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Luphia]Ogre's pony tail slapped Luphia in the face!
+	That must hurt.
+[Luphia]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Luphia]Luphia is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Luphia]Luphia says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Luphia]Luphia says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Luphia]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Luphia]Luphia picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Luphia]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Luphia]Luphia is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Luphia]Luphia thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Luphia]Luphia says she's the center of the team and asks if you agree with her. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+[Luphia]Luphia asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I'm going to make a joke before I start crying!
+[Luphia]Luphia is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+[Luphia]Luphia looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Do you think any of those comets are populated?
+[Luphia]Luphia says she's having trouble dealing with the young players. Let's give her an answer.
+	Teach them how adults play soccer.
+[Luphia]Luphia wants to know what the Swirlies really are. Give her an answer.
+	Beginner level monsters in an RPG game.
+[Luphia]Luphia is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	That's deep. I think it's cool.
+[Luphia]Luphia says she was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+[Luphia]Luphia says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+[Luphia]Luphia seems to get along with the opponent player. What should we tell her?
+	Don't forget that we exist! Haha!
+[Luphia]Luphia is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+[Luphia]Luphia says she's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+[Luphia]Kei and Virgil are fighting again and Luphia seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+[Luphia]Luphia is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+[Luphia]Luphia went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of her when she comes back.
+[Luphia]Luphia claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+[Luphia]Luphia seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+[Luphia]Luphia says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+[Luphia]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Luphia hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+[Luphia]Luphia says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	Maybe she's up to something.
 
 [Luri]Luri says she's the center of the team and asks if you agree with her. How should we answer?
 	Of course! Everybody is counting on you!
@@ -19636,6 +19882,88 @@
 	Your spirit is an inspiration to us all.
 [Noa]A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Noa about what to do.
 	Let's go visit her. Some fun won't do any harm. It might even cheer her up!
+
+[Odin]Odin is asking about the team's goal of this season. What should you tell her?
+	Best of 4 should be our goal.
+[Odin]Odin is asking about my ideal type of person. Should be careful about answering this...
+	I think that being able to understand each other is the most important.
+[Odin]Odin seems to be thinking that the team has already become the best in the universe. She seems a bit too carried away. What should you do?
+	It's within our grasp.
+[Odin]Odin is arrogantly looking down at the other team. Let's stop her from causing any problems.
+	The honor of our opponent is also important.
+[Odin]Does one have to make intentional fouls in order to win? Let's give her some advice.
+	Be true to yourself.
+[Odin]Odin is having trouble deciding a name for her special move. Her options are ''Infinity Illusion Shot'', ''11th Dimension Ultra Gravity Shot'', ''Astral Space Shot'', and a few more.
+	I'm sure you're going to become an intergalactic fool.
+[Odin]Odin is all alone in the locker room worrying about the fate of the universe. Let's go talk to her.
+	We must have faith in the Gate Keepers and win the Galaxy League.
+[Odin]Odin is making a scene. She'd rather jump into space than to be eaten alive by vicious aliens.
+	Are you giving up before putting up a fight?
+[Odin]Odin is blaming the team for their pass mistakes and is questioning their soccer skills.
+	This needs to be analyzed and fixed. Can you help me?
+[Odin]Odin is complaining that it's boring to play only soccer every day. What should we say to her?
+	No, it's not boring.
+[Odin]It's before the 2nd half, and Odin is complaining that we're up against an opponent that's too strong.
+	Don't give up until the end.
+[Odin]You forgot to lock Odin and almost used her as training material! She looks very upset!
+	It's my fault.
+[Odin]Odin is confused that she won the MVP. What should you tell her?
+	You deserve it. Well done!
+[Odin]Odin is talking with the team about what they would be doing if they didn't start soccer. Let's join them.
+	I would've been doing something to save the universe.
+[Odin]The team is saying bad things about Odin for skipping practice. Time to intervene.
+	Do you really think that she would skip practice?
+[Odin]Odin is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+	I can feel the strength of that majestic creature.
+[Odin]Odin seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
+	Let's go look for her.
+[Odin]On a day off, Odin is looking at a passing couple with jealous eyes.
+	I'd love to have a stable job first.
+[Odin]Odin is asking you about the one thing you want the most in the universe. What do you tell him?
+	(I just don't want to waste a single day in my life.)
+[Odin]There's been a mistake. The team's uniform is mixed up with the festival costumes. What should you tell the team?
+	Let's split up and find the uniforms.
+
+[Odin]Still looking pretty heated up by the match, Odin is asking how she did in the match.
+	You bring the best out of the team. Good work!
+[Odin]Odin looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
+	I think that a baby duck following its mother is one of the most adorable things to watch.
+[Odin]You come across Odin thinking about the value of soccer. What should we tell her?
+	The field is a ground of hopes and dreams. Isn't that enough?
+[Odin]Odin is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?
+	Think about your teammates that are counting on you.
+[Odin]Odin blushes up and tells you that she's happy she can play soccer with you. What should we tell her?
+	Me too. You're a good leader.
+[Odin]Odin is asking for special training sessions because she's not satisfied with today's performance. What should we tell her?
+	If that's your wish.
+[Odin]Odin did her best, but she failed to achieve the results she wanted and looks sad. We should say something to her.
+	It's experiences like this that bonds us together.
+[Odin]Odin is asking you about what you like besides soccer.
+	I like board games about war. I admire famous commanders.
+[Odin]Odin feels her heart races when she sees Littre.
+	...Do you want a Superb Power-up?
+[Odin]Kuma is caught sneaking in the woman's locker room once again. We should talk with Odin about what to do with him.
+	I'm not sure if it's safe, but we can use him for leveling up.
+[Odin]Odin continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Make a strategic decision.)
+[Odin]Odin is being annoying with her offensive words. What should we do?
+	(Kick her out of the team if things can't be handled.)
+[Odin]It's dinner time and Odin is staring at her carrot soup with a troubled look. What should we do?
+	(Tell her that carrots are good for the body and to eat it all.)
+[Odin]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Odin to do?
+	They all need scolding.
+[Odin]Odin says that the soup tastes funny. What should we do?
+	Let's stay away from the soup, just in case.
+[Odin]Odin is furious about the referee that's clearly favoring the other team. Should we stop her?
+	Ignore the referee. Focus on the match.
+[Odin]It suddenly began to rain heavily. You see Odin running up ahead.
+	(Catch up and share your umbrella.)
+[Odin]You witnessed a player on the other side putting a tack in Odin's shoe.
+	(Remove the tack and tell the manager on the other team.)
+[Odin]During the team meeting, you find a player sleeping. What should you do?
+	(Wake the player up and continue with the meeting.)
+[Odin]Odin hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
+	Don't push yourself too hard. There are a lot of matches left.
 
 [Ogre]Ogre is worried about the team's poor performance. Let's go talk to him.
 	Everybody is not at 100%. But, I think we'll do better sooner or later.
@@ -25048,6 +25376,88 @@
 	Let's go help them!
 [Taehoon]Taehoon brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
 	Drink it up!
+
+[Tari]Tari is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Tari]Tari is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Tari]Tari wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Tari]Tari is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Tari]Tari is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Tari]Tari is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Tari]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Tari]Tari says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Tari]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Tari]Tari seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Tari]Ogre's pony tail slapped Tari in the face!
+	That must hurt.
+[Tari]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Tari]Tari is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Tari]Tari says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Tari]Tari says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Tari]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Tari]Tari picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Tari]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Tari]Tari is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Tari]Tari thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Tari]Tari is asking about what's the most important condition in winning today's match. Let's give her an answer.
+	What could it be? Money? Luck? Weather? Hmm? What?
+[Tari]Tari, who is determined to make everything in her life, even her dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
+	I've been chased by a soccer ball monster in my dreams. It was terrifying.
+[Tari]Tari announces that she will become an influential player that changes the league completely. Let's give her an answer.
+	You'll have to compete with me!
+[Tari]Tari is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to her?
+	Come on, cheer up. You're not being yourself.
+[Tari]Tari wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
+	It'll be pretty exciting if we could stay the same even after 10 years.
+[Tari]It seems that Tari is lost in the Nadir forest. What should we do?
+	Listen carefully and you'll find her.
+[Tari]You find Tari lurking around the food corner at the shopping center. What should we say?
+	Stop wandering around the kids snack corner!
+[Tari]Tari says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
+	Hmm? That is odd...What do you think about this?
+[Tari]A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?
+	I'll tackle him down! Knock his lights out!
+[Tari]Tari wants the team to enter the Underground League on Earth. What should we do?
+	What about just watching?
+[Tari]Tari caught a player on the other team spying on your team's practice. What should we do?
+	You came to see my marvelous moves? I'm flattered. 
+[Tari]The middle fielder on the other team is too powerful. Let's give Tari some orders.
+	Pass? Shoot? Forfeit? Argh! Just make a run for it!
+[Tari]Something must have startled Beelzebub. He has entered the field and is making a scene.
+	Stop right there, pig!
+[Tari]You come across an opponent player limping, because of getting injured during a match against your team. Tari seems to be worried.
+	Let's just go. That player will also feel uncomfortable if we keep standing here.
+[Tari]Tari came back without a penny after marching into the Casino.
+	What happened to you? Do you want me to lend you some money?
+[Tari]James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.
+	...It's about to go down...! Where's the popcorn?
+[Tari]Tari is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
+	Who could've done such a hideous thing?
+[Tari]Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Tari seems to be sick of this.
+	Okay! Now I'll tell you all the good stuff about Tari!
+[Tari]Tari looks startled after learning the underworld actually exists.
+	How about we ask Jeunese?
+[Tari]The team is in a slump and you take the team out for refreshment. Talk with Tari to set some simple rules.
+	Come on, I'll show you the best spots around!
 
 [Tarsilla]The team made it up to the semi-finals after counting the goal differences. Tarsilla asks how you feel. How should we answer?
 	Wow. I'm sooooo happy.
