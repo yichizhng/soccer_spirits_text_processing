@@ -17013,6 +17013,88 @@
 [Melchior]Melchior says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
+[Melisa]Melisa is worried about the team's poor performance. Let's go talk to her.
+	We haven't awakened our TRUE powers! We have to go further beyond!
+[Melisa]Melisa is curious about the Galaxy League. What answer will help her?
+	It's the place where the chosen ones learn about their destiny.
+[Melisa]Melisa wants to hear about your plans on training the new players. What should we answer?
+	All goes as planned...Hmm? Just ignore that.
+[Melisa]Melisa is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	And that's how we walk towards our destiny.
+[Melisa]Melisa is asking what to buy in the souvenir shop. Let's give her an opinion.
+	This is your chance to buy the hottest fashion items in space!
+[Melisa]Melisa is asking who you think of first when you win a match. Let's answer.
+	My friends from previous life...They would be pleased to see me win.
+[Melisa]This match will be held on Earth. We still have some time. What do you want to do?
+	I'm going to check out the new comic issues. Wanna come along?
+[Melisa]Melisa says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	Hmm, a revived person that forgot his purpose...Reminds me of somebody.
+[Melisa]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	What a depressing weather...
+[Melisa]Melisa seems to be curious about Bora's covered eye. What should we answer?
+	That's a dangerous secret you're trying to find out about. Do you still want to know?
+[Melisa]Ogre's pony tail slapped Melisa in the face!
+	Even his hair is a weapon! Is that even allowed?
+[Melisa]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	I guess I finally get to meet my archnemesis.
+[Melisa]Melisa is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	I knew this day would come.
+[Melisa]Melisa says that the Swirlies are missing.
+	They were sacrificed as material for a greater cause.
+[Melisa]Melisa says she forgot to use her skill points before entering the match. What should we say to her?
+	You can only find your true potential when you don't rely on your skills!
+[Melisa]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	Fontus...You sure are my archnemesis!
+[Melisa]Melisa picked up a diary. It says Bell on the cover.
+	So, this is how the revelation begins!
+[Melisa]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	Come back Huginn! Wait, is it Muninn?
+[Melisa]Melisa is irritated because her opponent has the attribute advantage over her.
+	It's time, Melisa! Awaken the 6th attribute and show your true powers!
+[Melisa]Melisa thinks Nana on the other team actually isn't a raccoon.
+	That's because you haven't opened up your ''third eye''!
+
+[Melisa]Melisa is asking about what's the most important condition in winning today's match. Let's give her an answer.
+	What could it be? Money? Luck? Weather? Hmm? What?
+[Melisa]Melisa, who is determined to make everything in her life, even her dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
+	I've been chased by a soccer ball monster in my dreams. It was terrifying.
+[Melisa]Melisa announces that she will become an influential player that changes the league completely. Let's give her an answer.
+	You'll have to compete with me!
+[Melisa]Melisa is depressed thinking that winning the Galaxy League is a goal that can't be achieved. What should we say to her?
+	Come on, cheer up. You're not being yourself.
+[Melisa]Melisa wants to cherish every precious meeting with other people and beings. She wants to be good friends with everybody. Let's talk to her.
+	It'll be pretty exciting if we could stay the same even after 10 years.
+[Melisa]It seems that Melisa is lost in the Nadir forest. What should we do?
+	Listen carefully and you'll find her.
+[Melisa]You find Melisa lurking around the food corner at the shopping center. What should we say?
+	Stop wandering around the kids snack corner!
+[Melisa]Melisa says she doesn't understand why other angels are afraid of Uriel. She thinks Uriel is a very kind angel.
+	Hmm? That is odd...What do you think about this?
+[Melisa]A teammate is being stubborn about going out on the field while having a very severe fever. What should we do?
+	I'll tackle him down! Knock his lights out!
+[Melisa]Melisa wants the team to enter the Underground League on Earth. What should we do?
+	What about just watching?
+[Melisa]Melisa caught a player on the other team spying on your team's practice. What should we do?
+	You came to see my marvelous moves? I'm flattered. 
+[Melisa]The middle fielder on the other team is too powerful. Let's give Melisa some orders.
+	Pass? Shoot? Forfeit? Argh! Just make a run for it!
+[Melisa]Something must have startled Beelzebub. He has entered the field and is making a scene.
+	Stop right there, pig!
+[Melisa]You come across an opponent player limping, because of getting injured during a match against your team. Melisa seems to be worried.
+	Let's just go. That player will also feel uncomfortable if we keep standing here.
+[Melisa]Melisa came back without a penny after marching into the Casino.
+	What happened to you? Do you want me to lend you some money?
+[Melisa]James is fighting Akane after ambushing Yuri, and Bora is slowly making her approach from a distance.
+	...It's about to go down...! Where's the popcorn?
+[Melisa]Melisa is sad that the World Tree in Umbra has withered. What could we say to cheer her up?
+	Who could've done such a hideous thing?
+[Melisa]Mimi continues to praise Princess Meiran and it's likely that this isn't going to end any time soon. Melisa seems to be sick of this.
+	Okay! Now I'll tell you all the good stuff about Melisa!
+[Melisa]Melisa looks startled after learning the underworld actually exists.
+	How about we ask Jeunese?
+[Melisa]The team is in a slump and you take the team out for refreshment. Talk with Melisa to set some simple rules.
+	Come on, I'll show you the best spots around!
+
 [Metatron]Metatron is asking about what's the most important condition in winning today's match. Let's give her an answer.
 	We need a decent level of personal performance.
 [Metatron]Metatron, who is determined to make everything in her life, even her dreams, about soccer, asks you what it's like to dream about soccer. Let's think about it.
