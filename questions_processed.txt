@@ -438,7 +438,7 @@
 	Something full of excitement!
 [Ai]The team is saying bad things about Ai for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Ai]Ai is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Ai]Ai is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Ai]Ai seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -684,7 +684,7 @@
 	I would've been doing something to save the universe.
 [Akane]The team is saying bad things about Akane for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Akane]Akane is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Akane]Akane is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Akane]Akane seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -1627,7 +1627,7 @@
 	I would've tried to find something that fits me.
 [Armati]The team is saying bad things about Armati for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in her dictionary.
-[Armati]Armati is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Armati]Armati is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [Armati]Armati seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Everybody should grow up.
@@ -1996,7 +1996,7 @@
 	I would've tried to find something that fits me.
 [Azrael]The team is saying bad things about Azrael for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in her dictionary.
-[Azrael]Azrael is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Azrael]Azrael is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [Azrael]Azrael seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Everybody should grow up.
@@ -2775,7 +2775,7 @@
 	I would've been doing something to save the universe.
 [Black Horns]The team is saying bad things about Black Horns for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Black Horns]Black Horns is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Black Horns]Black Horns is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Black Horns]Black Horns seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -3390,7 +3390,7 @@
 	I would've been doing something to save the universe.
 [Brett]The team is saying bad things about Brett for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Brett]Brett is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Brett]Brett is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Brett]Brett seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -3472,7 +3472,7 @@
 	I would've been doing something to save the universe.
 [Cassiel]The team is saying bad things about Cassiel for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Cassiel]Cassiel is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Cassiel]Cassiel is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Cassiel]Cassiel seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -3554,7 +3554,7 @@
 	Something full of excitement!
 [Castor]The team is saying bad things about Castor for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Castor]Castor is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Castor]Castor is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Castor]Castor seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
@@ -4866,7 +4866,7 @@
 	I would've been doing something to save the universe.
 [Cyril]The team is saying bad things about Cyril for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Cyril]Cyril is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Cyril]Cyril is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Cyril]Cyril seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -5030,7 +5030,7 @@
 	Something full of excitement!
 [DU007 Nute]The team is saying bad things about Nute for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[DU007 Nute]Nute is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[DU007 Nute]Nute is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [DU007 Nute]Nute seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -5112,7 +5112,7 @@
 	I would've tried to find something that fits me.
 [Dale]The team is saying bad things about Dale for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in his dictionary.
-[Dale]Dale is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Dale]Dale is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [Dale]Dale seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Everybody should grow up.
@@ -5522,7 +5522,7 @@
 	I would've been doing something to save the universe.
 [Dochi]The team is saying bad things about Dochi for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Dochi]Dochi is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Dochi]Dochi is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Dochi]Dochi seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -5686,7 +5686,7 @@
 	I would've been doing something to save the universe.
 [Duke]The team is saying bad things about Duke for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Duke]Duke is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Duke]Duke is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Duke]Duke seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -6260,7 +6260,7 @@
 	I would've been doing something to save the universe.
 [EA08 Vayne]The team is saying bad things about Vayne for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[EA08 Vayne]Vayne is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[EA08 Vayne]Vayne is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [EA08 Vayne]Vayne seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -6424,7 +6424,7 @@
 	I would've tried to find something that fits me.
 [EA14 Ravi]The team is saying bad things about Ravi for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in her dictionary.
-[EA14 Ravi]Ravi is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[EA14 Ravi]Ravi is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [EA14 Ravi]Ravi seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Everybody should grow up.
@@ -7326,7 +7326,7 @@
 	I would've been doing something to save the universe.
 [Enthia]The team is saying bad things about Enthia for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Enthia]Enthia is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Enthia]Enthia is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Enthia]Enthia seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -9048,7 +9048,7 @@
 	I would've been doing something to save the universe.
 [Hamerus]The team is saying bad things about Hamerus for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Hamerus]Hamerus is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Hamerus]Hamerus is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Hamerus]Hamerus seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -9376,7 +9376,7 @@
 	Something full of excitement!
 [Hermod]The team is saying bad things about Hermod for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Hermod]Hermod is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Hermod]Hermod is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Hermod]Hermod seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -10032,7 +10032,7 @@
 	I would've tried to find something that fits me.
 [Iggy]The team is saying bad things about Iggy for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in her dictionary.
-[Iggy]Iggy is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Iggy]Iggy is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [Iggy]Iggy seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Everybody should grow up.
@@ -10114,7 +10114,7 @@
 	Something full of excitement!
 [Irin]The team is saying bad things about Irin for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Irin]Irin is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Irin]Irin is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Irin]Irin seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -10524,7 +10524,7 @@
 	I would've been doing something to save the universe.
 [Jacob]The team is saying bad things about Jacob for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Jacob]Jacob is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Jacob]Jacob is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Jacob]Jacob seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -10852,7 +10852,7 @@
 	Something full of excitement!
 [Jay]The team is saying bad things about Jay for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Jay]Jay is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Jay]Jay is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Jay]Jay seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -11672,7 +11672,7 @@
 	Something full of excitement!
 [Jill]The team is saying bad things about Jill for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Jill]Jill is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Jill]Jill is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Jill]Jill seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -12697,7 +12697,7 @@
 	I would've been doing something to save the universe.
 [Khirel]The team is saying bad things about Khirel for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Khirel]Khirel is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Khirel]Khirel is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Khirel]Khirel seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -14173,7 +14173,7 @@
 	Something full of excitement!
 [Lily]The team is saying bad things about Lily for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Lily]Lily is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Lily]Lily is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Lily]Lily seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -14419,7 +14419,7 @@
 	I would've been doing something to save the universe.
 [Lindsey]The team is saying bad things about Lindsey for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Lindsey]Lindsey is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Lindsey]Lindsey is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Lindsey]Lindsey seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -14993,7 +14993,7 @@
 	I would've been doing something to save the universe.
 [Lucius]The team is saying bad things about Lucius for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Lucius]Lucius is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Lucius]Lucius is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Lucius]Lucius seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -15537,6 +15537,88 @@
 [Lynia]The team is in a slump and you take the team out for refreshment. Talk with Lynia to set some simple rules.
 	Let's split up and meet back here for dinner. Tell everybody to enjoy their free time.
 
+[MP Dane]The team made it up to the semi-finals after counting the goal differences. Dane asks how you feel. How should we answer?
+	This is where things get serious. We're going for the win!
+[MP Dane]Dane suggests that we have a team dinner to lighten things up. What will be your reaction?
+	Good idea. Let's go eat some meat!
+[MP Dane]Dane is saying that his teammates are what keeps him going.
+	(Put your thumbs up, wink, and send a juicy smile.)
+[MP Dane]Dane has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	Your attacks are so strong the opponents can't handle it. You should keep that going.
+[MP Dane]As Dane said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	It's not the Galaxy League. We are the ones that are leading the fate of this universe.
+[MP Dane]The crowd is cheering for Dane. Dane seems to find this situation new and a bit uncomfortable. Let's help him out.
+	They're all in love with your enthusiastic play.
+[MP Dane]Dane is impressed by the help he received from the elementals. Let's talk to him.
+	I feel like the whole universe is cheering for us when we're with the elementals!
+[MP Dane]Dane was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	We can play soccer with the penguins!
+[MP Dane]The team will not have a match for some time. Dane asks you about your plan.
+	We could ask one of the top teams for a friendly match.
+[MP Dane]It's a very intense match and Dane falls on the ground, but a player on the other team helps Dane up and the two exchange smiles.
+	True sportsmanship! Wonderful!
+[MP Dane]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	It would be rude to them if we don't do our best.
+[MP Dane]You're walking in a narrow ally and come across Dane having an intense staring contest with the captain of the opposing team. What should we say?
+	Save the energy for the match.
+[MP Dane]Dane is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	The fans love your performance!
+[MP Dane]Dane scored a hat trick and led the team to a complete victory! Congratulate him!
+	You're starting to show the world your true potential! I'm impressed!
+[MP Dane]A player on the other side is on the field with his arms tied up. Let's talk about this with Dane.
+	I feel like he's mocking us!
+[MP Dane]Dane falls to the ground after clashing with the opponent. What should we say to him?
+	Get up! The game's not over! You better not give up!
+[MP Dane]Dane lost to the opponent and fell to the ground. What should we do?
+	I will avenge you!
+[MP Dane]You come across Sammy while walking the street with Dane. Let's talk to her.
+	We'll win next time!
+[MP Dane]Lynia is cleaning the streets with the members of Jeneva Crew. Dane is curious and wants to take a look.
+	Let's go help them!
+[MP Dane]Dane brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Drink it up!
+
+[MP Dane]Dane is worried about the team's poor performance. Let's go talk to him.
+	We haven't awakened our TRUE powers! We have to go further beyond!
+[MP Dane]Dane is curious about the Galaxy League. What answer will help him?
+	It's the place where the chosen ones learn about their destiny.
+[MP Dane]Dane wants to hear about your plans on training the new players. What should we answer?
+	All goes as planned...Hmm? Just ignore that.
+[MP Dane]Dane is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	And that's how we walk towards our destiny.
+[MP Dane]Dane is asking what to buy in the souvenir shop. Let's give him an opinion.
+	This is your chance to buy the hottest fashion items in space!
+[MP Dane]Dane is asking who you think of first when you win a match. Let's answer.
+	My friends from previous life...They would be pleased to see me win.
+[MP Dane]This match will be held on Earth. We still have some time. What do you want to do?
+	I'm going to check out the new comic issues. Wanna come along?
+[MP Dane]Dane says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	Hmm, a revived person that forgot his purpose...Reminds me of somebody.
+[MP Dane]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	What a depressing weather...
+[MP Dane]Dane seems to be curious about Bora's covered eye. What should we answer?
+	That's a dangerous secret you're trying to find out about. Do you still want to know?
+[MP Dane]Ogre's pony tail slapped Dane in the face!
+	Even his hair is a weapon! Is that even allowed?
+[MP Dane]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	I guess I finally get to meet my archnemesis.
+[MP Dane]Dane is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	I knew this day would come.
+[MP Dane]Dane says that the Swirlies are missing.
+	They were sacrificed as material for a greater cause.
+[MP Dane]Dane says he forgot to use his skill points before entering the match. What should we say to him?
+	You can only find your true potential when you don't rely on your skills!
+[MP Dane]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	Fontus...You sure are my archnemesis!
+[MP Dane]Dane picked up a diary. It says Bell on the cover.
+	So, this is how the revelation begins!
+[MP Dane]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	Come back Huginn! Wait, is it Muninn?
+[MP Dane]Dane is irritated because his opponent has the attribute advantage over him.
+	It's time, Dane! Awaken the 6th attribute and show your true powers!
+[MP Dane]Dane thinks Nana on the other team actually isn't a raccoon.
+	That's because you haven't opened up your ''third eye''!
+
 [MX26 Kumi]Kumi is wondering why the team is doing so well recently. Pick an answer.
 	It's a result of team effort.
 [MX26 Kumi]After a meeting, Kumi's eyes met yours a several times and Kumi asks if she has something on her face.
@@ -15690,7 +15772,7 @@
 	I would've tried to find something that fits me.
 [MX27 Kainen]The team is saying bad things about Kainen for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in his dictionary.
-[MX27 Kainen]Kainen is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[MX27 Kainen]Kainen is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [MX27 Kainen]Kainen seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Everybody should grow up.
@@ -16633,7 +16715,7 @@
 	I would've been doing something to save the universe.
 [Mariel]The team is saying bad things about Mariel for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Mariel]Mariel is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Mariel]Mariel is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Mariel]Mariel seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -16797,7 +16879,7 @@
 	Something full of excitement!
 [May]The team is saying bad things about May for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[May]May is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[May]May is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [May]May seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -19544,7 +19626,7 @@
 	Something full of excitement!
 [Net]The team is saying bad things about Net for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Net]Net is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Net]Net is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Net]Net seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
@@ -19872,7 +19954,7 @@
 	I would've been doing something to save the universe.
 [Noa]The team is saying bad things about Noa for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Noa]Noa is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Noa]Noa is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Noa]Noa seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -19995,7 +20077,7 @@
 	I would've been doing something to save the universe.
 [Odin]The team is saying bad things about Odin for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Odin]Odin is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Odin]Odin is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Odin]Odin seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -20569,7 +20651,7 @@
 	Something full of excitement!
 [Pei Lin]The team is saying bad things about Pei Lin for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Pei Lin]Pei Lin is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Pei Lin]Pei Lin is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Pei Lin]Pei Lin seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -20651,7 +20733,7 @@
 	I would've tried to find something that fits me.
 [Phil]The team is saying bad things about Phil for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in his dictionary.
-[Phil]Phil is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Phil]Phil is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [Phil]Phil seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Everybody should grow up.
@@ -20897,7 +20979,7 @@
 	I would've been doing something to save the universe.
 [Princess Meiran]The team is saying bad things about Princess Meiran for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Princess Meiran]Princess Meiran is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Princess Meiran]Princess Meiran is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Princess Meiran]Princess Meiran seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -20979,7 +21061,7 @@
 	Something full of excitement!
 [Ralph]The team is saying bad things about Ralph for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Ralph]Ralph is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Ralph]Ralph is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Ralph]Ralph seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
@@ -21143,7 +21225,7 @@
 	I would've been doing something to save the universe.
 [Rasiel]The team is saying bad things about Rasiel for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Rasiel]Rasiel is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Rasiel]Rasiel is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Rasiel]Rasiel seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -22004,7 +22086,7 @@
 	Something full of excitement!
 [Rosaria]The team is saying bad things about Rosaria for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Rosaria]Rosaria is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Rosaria]Rosaria is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Rosaria]Rosaria seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -22086,7 +22168,7 @@
 	Something full of excitement!
 [Rosette]The team is saying bad things about Rosette for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Rosette]Rosette is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Rosette]Rosette is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Rosette]Rosette seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -22250,7 +22332,7 @@
 	Something full of excitement!
 [Rudy]The team is saying bad things about Rudy for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Rudy]Rudy is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Rudy]Rudy is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Rudy]Rudy seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -23439,7 +23521,7 @@
 	Something full of excitement!
 [Sean]The team is saying bad things about Sean for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Sean]Sean is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Sean]Sean is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Sean]Sean seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
@@ -24013,7 +24095,7 @@
 	Something full of excitement!
 [Shu]The team is saying bad things about Shu for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Shu]Shu is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Shu]Shu is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Shu]Shu seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
@@ -24997,7 +25079,7 @@
 	Something full of excitement!
 [Stella]The team is saying bad things about Stella for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Stella]Stella is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Stella]Stella is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Stella]Stella seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -25735,7 +25817,7 @@
 	I would've been doing something to save the universe.
 [Tersia]The team is saying bad things about Tersia for skipping practice. Time to intervene.
 	Do you really think that she would skip practice?
-[Tersia]Tersia is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Tersia]Tersia is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Tersia]Tersia seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Let's go look for her.
@@ -26719,7 +26801,7 @@
 	I would've been doing something to save the universe.
 [Valentine]The team is saying bad things about Valentine for skipping practice. Time to intervene.
 	Do you really think that he would skip practice?
-[Valentine]Valentine is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Valentine]Valentine is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I can feel the strength of that majestic creature.
 [Valentine]Valentine seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	Let's go look for him.
@@ -26965,7 +27047,7 @@
 	Something full of excitement!
 [Verister]The team is saying bad things about Verister for skipping practice. Time to intervene.
 	Her love towards soccer is real.
-[Verister]Verister is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Verister]Verister is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Verister]Verister seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	It'll be alright. Don't worry.
@@ -27826,7 +27908,7 @@
 	I would've tried to find something that fits me.
 [White Tiger]The team is saying bad things about White Tiger for skipping practice. Time to intervene.
 	Skipping practice isn't something that's in her dictionary.
-[White Tiger]White Tiger is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[White Tiger]White Tiger is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	Hmm...If only I could change the shape of the horns and the color of the scales. That'd be perfect.
 [White Tiger]White Tiger seems to be worried about one of the team members that left after a quarrel. Let's talk to her. 
 	Everybody should grow up.
@@ -27990,7 +28072,7 @@
 	Something full of excitement!
 [Wizol]The team is saying bad things about Wizol for skipping practice. Time to intervene.
 	His love towards soccer is real.
-[Wizol]Wizol is mesmerized by the majestic scenery of a dragon flying in the skies of the Iron Canyon.
+[Wizol]Wizol is mesmerized by the majestic scenery of a dragon flying in the skies of the Steel Canyon.
 	I want one of those. It'll be fun to have a pet dragon.
 [Wizol]Wizol seems to be worried about one of the team members that left after a quarrel. Let's talk to him. 
 	It'll be alright. Don't worry.
