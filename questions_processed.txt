@@ -2048,6 +2048,88 @@
 [Azrael]Azrael hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
 	Okay. You make them pay, understand?
 
+[Baldr]Baldr is worried about the team's poor performance. Let's go talk to him.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Baldr]Baldr is curious about the Galaxy League. What answer will help him?
+	It's the place of dreams colliding.
+[Baldr]Baldr wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Baldr]Baldr is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	Yeah, I understand you. Soccer is so much fun!
+[Baldr]Baldr is asking what to buy in the souvenir shop. Let's give him an opinion.
+	Gate Keeper dolls! Why not!
+[Baldr]Baldr is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Baldr]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Baldr]Baldr says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Baldr]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Baldr]Baldr seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Baldr]Ogre's pony tail slapped Baldr in the face!
+	That must hurt.
+[Baldr]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Baldr]Baldr is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Baldr]Baldr says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Baldr]Baldr says he forgot to use his skill points before entering the match. What should we say to him?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Baldr]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Baldr]Baldr picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Baldr]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Baldr]Baldr is irritated because his opponent has the attribute advantage over him.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Baldr]Baldr thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Baldr]Baldr is looking excited and asks how the match went.
+	They were a worthy opponent.
+[Baldr]This was the worst game in your entire life...Baldr comes to you to cheer you up.
+	Thanks. You always know how to get me back on my feet.
+[Baldr]You're talking to Baldr about what you would do if the world ends tomorrow. Let's tell him your answer.
+	I would say goodbye to all my friends.
+[Baldr]Baldr is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to him.
+	I'm sure everybody is feeling the same way you feel.
+[Baldr]Baldr is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give him some advice.
+	Let's make that our goal and make it happen.
+[Baldr]Baldr isn't pleased with the team's recent plays. He feels that the plays have become somewhat repetitive and dull.
+	Let's all talk together and figure out what the problem is.
+[Baldr]With back to back matches, the team is exhausted. Let's talk to Baldr for solutions.
+	I guess it's time the benchwarmers get a chance.
+[Baldr]The team manager ran away with all of the team's money. What should we do?
+	Let's ask for help to the League officials on this planet.
+[Baldr]You were taking a walk in the Nadir forest with Baldr and came across Enthia standing in the middle of a burnt part of the forest. 
+	Let's give her some space.
+[Baldr]Nari is dancing and singing a song about the galaxy.
+	This proves that even the aliens like Nari.
+[Baldr]According to Baldr's words, Tyler went to school 1 year earlier than William.
+	I thought they were just friends.
+[Baldr]Baldr thinks he knows who Lynbell's brother is. What should we do?
+	First, let's look for a way to bring him back to normal. 
+[Baldr]Baldr won a trip around the world from a radio event!
+	Hmm, come back to me with a vacation plan.
+[Baldr]Baldr suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+	That would be wonderful! I'll go ask for permission.
+[Baldr]The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+	Let's see what you have to say after the match.
+[Baldr]You're sick and in bed when Baldr and the teammates come to cheer you up. What will your response be?
+	I'm sorry...I should be giving you guys some tea or something, but...
+[Baldr]The match and the concert that Baldr was looking for start at the same time...
+	I'm sorry that you couldn't go.
+[Baldr]Baldr wonders why Castor twitches whenever he sees Beatrice.
+	Long ago, he was disgraceful towards a dragon emissary.
+[Baldr]MX54 Butcher is closing in on a cat with a suspicious smile.
+	Excuse me, but do you have an appointment with that cat?
+[Baldr]The match started and Baldr is standing still doing nothing.
+	Looks like we'll have to do without him.
+
 [Baltheon]The team made it up to the semi-finals after counting the goal differences. Baltheon asks how you feel. How should we answer?
 	What, are you expecting something like ''I feel like I'm in heaven'' or something?
 [Baltheon]Baltheon suggests that we have a team dinner to lighten things up. What will be your reaction?
@@ -10084,6 +10166,88 @@
 [Iggy]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Iggy is starting to get intimidated.
 	This is good. We can use this as a chance to break their back line.
 
+[Ignes]Ignes is wondering why the team is doing so well recently. Pick an answer.
+	It's a result of team effort.
+[Ignes]After a meeting, Ignes's eyes met yours a several times and Ignes asks if she has something on her face.
+	I was just thinking about how much you do for the team.
+[Ignes]With a serious look on her face, Ignes warns you to go to the bathroom before the match.
+	Bathroom...It is indeed a very important matter...
+[Ignes]Preparing for the press conference, you're talking with Ignes on which player you think has the brightest future. What will you say?
+	I can't pick just one...
+[Ignes]Ignes is worried that she has to face demons, black holes and other dangerous things. What should we tell her?
+	Makes it worth the challenge, don't you think so?
+[Ignes]Ignes is making a scene about the women's uniform and underwear disappearing. Let's talk to her.
+	I want you to form a team and catch every single bear near this locker room.
+[Ignes]Ignes is asking if you have a special person who you would like to share happy moments with. Let's give her an answer.
+	Every teammate there by my side on the field is special.
+[Ignes]You find Ignes being very excited after performing an awesome play. How will you react?
+	Now we're starting to look like a team!
+[Ignes]Ignes is having trouble focusing on the match. Let's help her out.
+	I'll teach you how to meditate to synchronize the breathing with other teammates.
+[Ignes]Ignes is questioning Kuma's status as a Gate Keeper.
+	I like how all of the Gate Keepers have different characteristics.
+[Ignes]Ignes doesn't like the new team advertisement video.
+	It didn't have to have the bench warmers in the video.
+[Ignes]It's Ignes's birthday. Let's give her a present.
+	Here! I made some cookies with the team.
+[Ignes]You see Ignes's opponent trash talking and smirking towards Ignes. What should we do?
+	Let's see how long they last. Come on guys!
+[Ignes]The team is going to go shop. Which group will you join?
+	I guess I can go to the soccer gear shop.
+[Ignes]You hear that the opponent team's ace, who is also Ignes's rival, has been severely injured and is in the hospital. What should you say to her?
+	Sorry for the bad news. Do you want to pay a visit?
+[Ignes]Ignes comes to you and says that she has to leave the team because of personal reasons. What should we say?
+	There will always be a place for you to return.
+[Ignes]Ignes is getting slow on the field and this is causing trouble. Let's talk with Ignes.
+	We can overcome this with team effort.
+[Ignes]Ignes is telling a story about how an old kingdom in Valhalla was doomed because of the king.
+	I'm sure there were multiple reasons on why the kingdom fell. It's sad to hear such stories.
+[Ignes]You got a couple of tickets to Veronica's live concert. Ignes seems to be interested.
+	We're going to make it fair and gather everybody around so we can draw for the ticket.
+[Ignes]Ignes says she wants to cry because the goal keeper on the other team just won't go down no matter how many shots she makes.
+	I'll come up with a formation that can bring the best out of everybody.
+
+[Ignes]You find Ignes depressed for not playing well during the match. Let's cheer her up.
+	You did well and I thank you for that.
+[Ignes]Ignes is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+[Ignes]You come across Ignes being lost and wandering around while going back to the lodging. Let's talk to her.
+	Are you feeling alright?
+[Ignes]Ignes is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	I was always looking forward for that moment.
+[Ignes]Ignes is having trouble with continuing nightmares. Let's talk to her.
+	It's just a dream. Forget about it.
+[Ignes]Ignes is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+[Ignes]Ignes seems to be satisfied with the perfect team work. Let's talk to her.
+	I'm starting to see true strength in this team.
+[Ignes]You come across Ignes who is limping. She says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+[Ignes]You visit Marilyn's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+[Ignes]You're watching the storm with Ignes and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+[Ignes]Ignes looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+[Ignes]Ignes's opponent is smiling whenever they confront each other on the field. Ignes seems to be nervous. Let's talk to her.
+	That player is just messing with you.
+[Ignes]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Ignes.
+	Maybe he got embarrassed for being obsessed with his past?
+[Ignes]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+[Ignes]The game ended as a tie, but it seems that the competition between Ignes and her opponent isn't over yet.
+	You better win that fight!
+[Ignes]The team will be cleaning up the lodging. What will you have Ignes do?
+	(Let her take some of the team members and allow them to clean freely.)
+[Ignes]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+[Ignes]A player on the other team says soccer became enjoyable after confronting Ignes. What should you say?
+	Well, Ignes does have that kind of charm.
+[Ignes]Ignes is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+[Ignes]Latios is chatting with Ignes after the match. Let's barge in.
+	I'm looking forward to our next match!
+
 [Irin]Irin is asking about the team's goal of this season. What should you tell her?
 	To win all the way, of course.
 [Irin]Irin is asking about my ideal type of person. Should be careful about answering this...
@@ -12666,6 +12830,88 @@
 	You really help us a lot in these situations.
 [Kevin]A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Kevin about what to do.
 	Let's leave her alone. She may find all this attention uncomfortable.
+
+[Khalid]Khalid is worried about the team's poor performance. Let's go talk to him.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Khalid]Khalid is curious about the Galaxy League. What answer will help him?
+	It's the place of dreams colliding.
+[Khalid]Khalid wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Khalid]Khalid is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	Yeah, I understand you. Soccer is so much fun!
+[Khalid]Khalid is asking what to buy in the souvenir shop. Let's give him an opinion.
+	Gate Keeper dolls! Why not!
+[Khalid]Khalid is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Khalid]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Khalid]Khalid says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Khalid]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Khalid]Khalid seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Khalid]Ogre's pony tail slapped Khalid in the face!
+	That must hurt.
+[Khalid]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Khalid]Khalid is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Khalid]Khalid says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Khalid]Khalid says he forgot to use his skill points before entering the match. What should we say to him?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Khalid]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Khalid]Khalid picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Khalid]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Khalid]Khalid is irritated because his opponent has the attribute advantage over him.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Khalid]Khalid thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Khalid]You find Khalid depressed for not playing well during the match. Let's cheer him up.
+	You did well and I thank you for that.
+[Khalid]Khalid is questioning your promise to make the best team ever. It's time to redeem yourself.
+	That's why I need your help.
+[Khalid]You come across Khalid being lost and wandering around while going back to the lodging. Let's talk to him.
+	Are you feeling alright?
+[Khalid]Khalid is asking about your thoughts on meeting an extraterrestrial being. Let's give him an answer.
+	I was always looking forward for that moment.
+[Khalid]Khalid is having trouble with continuing nightmares. Let's talk to him.
+	It's just a dream. Forget about it.
+[Khalid]Khalid is stressed out saying his opponent has the upper ground on every aspect. What should we do?
+	You can overcome this like always. Right?
+[Khalid]Khalid seems to be satisfied with the perfect team work. Let's talk to him.
+	I'm starting to see true strength in this team.
+[Khalid]You come across Khalid who is limping. He says it's nothing. What should we do?
+	Don't push yourself too hard. Get off the field if you don't think you can continue.
+[Khalid]You visit Merlin's house and see Hildegard eating ramen.
+	Can't you cook ramen by yourself?
+[Khalid]You're watching the storm with Khalid and you spot Princess Meiran taking a walk while humming.
+	What's wrong with her?
+[Khalid]Khalid looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Littre will be fine.
+[Khalid]Khalid's opponent is smiling whenever they confront each other on the field. Khalid seems to be nervous. Let's talk to him.
+	That player is just messing with you.
+[Khalid]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Khalid.
+	Maybe he got embarrassed for being obsessed with his past?
+[Khalid]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Let's give them a hand.
+[Khalid]The game ended as a tie, but it seems that the competition between Khalid and his opponent isn't over yet.
+	You better win that fight!
+[Khalid]The team will be cleaning up the lodging. What will you have Khalid do?
+	(Let him take some of the team members and allow them to clean freely.)
+[Khalid]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	They will never learn with an attitude like that.
+[Khalid]A player on the other team says soccer became enjoyable after confronting Khalid. What should you say?
+	Well, Khalid does have that kind of charm.
+[Khalid]Khalid is angry about the opponent's resilient attack on you. What should we say?
+	Can you peel this guy off of me?
+[Khalid]Latios is chatting with Khalid after the match. Let's barge in.
+	I'm looking forward to our next match!
 
 [Khirel]Khirel is asking about the team's goal of this season. What should you tell him?
 	Best of 4 should be our goal.
