@@ -7214,6 +7214,88 @@
 [Elizabeth]Elizabeth says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
+[Ellatrice]Ellatrice is looking excited and asks how the match went.
+	They were a worthy opponent.
+[Ellatrice]This was the worst game in your entire life...Ellatrice comes to you to cheer you up.
+	Thanks. You always know how to get me back on my feet.
+[Ellatrice]You're talking to Ellatrice about what you would do if the world ends tomorrow. Let's tell her your answer.
+	I would say goodbye to all my friends.
+[Ellatrice]Ellatrice is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to her.
+	I'm sure everybody is feeling the same way you feel.
+[Ellatrice]Ellatrice is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give her some advice.
+	Let's make that our goal and make it happen.
+[Ellatrice]Ellatrice isn't pleased with the team's recent plays. She feels that the plays have become somewhat repetitive and dull.
+	Let's all talk together and figure out what the problem is.
+[Ellatrice]With back to back matches, the team is exhausted. Let's talk to Ellatrice for solutions.
+	I guess it's time the benchwarmers get a chance.
+[Ellatrice]The team manager ran away with all of the team's money. What should we do?
+	Let's ask for help to the League officials on this planet.
+[Ellatrice]You were taking a walk in the Nadir forest with Ellatrice and came across Enthia standing in the middle of a burnt part of the forest. 
+	Let's give her some space.
+[Ellatrice]Nari is dancing and singing a song about the galaxy.
+	This proves that even the aliens like Nari.
+[Ellatrice]According to Ellatrice's words, Tyler went to school 1 year earlier than William.
+	I thought they were just friends.
+[Ellatrice]Ellatrice thinks she knows who Lynbell's brother is. What should we do?
+	First, let's look for a way to bring him back to normal. 
+[Ellatrice]Ellatrice won a trip around the world from a radio event!
+	Hmm, come back to me with a vacation plan.
+[Ellatrice]Ellatrice suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+	That would be wonderful! I'll go ask for permission.
+[Ellatrice]The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+	Let's see what you have to say after the match.
+[Ellatrice]You're sick and in bed when Ellatrice and the teammates come to cheer you up. What will your response be?
+	I'm sorry...I should be giving you guys some tea or something, but...
+[Ellatrice]The match and the concert that Ellatrice was looking for start at the same time...
+	I'm sorry that you couldn't go.
+[Ellatrice]Ellatrice wonders why Castor twitches whenever he sees Beatrice.
+	Long ago, he was disgraceful towards a dragon emissary.
+[Ellatrice]MX54 Butcher is closing in on a cat with a suspicious smile.
+	Excuse me, but do you have an appointment with that cat?
+[Ellatrice]The match started and Ellatrice is standing still doing nothing.
+	Looks like we'll have to do without her.
+
+[Ellatrice]Ellatrice says she's the center of the team and asks if you agree with her. How should we answer?
+	Of course! Everybody is counting on you!
+[Ellatrice]Ellatrice asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I want to see everybody smile. I think that'll make me happy.
+[Ellatrice]Ellatrice is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	I'd like to keep one as a pet.
+[Ellatrice]Ellatrice looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Where do you think those comets are going?
+[Ellatrice]Ellatrice says she's having trouble dealing with the young players. Let's give her an answer.
+	Yeah, I mean they could get hurt.
+[Ellatrice]Ellatrice wants to know what the Swirlies really are. Give her an answer.
+	I'm planning to make a whole line of merchandise with them as the character.
+[Ellatrice]Ellatrice is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	Life is a light of its own.
+[Ellatrice]Ellatrice says she was cornered by the team which was devastated by the loss streak.
+	Just hear them out and smile. They'll feel better.
+[Ellatrice]Ellatrice says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	I sense that there's something she hasn't told us yet...
+[Ellatrice]Ellatrice seems to get along with the opponent player. What should we tell her?
+	Congratulations! How did you guys get along?
+[Ellatrice]Ellatrice is deeply focused on Jill's diet story. What should we do?
+	You're playing soccer! You're fine!
+[Ellatrice]Ellatrice says she's going to meet up with Kiki and asks if you have any questions.
+	Tell her to be our lap cat.
+[Ellatrice]Kei and Virgil are fighting again and Ellatrice seems to be troubled. What should we do?
+	If you guys keep giving Ellatrice trouble, I swear to god I'll use you both as special training material.
+[Ellatrice]Ellatrice is having a delightful chat with a girl that's holding a turtle. 
+	She seems like a nice girl.
+[Ellatrice]Ellatrice went to take a look at the opponent team and got caught. What should we do?
+	Ellatrice is in danger! We have to save her!
+[Ellatrice]Ellatrice claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	She must've made a mistake.
+[Ellatrice]Ellatrice seems very nervous to confront Kei of the Rescuer.
+	We can do this! Let's go!
+[Ellatrice]Ellatrice says that the captain of team Scout Entry seems to take good care of the team members.
+	Yeah, they get along pretty well.
+[Ellatrice]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Ellatrice hands you a present.
+	(A cute and pretty pendant)
+[Ellatrice]Ellatrice says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	I think she likes him.
+
 [Elliot]Still looking pretty heated up by the match, Elliot is asking how he did in the match.
 	It was pretty scary watching you so pleased with the rough plays of the opponents.
 [Elliot]Elliot looks excited as he's talking with the team about pets. He turns around and asks you what kind of pet you like.

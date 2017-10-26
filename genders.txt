@@ -2084,3 +2084,5 @@ Baldr
 Male
 Ignes
 Female
+Ellatrice
+Female
