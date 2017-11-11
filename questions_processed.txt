@@ -14225,6 +14225,88 @@
 [Lemy]Latios is chatting with Lemy after the match. Let's barge in.
 	I'm looking forward to our next match!
 
+[Leo]Leo is wondering why the team is doing so well recently. Pick an answer.
+	It's all thanks to you.
+[Leo]After a meeting, Leo's eyes met yours a several times and Leo asks if he has something on his face.
+	I was just thinking the team became stronger, thanks to you.
+[Leo]With a serious look on his face, Leo warns you to go to the bathroom before the match.
+	I'm surprised you said that. I won't ask what happened to you.
+[Leo]Preparing for the press conference, you're talking with Leo on which player you think has the brightest future. What will you say?
+	You and I are already perfect. So I guess that means we shouldn't be saying our names.
+[Leo]Leo is worried that he has to face demons, black holes and other dangerous things. What should we tell him?
+	You're the most dangerous of them all.
+[Leo]Leo is making a scene about the women's uniform and underwear disappearing. Let's talk to him.
+	Let's go tell the manager.
+[Leo]Leo is asking if you have a special person who you would like to share happy moments with. Let's give him an answer.
+	I think that may be you.
+[Leo]You find Leo being very excited after performing an awesome play. How will you react?
+	Nice play! Fantastic!
+[Leo]Leo is having trouble focusing on the match. Let's help him out.
+	Just calm down a bit. You got this.
+[Leo]Leo is questioning Kuma's status as a Gate Keeper.
+	He's just material for leveling up.
+[Leo]Leo doesn't like the new team advertisement video.
+	It didn't portray your awesome performance.
+[Leo]It's Leo's birthday. Let's give him a present.
+	This is a championship trophy replica for you. The designs are inspired by you.
+[Leo]You see Leo's opponent trash talking and smirking towards Leo. What should we do?
+	He is probably not even listening...
+[Leo]The team is going to go shop. Which group will you join?
+	It's time for some good food.
+[Leo]You hear that the opponent team's ace, who is also Leo's rival, has been severely injured and is in the hospital. What should you say to him?
+	This won't be the end of your rival. 
+[Leo]Leo comes to you and says that he has to leave the team because of personal reasons. What should we say?
+	Well, I don't want to be the one holding you back. Good luck!
+[Leo]Leo is getting slow on the field and this is causing trouble. Let's talk with Leo.
+	I'll try to have the ball come your way.
+[Leo]Leo is telling a story about how an old kingdom in Valhalla was doomed because of the king.
+	Pathetic...That is no king.
+[Leo]You got a couple of tickets to Veronica's live concert. Leo seems to be interested.
+	These are for you, of course. Here.
+[Leo]Leo says he wants to cry because the goal keeper on the other team just won't go down no matter how many shots he makes.
+	Let's come up with a new strategy to give you more synergy.
+
+[Leo]Leo says he's the center of the team and asks if you agree with him. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+[Leo]Leo asks you about your plans after winning the Galaxy League. Let's give him a sincere answer.
+	I'm going to make a joke before I start crying!
+[Leo]Leo is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+[Leo]Leo looks excited to see a comet shower, which is a rare sight. What should we say to him?
+	Do you think any of those comets are populated?
+[Leo]Leo says he's having trouble dealing with the young players. Let's give him an answer.
+	Teach them how adults play soccer.
+[Leo]Leo wants to know what the Swirlies really are. Give him an answer.
+	Beginner level monsters in an RPG game.
+[Leo]Leo is saying that the universe needs more than stars to brighten it up. Let's talk to him.
+	That's deep. I think it's cool.
+[Leo]Leo says he was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+[Leo]Leo says that Bell seemed depressed when he told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+[Leo]Leo seems to get along with the opponent player. What should we tell him?
+	Don't forget that we exist! Haha!
+[Leo]Leo is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+[Leo]Leo says he's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+[Leo]Kei and Virgil are fighting again and Leo seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+[Leo]Leo is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+[Leo]Leo went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of him when he comes back.
+[Leo]Leo claims he saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+[Leo]Leo seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+[Leo]Leo says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+[Leo]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Leo hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+[Leo]Leo says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
+	Maybe she's up to something.
+
 [Leonard]Leonard is wondering why the team is doing so well recently. Pick an answer.
 	It's all thanks to you.
 [Leonard]After a meeting, Leonard's eyes met yours a several times and Leonard asks if he has something on his face.
