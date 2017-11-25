@@ -2088,3 +2088,7 @@ Ellatrice
 Female
 Leo
 Male
+Garriott
+Male
+Ashe
+Male

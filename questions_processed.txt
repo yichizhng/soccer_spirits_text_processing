@@ -1802,6 +1802,88 @@
 [Asakura]Asakura is thinking about what the Universe of Oblivion is.
 	Don't be scared about such petty things.
 
+[Ashe]The team made it up to the semi-finals after counting the goal differences. Ashe asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I'm in heaven'' or something?
+[Ashe]Ashe suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Ashe]Ashe is saying that his teammates are what keeps him going.
+	(Just nod your head.)
+[Ashe]Ashe has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Ashe]As Ashe said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	I feel like the universe is heading towards chaos.
+[Ashe]The crowd is cheering for Ashe. Ashe seems to find this situation new and a bit uncomfortable. Let's help him out.
+	How about just accepting the compliments for today?
+[Ashe]Ashe is impressed by the help he received from the elementals. Let's talk to him.
+	The only problem is that they take up a lot of space in the inventory.
+[Ashe]Ashe was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Ashe]The team will not have a match for some time. Ashe asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Ashe]It's a very intense match and Ashe falls on the ground, but a player on the other team helps Ashe up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Ashe]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Ashe]You're walking in a narrow ally and come across Ashe having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Ashe]Ashe is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	I hope this won't affect your performance on the field.
+[Ashe]Ashe scored a hat trick and led the team to a complete victory! Congratulate him!
+	That was awesome! I'm looking forward to seeing more of that!
+[Ashe]A player on the other side is on the field with his arms tied up. Let's talk about this with Ashe.
+	He still has his two legs functioning. I see no problem with that.
+[Ashe]Ashe falls to the ground after clashing with the opponent. What should we say to him?
+	If that's all you've got, just stay down. It's okay.
+[Ashe]Ashe lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Ashe]You come across Sammy while walking the street with Ashe. Let's talk to her.
+	(Ignore.)
+[Ashe]Lynia is cleaning the streets with the members of Jeneva Crew. Ashe is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Ashe]Ashe brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
+
+[Ashe]Ashe says he's the center of the team and asks if you agree with him. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+[Ashe]Ashe asks you about your plans after winning the Galaxy League. Let's give him a sincere answer.
+	I'm going to make a joke before I start crying!
+[Ashe]Ashe is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+[Ashe]Ashe looks excited to see a comet shower, which is a rare sight. What should we say to him?
+	Do you think any of those comets are populated?
+[Ashe]Ashe says he's having trouble dealing with the young players. Let's give him an answer.
+	Teach them how adults play soccer.
+[Ashe]Ashe wants to know what the Swirlies really are. Give him an answer.
+	Beginner level monsters in an RPG game.
+[Ashe]Ashe is saying that the universe needs more than stars to brighten it up. Let's talk to him.
+	That's deep. I think it's cool.
+[Ashe]Ashe says he was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+[Ashe]Ashe says that Bell seemed depressed when he told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+[Ashe]Ashe seems to get along with the opponent player. What should we tell him?
+	Don't forget that we exist! Haha!
+[Ashe]Ashe is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+[Ashe]Ashe says he's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+[Ashe]Kei and Virgil are fighting again and Ashe seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+[Ashe]Ashe is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+[Ashe]Ashe went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of him when he comes back.
+[Ashe]Ashe claims he saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+[Ashe]Ashe seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+[Ashe]Ashe says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+[Ashe]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Ashe hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+[Ashe]Ashe says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
+	Maybe she's up to something.
+
 [Aslan]You come across Aslan, who was overwhelmed by her opponent throughout the game. Let's cheer her up.
 	Those scumbags played dirty. Ugh, I'm angry!
 [Aslan]Aslan is complaining about a teammate and is asking for your opinion.
@@ -8730,6 +8812,88 @@
 	All that I care is that he's an excellent trainer.
 [Gaphyl]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Gaphyl is starting to get intimidated.
 	This is good. We can use this as a chance to break their back line.
+
+[Garriott]The team made it up to the semi-finals after counting the goal differences. Garriott asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I'm in heaven'' or something?
+[Garriott]Garriott suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Garriott]Garriott is saying that his teammates are what keeps him going.
+	(Just nod your head.)
+[Garriott]Garriott has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Garriott]As Garriott said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	I feel like the universe is heading towards chaos.
+[Garriott]The crowd is cheering for Garriott. Garriott seems to find this situation new and a bit uncomfortable. Let's help him out.
+	How about just accepting the compliments for today?
+[Garriott]Garriott is impressed by the help he received from the elementals. Let's talk to him.
+	The only problem is that they take up a lot of space in the inventory.
+[Garriott]Garriott was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Garriott]The team will not have a match for some time. Garriott asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Garriott]It's a very intense match and Garriott falls on the ground, but a player on the other team helps Garriott up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Garriott]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Garriott]You're walking in a narrow ally and come across Garriott having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Garriott]Garriott is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	I hope this won't affect your performance on the field.
+[Garriott]Garriott scored a hat trick and led the team to a complete victory! Congratulate him!
+	That was awesome! I'm looking forward to seeing more of that!
+[Garriott]A player on the other side is on the field with his arms tied up. Let's talk about this with Garriott.
+	He still has his two legs functioning. I see no problem with that.
+[Garriott]Garriott falls to the ground after clashing with the opponent. What should we say to him?
+	If that's all you've got, just stay down. It's okay.
+[Garriott]Garriott lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Garriott]You come across Sammy while walking the street with Garriott. Let's talk to her.
+	(Ignore.)
+[Garriott]Lynia is cleaning the streets with the members of Jeneva Crew. Garriott is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Garriott]Garriott brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
+
+[Garriott]You come across Garriott, who was overwhelmed by his opponent throughout the game. Let's cheer him up.
+	Those scumbags played dirty. Ugh, I'm angry!
+[Garriott]Garriott is complaining about a teammate and is asking for your opinion.
+	I'm not comfortable with this conversation.
+[Garriott]Garriott, who is always suspicious of you, has you in the corner and is demanding that you reveal what your agenda really is. What should we say?
+	To bring justice with soccer. That's all.
+[Garriott]Garriott says to you that it was an honor to be able to play with you. Let's give him an answer.
+	Let's do our best until the very end!
+[Garriott]You're having a conversation with Garriott about the power of Spirit Stones which is covered in secrets. Let's tell him what you think.
+	I won't rely on Spirit Stones.
+[Garriott]Garriott is yelling, ''Our will for soccer is guiding us to victory!''
+	I like what you just said.
+[Garriott]Let's talk to Garriott who recently started to take interest in the world of angels.
+	It's a place to rest for the good.
+[Garriott]Garriott is asking you if you ever saw the World Tree. Let's tell him your thoughts.
+	It's something I'd want to see again with a person I care.
+[Garriott]The teammates are speaking highly of Garriott, saying he's a good role model. Let's add in.
+	He's truly a role model to us all with his skills and attitude.
+[Garriott]You visit the practice field of your next opponent and feel very sorry about their not-so-good financial situation. What should we do?
+	I feel sorry, but that's irrelevant to the match.
+[Garriott]Your team seems to be too worried about the next match against the all stars of Minerva. Garriott wants to say a word.
+	Come on guys, you know it's an exciting thing to be playing against a strong team! Keep your heads up high!
+[Garriott]You're at the Underground to enter a wager match, but you find people who are playing a friendly match.
+	So, there are no real illegal matches. I guess I'm relieved.
+[Garriott]Half of your team is injured because of an evil plot of your next opponent. What should we do?
+	We will confront them fair and square, and win.
+[Garriott]The representative of the refugees of Karladure is pleading you to throw the next match because Guinevere, who is providing them economic support, is playing for your next opponent. What should we say?
+	Would she be happy if she finds out you're doing this?
+[Garriott]Garriott points out that the time the men of Minerva died and the time the epidemic broke out in Metro City matches.
+	That's too convenient to be a coincidence.
+[Garriott]Mortor and Wizol of the Peacemakers are helping an old man. Garriott seems to be surprised.
+	Well, what do you know! They have some decency in them after all.
+[Garriott]A big fight broke out between an angel and a demon within the team. Garriott is asking for help.
+	I hope the demon didn't say anything stupid.
+[Garriott]Cracsus threatens to hack Garriott's personal information and reveal it to the world. What should we do?
+	Don't fall for this cheap shot.
+[Garriott]Garriott is thinking about what Selena said about saving the galaxy if we win the Galaxy League.
+	Then we should do our very best to win.
+[Garriott]Garriott is thinking about what the Universe of Oblivion is.
+	I don't like the word oblivion.
 
 [Gerrard]Still looking pretty heated up by the match, Gerrard is asking how he did in the match.
 	You were picking the other team apart! It was awesome!
