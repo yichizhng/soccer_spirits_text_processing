@@ -26525,6 +26525,88 @@
 [Thor]The match started and Thor is standing still doing nothing.
 	Looks like we'll have to do without her.
 
+[Thor]Thor is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Thor]Thor is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Thor]Thor wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Thor]Thor is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Thor]Thor is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Thor]Thor is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Thor]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Thor]Thor says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Thor]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Thor]Thor seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Thor]Ogre's pony tail slapped Thor in the face!
+	That must hurt.
+[Thor]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Thor]Thor is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Thor]Thor says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Thor]Thor says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Thor]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Thor]Thor picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Thor]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Thor]Thor is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Thor]Thor thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Thor]Thor seems to be lost after having a good match while her fortune-telling said things would go wrong. Let's talk to her.
+	Game results aren't that simple to be predicted by fortune-telling.
+[Thor]With a serious face, Thor is asking what the true meaning of competition is. Let's give her an answer.
+	Being together is enough for me.
+[Thor]Thor came to you after the match, and says she's disappointed at the team's boring strategy. What should we say?
+	I'm disappointed, too. Let's start over.
+[Thor]Thor is curious of the whereabouts of the managers that are nowhere to be seen during the match. Let's give her an answer.
+	Even if they're not on the field with us, we're fighting as one. Right?
+[Thor]The team is having a good run and Thor is sure that winning the League is a matter of time.
+	Let's keep this momentum going!
+[Thor]Thor seems to be very confused of how a small soccer ball can change the fate of the universe.
+	Let's open up a bright future with this ball.
+[Thor]Thor seems to be upset about losing a body check against her opponent.
+	Don't be weak.
+[Thor]Thor is asking what the conditions of a team ace are with a serious face. Let's talk with her.
+	Just act like yourself. You're already the ace.
+[Thor]Thor is surprised of how sturdy the ball is, as it withstands the strength of angels, demons, and even beings of unknown worlds.
+	Well, I have no problem with it as long as it functions as a soccer ball.
+[Thor]Thor plans to continue playing soccer even after the Galaxy League ends. Let's talk with her.
+	I don't care what I do after the League as long as I get to continue playing soccer.
+[Thor]It's a hard match and your team is losing. Talk with Thor and talk about what to do.
+	We can't give up here. There's still a chance to win this.
+[Thor]Thor seems to be lost. She says she no longer hates the rival team.
+	I guess that's natural. The matches against them were great. 
+[Thor]You were enjoying the peaceful day on Earth until the Peacemakers suddenly showed up. At that moment, the Magical Girl Elements came to save the day!
+	...Uh...So no soccer?
+[Thor]Vitos suddenly laughs in joy during the match against the Empire. Why?
+	The emperor of demons is also enjoying this match!
+[Thor]Thor's form has been improving rapidly. She says she can't wait for the next match. What should we say to her?
+	Remember that feeling and use it when things get tough.
+[Thor]During a match, Thor bumped into a teammate and knocked the player out. She seems depressed. What should we say to cheer her up?
+	It's something that happened during the match. Don't be so hard on yourself.
+[Thor]Thor is complaining about restricted from playing the next match for receiving too many fouls. Let's talk to her.
+	It's the consequences of your actions. Accept it.
+[Thor]You're at the Yggdrasil memorial ceremony. The Yggdrasil Guardians are parading through the festive crowd.
+	I think it's a nice way to cherish the memories of the lost.
+[Thor]Thor is suddenly taking interest in who Shootmeister actually is. What should we say?
+	I can tell that he's a very diligent person that always tries his best.
+[Thor]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Thor is starting to get intimidated.
+	Okay, it's time we take this match seriously.
+
 [Tiffany]Tiffany is looking excited and asks how the match went.
 	The other team went home crying!
 [Tiffany]This was the worst game in your entire life...Tiffany comes to you to cheer you up.
@@ -27426,6 +27508,88 @@
 	It's space. Anything can exist here.
 [Valentine]The team is in a slump and you take the team out for refreshment. Talk with Valentine to set some simple rules.
 	Let's split up and meet back here for dinner. Tell everybody to enjoy their free time.
+
+[Valerie]Valerie is worried about the team's poor performance. Let's go talk to her.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Valerie]Valerie is curious about the Galaxy League. What answer will help her?
+	It's the place of dreams colliding.
+[Valerie]Valerie wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Valerie]Valerie is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Yeah, I understand you. Soccer is so much fun!
+[Valerie]Valerie is asking what to buy in the souvenir shop. Let's give her an opinion.
+	Gate Keeper dolls! Why not!
+[Valerie]Valerie is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Valerie]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Valerie]Valerie says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Valerie]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Valerie]Valerie seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Valerie]Ogre's pony tail slapped Valerie in the face!
+	That must hurt.
+[Valerie]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Valerie]Valerie is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Valerie]Valerie says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Valerie]Valerie says she forgot to use her skill points before entering the match. What should we say to her?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Valerie]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Valerie]Valerie picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Valerie]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Valerie]Valerie is irritated because her opponent has the attribute advantage over her.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Valerie]Valerie thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
+
+[Valerie]Valerie says she's the center of the team and asks if you agree with her. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+[Valerie]Valerie asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I'm going to make a joke before I start crying!
+[Valerie]Valerie is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+[Valerie]Valerie looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Do you think any of those comets are populated?
+[Valerie]Valerie says she's having trouble dealing with the young players. Let's give her an answer.
+	Teach them how adults play soccer.
+[Valerie]Valerie wants to know what the Swirlies really are. Give her an answer.
+	Beginner level monsters in an RPG game.
+[Valerie]Valerie is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	That's deep. I think it's cool.
+[Valerie]Valerie says she was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+[Valerie]Valerie says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+[Valerie]Valerie seems to get along with the opponent player. What should we tell her?
+	Don't forget that we exist! Haha!
+[Valerie]Valerie is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+[Valerie]Valerie says she's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+[Valerie]Kei and Virgil are fighting again and Valerie seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+[Valerie]Valerie is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+[Valerie]Valerie went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of her when she comes back.
+[Valerie]Valerie claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+[Valerie]Valerie seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+[Valerie]Valerie says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+[Valerie]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Valerie hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+[Valerie]Valerie says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	Maybe she's up to something.
 
 [Valkia]Valkia is looking excited and asks how the match went.
 	They were a worthy opponent.
