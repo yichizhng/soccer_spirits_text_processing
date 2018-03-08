@@ -1556,6 +1556,88 @@
 [Ari]Your team is playing against the Scout Entries and Malcolm seems to be enjoying himself a little too much. Ari is starting to get intimidated.
 	This is good. We can use this as a chance to break their back line.
 
+[Ariel]The team made it up to the semi-finals after counting the goal differences. Ariel asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I can fly'' or something?
+[Ariel]Ariel suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Ariel]Ariel is saying that her teammates are what keeps her going.
+	(Just nod your head.)
+[Ariel]Ariel has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Ariel]As Ariel said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I feel like the universe is heading towards chaos.
+[Ariel]The crowd is cheering for Ariel. Ariel seems to find this situation new and a bit uncomfortable. Let's help her out.
+	How about just accepting the compliments for today?
+[Ariel]Ariel is impressed by the help she received from the elementals. Let's talk to her.
+	The only problem is that they take up a lot of space in the inventory.
+[Ariel]Ariel was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Ariel]The team will not have a match for some time. Ariel asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Ariel]It's a very intense match and Ariel falls on the ground, but a player on the other team helps Ariel up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Ariel]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Ariel]You're walking in a narrow ally and come across Ariel having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Ariel]Ariel is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	I hope this won't affect your performance on the field.
+[Ariel]Ariel scored a hat trick and led the team to a complete victory! Congratulate her!
+	That was awesome! I'm looking forward to seeing more of that!
+[Ariel]A player on the other side is on the field with his arms tied up. Let's talk about this with Ariel.
+	He still has his two legs functioning. I see no problem with that.
+[Ariel]Ariel falls to the ground after clashing with the opponent. What should we say to her?
+	If that's all you've got, just stay down. It's okay.
+[Ariel]Ariel lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Ariel]You come across Sammy while walking the street with Ariel. Let's talk to her.
+	(Ignore.)
+[Ariel]Lynia is cleaning the streets with the members of Jeneva Crew. Ariel is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Ariel]Ariel brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
+
+[Ariel]Ariel is worried about the team's poor performance. Let's go talk to her.
+	It's all because nobody on this team cares about strategy! This is nonsense!
+[Ariel]Ariel is curious about the Galaxy League. What answer will help her?
+	It's stressful because we can't prepare for extraterrestrial sanitation. We're completely exposed to all those unknown...things.
+[Ariel]Ariel wants to hear about your plans on training the new players. What should we answer?
+	Perfect planning and perfect execution.
+[Ariel]Ariel is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Life, eh? I guess that's a bit too serious for me, but I think I understand how you feel.
+[Ariel]Ariel is asking what to buy in the souvenir shop. Let's give her an opinion.
+	How about some presents for your parents?
+[Ariel]Ariel is asking who you think of first when you win a match. Let's answer.
+	My teammates and their flawless play!
+[Ariel]This match will be held on Earth. We still have some time. What do you want to do?
+	I heard that the bath products on Earth are the best in the universe.
+[Ariel]Ariel says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	That's bad. I'm sure it's something important!
+[Ariel]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	I can't stand this...I need to end this quickly and go take a shower.
+[Ariel]Ariel seems to be curious about Bora's covered eye. What should we answer?
+	The eyepatch...I wonder if she washes it. She seems to have it on at all times.
+[Ariel]Ogre's pony tail slapped Ariel in the face!
+	Ugh...Gross...
+[Ariel]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	I could throw the ball and continue the match, but my honor wouldn't allow that.
+[Ariel]Ariel is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	You've become better. Now you need to focus on staying that way.
+[Ariel]Ariel says that the Swirlies are missing.
+	I evolved them.
+[Ariel]Ariel says she forgot to use her skill points before entering the match. What should we say to her?
+	That's unacceptable!
+[Ariel]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	Ugh...I want to dig my eyes out.
+[Ariel]Ariel picked up a diary. It says Bell on the cover.
+	Let's contact her and return this.
+[Ariel]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	Well, now what?
+[Ariel]Ariel is irritated because her opponent has the attribute advantage over her.
+	Do I have to stop the match?
+[Ariel]Ariel thinks Nana on the other team actually isn't a raccoon.
+	Hmm, her tail is a bit weird and her ears are definitely human...
+
 [Armati]You find Armati depressed for not playing well during the match. Let's cheer her up.
 	Don't mind it. It's our fault. We weren't able to make use of your strength.
 [Armati]Armati is questioning your promise to make the best team ever. It's time to redeem yourself.
@@ -20785,6 +20867,88 @@
 [Noa]A teammate that is a former member of the Dark Sisters is down sick, suffering from the aftermath of performing exorcism. Let's talk with Noa about what to do.
 	Let's go visit her. Some fun won't do any harm. It might even cheer her up!
 
+[Nono]The team made it up to the semi-finals after counting the goal differences. Nono asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I can fly'' or something?
+[Nono]Nono suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Nono]Nono is saying that her teammates are what keeps her going.
+	(Just nod your head.)
+[Nono]Nono has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Nono]As Nono said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I feel like the universe is heading towards chaos.
+[Nono]The crowd is cheering for Nono. Nono seems to find this situation new and a bit uncomfortable. Let's help her out.
+	How about just accepting the compliments for today?
+[Nono]Nono is impressed by the help she received from the elementals. Let's talk to her.
+	The only problem is that they take up a lot of space in the inventory.
+[Nono]Nono was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Nono]The team will not have a match for some time. Nono asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Nono]It's a very intense match and Nono falls on the ground, but a player on the other team helps Nono up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Nono]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Nono]You're walking in a narrow ally and come across Nono having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Nono]Nono is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	I hope this won't affect your performance on the field.
+[Nono]Nono scored a hat trick and led the team to a complete victory! Congratulate her!
+	That was awesome! I'm looking forward to seeing more of that!
+[Nono]A player on the other side is on the field with his arms tied up. Let's talk about this with Nono.
+	He still has his two legs functioning. I see no problem with that.
+[Nono]Nono falls to the ground after clashing with the opponent. What should we say to her?
+	If that's all you've got, just stay down. It's okay.
+[Nono]Nono lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Nono]You come across Sammy while walking the street with Nono. Let's talk to her.
+	(Ignore.)
+[Nono]Lynia is cleaning the streets with the members of Jeneva Crew. Nono is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Nono]Nono brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
+
+[Nono]Nono is worried about the team's poor performance. Let's go talk to her.
+	It's all because nobody on this team cares about strategy! This is nonsense!
+[Nono]Nono is curious about the Galaxy League. What answer will help her?
+	It's stressful because we can't prepare for extraterrestrial sanitation. We're completely exposed to all those unknown...things.
+[Nono]Nono wants to hear about your plans on training the new players. What should we answer?
+	Perfect planning and perfect execution.
+[Nono]Nono is being sentimental about how soccer, which was supposed to be a one time thing, became her life. Let's talk with her.
+	Life, eh? I guess that's a bit too serious for me, but I think I understand how you feel.
+[Nono]Nono is asking what to buy in the souvenir shop. Let's give her an opinion.
+	How about some presents for your parents?
+[Nono]Nono is asking who you think of first when you win a match. Let's answer.
+	My teammates and their flawless play!
+[Nono]This match will be held on Earth. We still have some time. What do you want to do?
+	I heard that the bath products on Earth are the best in the universe.
+[Nono]Nono says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	That's bad. I'm sure it's something important!
+[Nono]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	I can't stand this...I need to end this quickly and go take a shower.
+[Nono]Nono seems to be curious about Bora's covered eye. What should we answer?
+	The eyepatch...I wonder if she washes it. She seems to have it on at all times.
+[Nono]Ogre's pony tail slapped Nono in the face!
+	Ugh...Gross...
+[Nono]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	I could throw the ball and continue the match, but my honor wouldn't allow that.
+[Nono]Nono is suddenly showing massive improvement in her performance. She must've learned something during a match.
+	You've become better. Now you need to focus on staying that way.
+[Nono]Nono says that the Swirlies are missing.
+	I evolved them.
+[Nono]Nono says she forgot to use her skill points before entering the match. What should we say to her?
+	That's unacceptable!
+[Nono]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	Ugh...I want to dig my eyes out.
+[Nono]Nono picked up a diary. It says Bell on the cover.
+	Let's contact her and return this.
+[Nono]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	Well, now what?
+[Nono]Nono is irritated because her opponent has the attribute advantage over her.
+	Do I have to stop the match?
+[Nono]Nono thinks Nana on the other team actually isn't a raccoon.
+	Hmm, her tail is a bit weird and her ears are definitely human...
+
 [Odin]Odin is asking about the team's goal of this season. What should you tell her?
 	Best of 4 should be our goal.
 [Odin]Odin is asking about my ideal type of person. Should be careful about answering this...
@@ -27591,6 +27755,88 @@
 [Ustiel]Ustiel says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
 	That's a mixture of mockery, sympathy, and love.
 
+[Vaidi]Vaidi is wondering why the team is doing so well recently. Pick an answer.
+	It's all thanks to you.
+[Vaidi]After a meeting, Vaidi's eyes met yours a several times and Vaidi asks if she has something on her face.
+	I was just thinking the team became stronger, thanks to you.
+[Vaidi]With a serious look on her face, Vaidi warns you to go to the bathroom before the match.
+	I'm surprised you said that. I won't ask what happened to you.
+[Vaidi]Preparing for the press conference, you're talking with Vaidi on which player you think has the brightest future. What will you say?
+	You and I are already perfect. So I guess that means we shouldn't be saying our names.
+[Vaidi]Vaidi is worried that she has to face demons, black holes and other dangerous things. What should we tell her?
+	You're the most dangerous of them all.
+[Vaidi]Vaidi is making a scene about the women's uniform and underwear disappearing. Let's talk to her.
+	Let's go tell the manager.
+[Vaidi]Vaidi is asking if you have a special person who you would like to share happy moments with. Let's give her an answer.
+	I think that may be you.
+[Vaidi]You find Vaidi being very excited after performing an awesome play. How will you react?
+	Nice play! Fantastic!
+[Vaidi]Vaidi is having trouble focusing on the match. Let's help her out.
+	Just calm down a bit. You got this.
+[Vaidi]Vaidi is questioning Kuma's status as a Gate Keeper.
+	He's just material for leveling up.
+[Vaidi]Vaidi doesn't like the new team advertisement video.
+	It didn't portray your awesome performance.
+[Vaidi]It's Vaidi's birthday. Let's give her a present.
+	This is a championship trophy replica for you. The designs are inspired by you.
+[Vaidi]You see Vaidi's opponent trash talking and smirking towards Vaidi. What should we do?
+	She is probably not even listening...
+[Vaidi]The team is going to go shop. Which group will you join?
+	It's time for some good food.
+[Vaidi]You hear that the opponent team's ace, who is also Vaidi's rival, has been severely injured and is in the hospital. What should you say to her?
+	This won't be the end of your rival. 
+[Vaidi]Vaidi comes to you and says that she has to leave the team because of personal reasons. What should we say?
+	Well, I don't want to be the one holding you back. Good luck!
+[Vaidi]Vaidi is getting slow on the field and this is causing trouble. Let's talk with Vaidi.
+	I'll try to have the ball come your way.
+[Vaidi]Vaidi is telling a story about how an old kingdom in Valhalla was doomed because of the king.
+	Pathetic...That is no king.
+[Vaidi]You got a couple of tickets to Veronica's live concert. Vaidi seems to be interested.
+	These are for you, of course. Here.
+[Vaidi]Vaidi says she wants to cry because the goal keeper on the other team just won't go down no matter how many shots she makes.
+	Let's come up with a new strategy to give you more synergy.
+
+[Vaidi]Vaidi says she's the center of the team and asks if you agree with her. How should we answer?
+	Well, your sarcastic jokes are an essential part of the team's strength.
+[Vaidi]Vaidi asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
+	I'm going to make a joke before I start crying!
+[Vaidi]Vaidi is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	Do you think they'll be tasty?
+[Vaidi]Vaidi looks excited to see a comet shower, which is a rare sight. What should we say to her?
+	Do you think any of those comets are populated?
+[Vaidi]Vaidi says she's having trouble dealing with the young players. Let's give her an answer.
+	Teach them how adults play soccer.
+[Vaidi]Vaidi wants to know what the Swirlies really are. Give her an answer.
+	Beginner level monsters in an RPG game.
+[Vaidi]Vaidi is saying that the universe needs more than stars to brighten it up. Let's talk to her.
+	That's deep. I think it's cool.
+[Vaidi]Vaidi says she was cornered by the team which was devastated by the loss streak.
+	You can point out their mistakes and flaws but still keep things humorous. Just don't go too sarcastic on them.
+[Vaidi]Vaidi says that Bell seemed depressed when she told Bell that Minerva's throne is empty.
+	It'll be better if you don't show her that you're sorry.
+[Vaidi]Vaidi seems to get along with the opponent player. What should we tell her?
+	Don't forget that we exist! Haha!
+[Vaidi]Vaidi is deeply focused on Jill's diet story. What should we do?
+	Please don't forget about the match.
+[Vaidi]Vaidi says she's going to meet up with Kiki and asks if you have any questions.
+	Is her name really Kiki?
+[Vaidi]Kei and Virgil are fighting again and Vaidi seems to be troubled. What should we do?
+	If you had to choose one of the two, which would it be?
+[Vaidi]Vaidi is having a delightful chat with a girl that's holding a turtle. 
+	It's nice to see two people of different class have a delightful chat.
+[Vaidi]Vaidi went to take a look at the opponent team and got caught. What should we do?
+	We should think about how to make fun of her when she comes back.
+[Vaidi]Vaidi claims she saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	Maybe Sophie is actually a male...?
+[Vaidi]Vaidi seems very nervous to confront Kei of the Rescuer.
+	Don't be nervous! Don't you trust your teammates?
+[Vaidi]Vaidi says that the captain of team Scout Entry seems to take good care of the team members.
+	Well, I'm better than him because I'm in love with this team.
+[Vaidi]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Vaidi hands you a present.
+	(A surprise box! Inside it there's a cool wallet.)
+[Vaidi]Vaidi says that she thinks Alkyde looks at Fontus in a funny way. Let's give her an answer.
+	Maybe she's up to something.
+
 [Valentine]Valentine is asking about the team's goal of this season. What should you tell him?
 	Best of 4 should be our goal.
 [Valentine]Valentine is asking about my ideal type of person. Should be careful about answering this...
@@ -29436,6 +29682,88 @@
 [Xing]Xing says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
 	Maybe she's up to something.
 
+[Yeo Jung]Still looking pretty heated up by the match, Yeo Jung is asking how she did in the match.
+	You bring the best out of the team. Good work!
+[Yeo Jung]Yeo Jung looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
+	I think that a baby duck following its mother is one of the most adorable things to watch.
+[Yeo Jung]You come across Yeo Jung thinking about the value of soccer. What should we tell her?
+	The field is a ground of hopes and dreams. Isn't that enough?
+[Yeo Jung]Yeo Jung is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?
+	Think about your teammates that are counting on you.
+[Yeo Jung]Yeo Jung blushes up and tells you that she's happy she can play soccer with you. What should we tell her?
+	Me too. You're a good leader.
+[Yeo Jung]Yeo Jung is asking for special training sessions because she's not satisfied with today's performance. What should we tell her?
+	If that's your wish.
+[Yeo Jung]Yeo Jung did her best, but she failed to achieve the results she wanted and looks sad. We should say something to her.
+	It's experiences like this that bonds us together.
+[Yeo Jung]Yeo Jung is asking you about what you like besides soccer.
+	I like board games about war. I admire famous commanders.
+[Yeo Jung]Yeo Jung feels her heart races when she sees Littre.
+	...Do you want a Superb Power-up?
+[Yeo Jung]Kuma is caught sneaking in the woman's locker room once again. We should talk with Yeo Jung about what to do with him.
+	I'm not sure if it's safe, but we can use him for leveling up.
+[Yeo Jung]Yeo Jung continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Make a strategic decision.)
+[Yeo Jung]Yeo Jung is being annoying with her offensive words. What should we do?
+	(Kick her out of the team if things can't be handled.)
+[Yeo Jung]It's dinner time and Yeo Jung is staring at her carrot soup with a troubled look. What should we do?
+	(Tell her that carrots are good for the body and to eat it all.)
+[Yeo Jung]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Yeo Jung to do?
+	They all need scolding.
+[Yeo Jung]Yeo Jung says that the soup tastes funny. What should we do?
+	Let's stay away from the soup, just in case.
+[Yeo Jung]Yeo Jung is furious about the referee that's clearly favoring the other team. Should we stop her?
+	Ignore the referee. Focus on the match.
+[Yeo Jung]It suddenly began to rain heavily. You see Yeo Jung running up ahead.
+	(Catch up and share your umbrella.)
+[Yeo Jung]You witnessed a player on the other side putting a tack in Yeo Jung's shoe.
+	(Remove the tack and tell the manager on the other team.)
+[Yeo Jung]During the team meeting, you find a player sleeping. What should you do?
+	(Wake the player up and continue with the meeting.)
+[Yeo Jung]Yeo Jung hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
+	Don't push yourself too hard. There are a lot of matches left.
+
+[Yeo Jung]You find Yeo Jung depressed for not playing well during the match. Let's cheer her up.
+	It's not your fault that you fell during the match. Don't worry about it!
+[Yeo Jung]Yeo Jung is questioning your promise to make the best team ever. It's time to redeem yourself.
+	Don't be all negative because there were some mistakes. You're a precious part of this team.
+[Yeo Jung]You come across Yeo Jung being lost and wandering around while going back to the lodging. Let's talk to her.
+	Don't use that ability on the field...
+[Yeo Jung]Yeo Jung is asking about your thoughts on meeting an extraterrestrial being. Let's give her an answer.
+	Stay by my side and make sure I don't make any mistakes, will you?
+[Yeo Jung]Yeo Jung is having trouble with continuing nightmares. Let's talk to her.
+	I'll sleep by your side tonight.
+[Yeo Jung]Yeo Jung is stressed out saying her opponent has the upper ground on every aspect. What should we do?
+	It's not your fault. It's your mistakes that took the opponents off guard.
+[Yeo Jung]Yeo Jung seems to be satisfied with the perfect team work. Let's talk to her.
+	Perfect! No mistakes made!
+[Yeo Jung]You come across Yeo Jung who is limping. She says it's nothing. What should we do?
+	I think I'll get injured too if you're on the field. Please sit on the bench.
+[Yeo Jung]You visit Marilyn's house and see Hildegard eating ramen.
+	Ramen, that's a dangerous food to cook.
+[Yeo Jung]You're watching the storm with Yeo Jung and you spot Princess Meiran taking a walk while humming.
+	She shines even in the darkest storms! How gorgeous!
+[Yeo Jung]Yeo Jung looks nervous because the team will be moving to the planet where the next match will be held by taking a space shuttle without the help of Littre.
+	Did you prepare your meds in case you get space-sick? Never mind, I'll prepare the meds.
+[Yeo Jung]Yeo Jung's opponent is smiling whenever they confront each other on the field. Yeo Jung seems to be nervous. Let's talk to her.
+	I think that player likes you.
+[Yeo Jung]Baltheon, who was upset when he was asked about his past, suddenly started to feel better when he saw Yeo Jung.
+	You saved us all from that awkward moment by tripping on your own foot.
+[Yeo Jung]The members of Siena Celtron are furiously searching the stadium for Kuma.
+	Kuma alert! Get back to the shelter!
+[Yeo Jung]The game ended as a tie, but it seems that the competition between Yeo Jung and her opponent isn't over yet.
+	Hey! The match is over!
+[Yeo Jung]The team will be cleaning up the lodging. What will you have Yeo Jung do?
+	(Let her clean, but warn her not to cause any trouble.)
+[Yeo Jung]The opponent team is spreading rumors that they lost because your team played dirty. What should we do?
+	Well, you did get ''dirty'' by falling in the dirt.
+[Yeo Jung]A player on the other team says soccer became enjoyable after confronting Yeo Jung. What should you say?
+	Well, you're as cute as Yeo Jung.
+[Yeo Jung]Yeo Jung is angry about the opponent's resilient attack on you. What should we say?
+	Don't come over here! It's dangerous!
+[Yeo Jung]Latios is chatting with Yeo Jung after the match. Let's barge in.
+	Don't you think about sneaking her out. She's our pretty girl.
+
 [Yeon]Yeon says she's the center of the team and asks if you agree with her. How should we answer?
 	Of course! Everybody is counting on you!
 [Yeon]Yeon asks you about your plans after winning the Galaxy League. Let's give her a sincere answer.
@@ -29599,6 +29927,88 @@
 	It's not you to be kind to everybody. Just go and say no.
 [Yeon]Yeon is teasing her opponent that is having a hard time chasing her. What should we do?
 	What are you going to do when that player falls in love with you?
+
+[Yong Hee]The team made it up to the semi-finals after counting the goal differences. Yong Hee asks how you feel. How should we answer?
+	Wow. I'm sooooo happy.
+[Yong Hee]Yong Hee suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How about we go eat salad? I'm on a diet.
+[Yong Hee]Yong Hee is saying that his teammates are what keeps him going.
+	(Pat him on the head.)
+[Yong Hee]Yong Hee has shown outstanding performance on both the offensive and defensive side. He is asking for your evaluation on his plays. Let's give him an answer.
+	I hope you'd stop sharing small talks with your opponents on the field.
+[Yong Hee]As Yong Hee said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to him.
+	I'm sure it's going in a good direction.
+[Yong Hee]The crowd is cheering for Yong Hee. Yong Hee seems to find this situation new and a bit uncomfortable. Let's help him out.
+	They know you gave everything you got. It was spectacular.
+[Yong Hee]Yong Hee is impressed by the help he received from the elementals. Let's talk to him.
+	I am so thankful to them.
+[Yong Hee]Yong Hee was watching penguins play soccer and suddenly decided to raise a pet penguin himself. Let's talk to him.
+	Oh, that'll be so cute!
+[Yong Hee]The team will not have a match for some time. Yong Hee asks you about your plan.
+	Hmm, wanna go shopping?
+[Yong Hee]It's a very intense match and Yong Hee falls on the ground, but a player on the other team helps Yong Hee up and the two exchange smiles.
+	That player must have a heart of gold.
+[Yong Hee]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	That's a sad story. I'm tearing up.
+[Yong Hee]You're walking in a narrow ally and come across Yong Hee having an intense staring contest with the captain of the opposing team. What should we say?
+	How about solving this with a game of rock, scissors, paper?
+[Yong Hee]Yong Hee is surrounded by fans and seems to be overwhelmed. Let's talk to him.
+	Should've practiced that autograph like I told you.
+[Yong Hee]Yong Hee scored a hat trick and led the team to a complete victory! Congratulate him!
+	Hmm? Didn't we win the game when we scored the first goal?
+[Yong Hee]A player on the other side is on the field with his arms tied up. Let's talk about this with Yong Hee.
+	It hurts when the whip first crackles. And the pain just keeps ramping up.
+[Yong Hee]Yong Hee falls to the ground after clashing with the opponent. What should we say to him?
+	Well, let's start by dropping that player's HP to 1.
+[Yong Hee]Yong Hee lost to the opponent and fell to the ground. What should we do?
+	This doesn't look good...Can anybody give him some heals?
+[Yong Hee]You come across Sammy while walking the street with Yong Hee. Let's talk to her.
+	Do you also do fortune telling? I think I'm in love.
+[Yong Hee]Lynia is cleaning the streets with the members of Jeneva Crew. Yong Hee is curious and wants to take a look.
+	They must love volunteer work!
+[Yong Hee]Yong Hee brought a drink that he says he received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	The drink looks really scary...But we can't just throw it away...
+
+[Yong Hee]Yong Hee is worried about the team's poor performance. Let's go talk to him.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Yong Hee]Yong Hee is curious about the Galaxy League. What answer will help him?
+	It's the place of dreams colliding.
+[Yong Hee]Yong Hee wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Yong Hee]Yong Hee is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	Yeah, I understand you. Soccer is so much fun!
+[Yong Hee]Yong Hee is asking what to buy in the souvenir shop. Let's give him an opinion.
+	Gate Keeper dolls! Why not!
+[Yong Hee]Yong Hee is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Yong Hee]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Yong Hee]Yong Hee says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Yong Hee]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Yong Hee]Yong Hee seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Yong Hee]Ogre's pony tail slapped Yong Hee in the face!
+	That must hurt.
+[Yong Hee]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Yong Hee]Yong Hee is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Yong Hee]Yong Hee says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Yong Hee]Yong Hee says he forgot to use his skill points before entering the match. What should we say to him?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Yong Hee]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Yong Hee]Yong Hee picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Yong Hee]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Yong Hee]Yong Hee is irritated because his opponent has the attribute advantage over him.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Yong Hee]Yong Hee thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
 
 [Yumi]The team made it up to the semi-finals after counting the goal differences. Yumi asks how you feel. How should we answer?
 	This is where things get serious. We're going for the win!
