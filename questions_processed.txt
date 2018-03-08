@@ -5492,87 +5492,87 @@
 [Danbi]Danbi thinks Nana on the other team actually isn't a raccoon.
 	Isn't that the same with all other beastmen?
 
-[Darin]Still looking pretty heated up by the match, Darin is asking how he did in the match.
-	You were picking the other team apart! It was awesome!
-[Darin]Darin looks excited as he's talking with the team about pets. He turns around and asks you what kind of pet you like.
-	I like puppies. The loyal ones!
-[Darin]You come across Darin thinking about the value of soccer. What should we tell him?
-	I feel something when I overpower my opponents on the field.
-[Darin]Darin is having trouble focusing on the match because of the affectionate emotion he feels. He says he must leave now to propose to his lover. What should we say?
-	You don't need to be the one being dragged around.
-[Darin]Darin blushes up and tells you that he's happy he can play soccer with you. What should we tell him?
-	*Smiles bitterly*
-[Darin]Darin is asking for special training sessions because he's not satisfied with today's performance. What should we tell him?
-	Sure. Let's get on to it.
-[Darin]Darin did his best, but he failed to achieve the results he wanted and looks sad. We should say something to him.
-	Sorry, I feel that this is on me.
-[Darin]Darin is asking you about what you like besides soccer.
-	Rugby, a sport of strength!
-[Darin]Darin feels his heart races when he sees Littre.
-	...That's not a rabbit.
-[Darin]Kuma is caught sneaking in the woman's locker room once again. We should talk with Darin about what to do with him.
-	Let's make him put on Ogre's underwear.
-[Darin]Darin continues to charge into the opponent's defense line and keeps failing. What should we do?
-	(Guide him by kicking the ball toward the weak link in the opponent's defense.)
-[Darin]Darin is being annoying with his offensive words. What should we do?
-	(Ignore it.)
-[Darin]It's dinner time and Darin is staring at his carrot soup with a troubled look. What should we do?
-	(Eat it instead of him.)
-[Darin]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Darin to do?
-	Wake them up. Kick them if you need to.
-[Darin]Darin says that the soup tastes funny. What should we do?
-	We shouldn't throw away food. Let's give it to somebody else.
-[Darin]Darin is furious about the referee that's clearly favoring the other team. Should we stop him?
-	(Step on the referee's foot and pretend it was an accident.)
-[Darin]It suddenly began to rain heavily. You see Darin running up ahead.
-	(Let him steal your umbrella.)
-[Darin]You witnessed a player on the other side putting a tack in Darin's shoe.
-	(Tell Darin who did this.)
-[Darin]During the team meeting, you find a player sleeping. What should you do?
-	(Leave it to Darin.)
-[Darin]Darin hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
-	Okay. You make them pay, understand?
+[Darin]Darin is worried about the team's poor performance. Let's go talk to him.
+	Everybody is not at 100%. But, I think we'll do better sooner or later.
+[Darin]Darin is curious about the Galaxy League. What answer will help him?
+	It's the place of dreams colliding.
+[Darin]Darin wants to hear about your plans on training the new players. What should we answer?
+	Why don't you join them and find out?
+[Darin]Darin is being sentimental about how soccer, which was supposed to be a one time thing, became his life. Let's talk with him.
+	Yeah, I understand you. Soccer is so much fun!
+[Darin]Darin is asking what to buy in the souvenir shop. Let's give him an opinion.
+	Gate Keeper dolls! Why not!
+[Darin]Darin is asking who you think of first when you win a match. Let's answer.
+	My fans!
+[Darin]This match will be held on Earth. We still have some time. What do you want to do?
+	Well, I could show you around and introduce you to the things on Earth.
+[Darin]Darin says that Hiro, a member of the Einherjar, doesn't remember why he was revived.
+	He'll remember someday.
+[Darin]The rain has messed up the field and the enemy team seems to be determined to crush your team.
+	Well, if it's a muddy dog fight they want, let's give it to them!
+[Darin]Darin seems to be curious about Bora's covered eye. What should we answer?
+	I don't know much about her, but she looks strong.
+[Darin]Ogre's pony tail slapped Darin in the face!
+	That must hurt.
+[Darin]It's a throwing chance, but the opponent team player suddenly jumps in joy saying his baby brother is born. What should you do?
+	Wow, congratulations! (Claps)
+[Darin]Darin is suddenly showing massive improvement in his performance. He must've learned something during a match.
+	Impressive! You're the ace of this team now!
+[Darin]Darin says that the Swirlies are missing.
+	They have wings so I'm sure they flew away.
+[Darin]Darin says he forgot to use his skill points before entering the match. What should we say to him?
+	Well, we can't do anything about that right now. Let's focus more on passing the ball.
+[Darin]You witness Fontus, the most violent and powerful creature in the universe, flying the night sky in a Santa costume.
+	...The stress has finally got to him. It must be that...
+[Darin]Darin picked up a diary. It says Bell on the cover.
+	Oh, I'm sure going to read this! That's a joke, of course...
+[Darin]Sorrow suddenly flies off after seeing a shiny object in the sky.
+	A crow?!
+[Darin]Darin is irritated because his opponent has the attribute advantage over him.
+	It's not even a rainbow swirly match. Let's just play for now.
+[Darin]Darin thinks Nana on the other team actually isn't a raccoon.
+	Isn't that the same with all other beastmen?
 
-[Darin]Darin is looking excited and asks how the match went.
-	They were a worthy opponent.
-[Darin]This was the worst game in your entire life...Darin comes to you to cheer you up.
-	Thanks. You always know how to get me back on my feet.
-[Darin]You're talking to Darin about what you would do if the world ends tomorrow. Let's tell him your answer.
-	I would say goodbye to all my friends.
-[Darin]Darin is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to him.
-	I'm sure everybody is feeling the same way you feel.
-[Darin]Darin is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give him some advice.
-	Let's make that our goal and make it happen.
-[Darin]Darin isn't pleased with the team's recent plays. He feels that the plays have become somewhat repetitive and dull.
-	Let's all talk together and figure out what the problem is.
-[Darin]With back to back matches, the team is exhausted. Let's talk to Darin for solutions.
-	I guess it's time the benchwarmers get a chance.
-[Darin]The team manager ran away with all of the team's money. What should we do?
-	Let's ask for help to the League officials on this planet.
-[Darin]You were taking a walk in the Nadir forest with Darin and came across Enthia standing in the middle of a burnt part of the forest. 
-	Let's give her some space.
-[Darin]Nari is dancing and singing a song about the galaxy.
-	This proves that even the aliens like Nari.
-[Darin]According to Darin's words, Tyler went to school 1 year earlier than William.
-	I thought they were just friends.
-[Darin]Darin thinks he knows who Lynbell's brother is. What should we do?
-	First, let's look for a way to bring him back to normal. 
-[Darin]Darin won a trip around the world from a radio event!
-	Hmm, come back to me with a vacation plan.
-[Darin]Darin suggests that we visit the Celestial Castle, which is a place that the baby angels live.
-	That would be wonderful! I'll go ask for permission.
-[Darin]The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
-	Let's see what you have to say after the match.
-[Darin]You're sick and in bed when Darin and the teammates come to cheer you up. What will your response be?
-	I'm sorry...I should be giving you guys some tea or something, but...
-[Darin]The match and the concert that Darin was looking for start at the same time...
-	I'm sorry that you couldn't go.
-[Darin]Darin wonders why Castor twitches whenever he sees Beatrice.
-	Long ago, he was disgraceful towards a dragon emissary.
-[Darin]MX54 Butcher is closing in on a cat with a suspicious smile.
-	Excuse me, but do you have an appointment with that cat?
-[Darin]The match started and Darin is standing still doing nothing.
-	Looks like we'll have to do without him.
+[Darin]Darin says he's the center of the team and asks if you agree with him. How should we answer?
+	Of course! Everybody is counting on you!
+[Darin]Darin asks you about your plans after winning the Galaxy League. Let's give him a sincere answer.
+	I want to see everybody smile. I think that'll make me happy.
+[Darin]Darin is getting suspicious about how all the Gate Keepers are in the form of different animals.
+	I'd like to keep one as a pet.
+[Darin]Darin looks excited to see a comet shower, which is a rare sight. What should we say to him?
+	Where do you think those comets are going?
+[Darin]Darin says he's having trouble dealing with the young players. Let's give him an answer.
+	Yeah, I mean they could get hurt.
+[Darin]Darin wants to know what the Swirlies really are. Give him an answer.
+	I'm planning to make a whole line of merchandise with them as the character.
+[Darin]Darin is saying that the universe needs more than stars to brighten it up. Let's talk to him.
+	Life is a light of its own.
+[Darin]Darin says he was cornered by the team which was devastated by the loss streak.
+	Just hear them out and smile. They'll feel better.
+[Darin]Darin says that Bell seemed depressed when he told Bell that Minerva's throne is empty.
+	I sense that there's something she hasn't told us yet...
+[Darin]Darin seems to get along with the opponent player. What should we tell him?
+	Congratulations! How did you guys get along?
+[Darin]Darin is deeply focused on Jill's diet story. What should we do?
+	You're playing soccer! You're fine!
+[Darin]Darin says he's going to meet up with Kiki and asks if you have any questions.
+	Tell her to be our lap cat.
+[Darin]Kei and Virgil are fighting again and Darin seems to be troubled. What should we do?
+	If you guys keep giving Darin trouble, I swear to god I'll use you both as special training material.
+[Darin]Darin is having a delightful chat with a girl that's holding a turtle. 
+	She seems like a nice girl.
+[Darin]Darin went to take a look at the opponent team and got caught. What should we do?
+	Darin is in danger! We have to save him!
+[Darin]Darin claims he saw Sophie of team Atlanta coming out of the men's room. What could be the case?
+	She must've made a mistake.
+[Darin]Darin seems very nervous to confront Kei of the Rescuer.
+	We can do this! Let's go!
+[Darin]Darin says that the captain of team Scout Entry seems to take good care of the team members.
+	Yeah, they get along pretty well.
+[Darin]You enter the lodging feeling lonely on your birthday. The team greets you with a surprise and Darin hands you a present.
+	(A cute and pretty pendant)
+[Darin]Darin says that he thinks Alkyde looks at Fontus in a funny way. Let's give him an answer.
+	I think she likes him.
 
 [Death Queen]The team made it up to the semi-finals after counting the goal differences. Death Queen asks how you feel. How should we answer?
 	This is where things get serious. We're going for the win!
@@ -18529,6 +18529,88 @@
 	Can you peel this guy off of me?
 [Mikel]Latios is chatting with Mikel after the match. Let's barge in.
 	I'm looking forward to our next match!
+
+[Milena]Still looking pretty heated up by the match, Milena is asking how she did in the match.
+	You were picking the other team apart! It was awesome!
+[Milena]Milena looks excited as she's talking with the team about pets. She turns around and asks you what kind of pet you like.
+	I like puppies. The loyal ones!
+[Milena]You come across Milena thinking about the value of soccer. What should we tell her?
+	I feel something when I overpower my opponents on the field.
+[Milena]Milena is having trouble focusing on the match because of the affectionate emotion she feels. She says she must leave now to propose to her lover. What should we say?
+	You don't need to be the one being dragged around.
+[Milena]Milena blushes up and tells you that she's happy she can play soccer with you. What should we tell her?
+	*Smiles bitterly*
+[Milena]Milena is asking for special training sessions because she's not satisfied with today's performance. What should we tell her?
+	Sure. Let's get on to it.
+[Milena]Milena did her best, but she failed to achieve the results she wanted and looks sad. We should say something to her.
+	Sorry, I feel that this is on me.
+[Milena]Milena is asking you about what you like besides soccer.
+	Rugby, a sport of strength!
+[Milena]Milena feels her heart races when she sees Littre.
+	...That's not a rabbit.
+[Milena]Kuma is caught sneaking in the woman's locker room once again. We should talk with Milena about what to do with him.
+	Let's make him put on Ogre's underwear.
+[Milena]Milena continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Guide her by kicking the ball toward the weak link in the opponent's defense.)
+[Milena]Milena is being annoying with her offensive words. What should we do?
+	(Ignore it.)
+[Milena]It's dinner time and Milena is staring at her carrot soup with a troubled look. What should we do?
+	(Eat it instead of her.)
+[Milena]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Milena to do?
+	Wake them up. Kick them if you need to.
+[Milena]Milena says that the soup tastes funny. What should we do?
+	We shouldn't throw away food. Let's give it to somebody else.
+[Milena]Milena is furious about the referee that's clearly favoring the other team. Should we stop her?
+	(Step on the referee's foot and pretend it was an accident.)
+[Milena]It suddenly began to rain heavily. You see Milena running up ahead.
+	(Let her steal your umbrella.)
+[Milena]You witnessed a player on the other side putting a tack in Milena's shoe.
+	(Tell Milena who did this.)
+[Milena]During the team meeting, you find a player sleeping. What should you do?
+	(Leave it to Milena.)
+[Milena]Milena hurt her leg during the 1st half of the match, but she insists on playing. What should we tell her?
+	Okay. You make them pay, understand?
+
+[Milena]The team made it up to the semi-finals after counting the goal differences. Milena asks how you feel. How should we answer?
+	What, are you expecting something like ''I feel like I can fly'' or something?
+[Milena]Milena suggests that we have a team dinner to lighten things up. What will be your reaction?
+	How could you think about eating at a time like this? I'm disappointed in you.
+[Milena]Milena is saying that her teammates are what keeps her going.
+	(Just nod your head.)
+[Milena]Milena has shown outstanding performance on both the offensive and defensive side. She is asking for your evaluation on her plays. Let's give her an answer.
+	You always seem to find the weak point of the opponent's defense and I love that.
+[Milena]As Milena said, the universe is facing a new course of destiny because of the Galaxy League. Let's talk to her.
+	I feel like the universe is heading towards chaos.
+[Milena]The crowd is cheering for Milena. Milena seems to find this situation new and a bit uncomfortable. Let's help her out.
+	How about just accepting the compliments for today?
+[Milena]Milena is impressed by the help she received from the elementals. Let's talk to her.
+	The only problem is that they take up a lot of space in the inventory.
+[Milena]Milena was watching penguins play soccer and suddenly decided to raise a pet penguin herself. Let's talk to her.
+	It would be good to have one of each color, and when they're all grown up...Make 'em into a good meal!
+[Milena]The team will not have a match for some time. Milena asks you about your plan.
+	I have a very hard training session all planned up for everybody.
+[Milena]It's a very intense match and Milena falls on the ground, but a player on the other team helps Milena up and the two exchange smiles.
+	Guess the match isn't that tough for you, huh?
+[Milena]The next opponent is the Lab Rat Entry. You hear that all of the players on the other team are victims of experiments and this makes you feel uncomfortable.
+	I feel bad for them, but that's no excuse for throwing the game.
+[Milena]You're walking in a narrow ally and come across Milena having an intense staring contest with the captain of the opposing team. What should we say?
+	...I see two idiots standing in front of me...
+[Milena]Milena is surrounded by fans and seems to be overwhelmed. Let's talk to her.
+	I hope this won't affect your performance on the field.
+[Milena]Milena scored a hat trick and led the team to a complete victory! Congratulate her!
+	That was awesome! I'm looking forward to seeing more of that!
+[Milena]A player on the other side is on the field with his arms tied up. Let's talk about this with Milena.
+	He still has his two legs functioning. I see no problem with that.
+[Milena]Milena falls to the ground after clashing with the opponent. What should we say to her?
+	If that's all you've got, just stay down. It's okay.
+[Milena]Milena lost to the opponent and fell to the ground. What should we do?
+	Well, this could all have been prevented if you just consumed those Swirlies like I told you...
+[Milena]You come across Sammy while walking the street with Milena. Let's talk to her.
+	(Ignore.)
+[Milena]Lynia is cleaning the streets with the members of Jeneva Crew. Milena is curious and wants to take a look.
+	We should probably ignore them and just walk by.
+[Milena]Milena brought a drink that she says received from the coach on the other team. It looks very suspicious especially with the dark fumes coming out of it.
+	Throw it away. NOW.
 
 [Milky Way]The team made it up to the semi-finals after counting the goal differences. Milky Way asks how you feel. How should we answer?
 	Wow. I'm sooooo happy.
