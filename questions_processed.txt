@@ -5492,6 +5492,88 @@
 [Danbi]Danbi thinks Nana on the other team actually isn't a raccoon.
 	Isn't that the same with all other beastmen?
 
+[Darin]Still looking pretty heated up by the match, Darin is asking how he did in the match.
+	You were picking the other team apart! It was awesome!
+[Darin]Darin looks excited as he's talking with the team about pets. He turns around and asks you what kind of pet you like.
+	I like puppies. The loyal ones!
+[Darin]You come across Darin thinking about the value of soccer. What should we tell him?
+	I feel something when I overpower my opponents on the field.
+[Darin]Darin is having trouble focusing on the match because of the affectionate emotion he feels. He says he must leave now to propose to his lover. What should we say?
+	You don't need to be the one being dragged around.
+[Darin]Darin blushes up and tells you that he's happy he can play soccer with you. What should we tell him?
+	*Smiles bitterly*
+[Darin]Darin is asking for special training sessions because he's not satisfied with today's performance. What should we tell him?
+	Sure. Let's get on to it.
+[Darin]Darin did his best, but he failed to achieve the results he wanted and looks sad. We should say something to him.
+	Sorry, I feel that this is on me.
+[Darin]Darin is asking you about what you like besides soccer.
+	Rugby, a sport of strength!
+[Darin]Darin feels his heart races when he sees Littre.
+	...That's not a rabbit.
+[Darin]Kuma is caught sneaking in the woman's locker room once again. We should talk with Darin about what to do with him.
+	Let's make him put on Ogre's underwear.
+[Darin]Darin continues to charge into the opponent's defense line and keeps failing. What should we do?
+	(Guide him by kicking the ball toward the weak link in the opponent's defense.)
+[Darin]Darin is being annoying with his offensive words. What should we do?
+	(Ignore it.)
+[Darin]It's dinner time and Darin is staring at his carrot soup with a troubled look. What should we do?
+	(Eat it instead of him.)
+[Darin]It's early in the morning and there are players that are having trouble waking up for the morning training. What should we tell Darin to do?
+	Wake them up. Kick them if you need to.
+[Darin]Darin says that the soup tastes funny. What should we do?
+	We shouldn't throw away food. Let's give it to somebody else.
+[Darin]Darin is furious about the referee that's clearly favoring the other team. Should we stop him?
+	(Step on the referee's foot and pretend it was an accident.)
+[Darin]It suddenly began to rain heavily. You see Darin running up ahead.
+	(Let him steal your umbrella.)
+[Darin]You witnessed a player on the other side putting a tack in Darin's shoe.
+	(Tell Darin who did this.)
+[Darin]During the team meeting, you find a player sleeping. What should you do?
+	(Leave it to Darin.)
+[Darin]Darin hurt his leg during the 1st half of the match, but he insists on playing. What should we tell him?
+	Okay. You make them pay, understand?
+
+[Darin]Darin is looking excited and asks how the match went.
+	They were a worthy opponent.
+[Darin]This was the worst game in your entire life...Darin comes to you to cheer you up.
+	Thanks. You always know how to get me back on my feet.
+[Darin]You're talking to Darin about what you would do if the world ends tomorrow. Let's tell him your answer.
+	I would say goodbye to all my friends.
+[Darin]Darin is worried about all of the powerful beings that will be competing in the Galaxy League. Let's say something to him.
+	I'm sure everybody is feeling the same way you feel.
+[Darin]Darin is training hard to become scouted like the players that moved to teams that offered better conditions. Let's give him some advice.
+	Let's make that our goal and make it happen.
+[Darin]Darin isn't pleased with the team's recent plays. He feels that the plays have become somewhat repetitive and dull.
+	Let's all talk together and figure out what the problem is.
+[Darin]With back to back matches, the team is exhausted. Let's talk to Darin for solutions.
+	I guess it's time the benchwarmers get a chance.
+[Darin]The team manager ran away with all of the team's money. What should we do?
+	Let's ask for help to the League officials on this planet.
+[Darin]You were taking a walk in the Nadir forest with Darin and came across Enthia standing in the middle of a burnt part of the forest. 
+	Let's give her some space.
+[Darin]Nari is dancing and singing a song about the galaxy.
+	This proves that even the aliens like Nari.
+[Darin]According to Darin's words, Tyler went to school 1 year earlier than William.
+	I thought they were just friends.
+[Darin]Darin thinks he knows who Lynbell's brother is. What should we do?
+	First, let's look for a way to bring him back to normal. 
+[Darin]Darin won a trip around the world from a radio event!
+	Hmm, come back to me with a vacation plan.
+[Darin]Darin suggests that we visit the Celestial Castle, which is a place that the baby angels live.
+	That would be wonderful! I'll go ask for permission.
+[Darin]The opponent team barges into the field and mocks your team saying your team is better off playing foot volleyball.
+	Let's see what you have to say after the match.
+[Darin]You're sick and in bed when Darin and the teammates come to cheer you up. What will your response be?
+	I'm sorry...I should be giving you guys some tea or something, but...
+[Darin]The match and the concert that Darin was looking for start at the same time...
+	I'm sorry that you couldn't go.
+[Darin]Darin wonders why Castor twitches whenever he sees Beatrice.
+	Long ago, he was disgraceful towards a dragon emissary.
+[Darin]MX54 Butcher is closing in on a cat with a suspicious smile.
+	Excuse me, but do you have an appointment with that cat?
+[Darin]The match started and Darin is standing still doing nothing.
+	Looks like we'll have to do without him.
+
 [Death Queen]The team made it up to the semi-finals after counting the goal differences. Death Queen asks how you feel. How should we answer?
 	This is where things get serious. We're going for the win!
 [Death Queen]Death Queen suggests that we have a team dinner to lighten things up. What will be your reaction?
